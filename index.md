@@ -3,7 +3,7 @@
 <a href="https://cx7.dev/research/security.html" target="_blank" rel="noopener noreferrer">about</a> \| 
 <a href="https://cx7.dev/research/policy.html" target="_blank" rel="noopener noreferrer">contact</a> 
 
-# Avsec: aviation + security + <3
+# *Angles Of Attack: aviation + security + <3* 
 
 -----
 -----
