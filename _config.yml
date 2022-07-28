@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-logo: disesdi.github.io/aoa1.jpg
+logo: cx7-dev.github.io/cx7_columns_taurus22s_transparent.png
 
 title: Angles Of Attack
 
