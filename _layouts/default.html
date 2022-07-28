@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+    
+    <style>
+      
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 5px;
+}
+</style>
+    
+  </head>
+  <body>
+    
+    <div class="wrapper">
+      <header>
+        <!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
+
+        <!--{% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}-->
+        
+        {% if site.logo %}
+          <a href="https://cx7.dev"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
+        {% endif %}
+  
+        <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      
+      
+     <div class="fixed"><a href="https://cx7.dev/contact.html" target="_blank" rel="noopener noreferrer">
+        <img src="https://cx7-dev.github.io/pink_gameboy_transparent.png" alt="link to contact" width="75" height="75">
+        </a><a href="https://cx7.dev/research/home.html">
+        <img src="https://cx7-dev.github.io/strawberry_cake_transparent.png" alt="link to research" width="75" height="75">
+        </a><a href="https://github.com/cx7-dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://cx7-dev.github.io/pixel_retro_folder_icon_transparent.png" alt="link to cx7 github" width="75" height="75">
+        </a><a href="https://twitter.com/cx7_dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://cx7-dev.github.io/strawberry_milk_transparent.png" alt="link to cx7 twitter" width="75" height="75">
+        </a>
+      </div>
+  
+      
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <!--{% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
+       
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
