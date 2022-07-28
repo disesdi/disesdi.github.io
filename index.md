@@ -1,10 +1,7 @@
-
-# [heading](www.google.com)
+# heading
 
 some words
 
-## sub heading
+## [link subheading](https://www.google.com)
 
-[link](www.google.com)
-
-
+more words
