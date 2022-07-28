@@ -1,7 +1,3 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
 
-logo: disesdi.github.io/aoa1-2.jpg
 title: Angles Of Attack
 description: Avsec <3
