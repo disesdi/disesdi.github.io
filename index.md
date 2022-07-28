@@ -1,11 +1,10 @@
 
+# [heading](www.google.com)
 
- # [heading](www.google.com)
+some words
 
-  some words
+## sub heading
 
-  ## sub heading
-
-  [link](www.google.com)
+[link](www.google.com)
 
 
