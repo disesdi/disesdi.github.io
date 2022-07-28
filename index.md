@@ -5,7 +5,7 @@
 
 -----
 
-# AvSec: aviation security. The art, science & technology of keeping aviation secure.
+# AvSec <3
 
 -----
 
