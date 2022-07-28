@@ -1,5 +1,5 @@
 
-<p align="center">!
+
 
   [aoa1-2](https://user-images.githubusercontent.com/110150470/181589071-aaaec253-85cd-4520-b17e-f460f4313a9e.jpg)
 
@@ -11,5 +11,4 @@
 
   [link](www.google.com)
 
-</p>
 
