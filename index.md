@@ -2,13 +2,12 @@
 home \| <a href="https://cr1.dev/about.html" target="_blank" rel="noopener noreferrer">about</a> \| 
 <a href="https://cr1.dev/contact.html" target="_blank" rel="noopener noreferrer">contact</a> 
 
--------
 
 # Angles Of Attack
 
 -------
 
-aviation + cybersecurity + <3
+A blog about aviation + cybersecurity + <3
 
 -------
 
