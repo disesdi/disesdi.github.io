@@ -1,6 +1,6 @@
 
 <a href="https://disesdi.github.io/" target="_blank" rel="noopener noreferrer">home</a> \| 
-<a href="https://cx7.dev/research/security.html" target="_blank" rel="noopener noreferrer">about</a> \| 
+### about \| 
 <a href="https://cx7.dev/research/policy.html" target="_blank" rel="noopener noreferrer">contact</a>
 
 -----
@@ -12,10 +12,14 @@ Angles Of Attack is a blog about aviation & cybersecurity.
 It's written by me, [Disesdi](https://cr1.dev/contact.html). I'm a security engineer & I <3 aviation. 
 
 
-Topics:
+Things I write about:
 
 `avionics`
 
 `ATC` 
 
-`policy`  `US`  [`FAA`](https://google.com)
+`policy`  
+
+`US`  
+
+[`FAA`](https://google.com)
