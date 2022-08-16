@@ -9,8 +9,6 @@
 
 2022.04.05
 
-## also this <3
-
 
 ### [Pre-Soviet Trajectories for Digital Warfare: Situating the Early 2022 Ukraine Cyber Attacks Within Russian-Leninist Information Warfare Analysis >>](https://cx7.dev/papers/1_PreSoviet_IW_Cox.html) 
 
