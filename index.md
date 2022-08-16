@@ -7,7 +7,7 @@ home \| <a href="https://cr1.dev/about.html" target="_blank" rel="noopener noref
 
 -------
 
-A blog about aviation + cybersecurity + <3
+## A blog about aviation + cybersecurity + <3
 
 -------
 
