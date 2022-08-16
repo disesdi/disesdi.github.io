@@ -4,6 +4,8 @@ home \| <a href="https://cr1.dev/about.html" target="_blank" rel="noopener noref
 
 -------
 
+# Angles Of Attack: AvSec++
+
 ### [A "New Monroe Doctrine" for the Law of Armed Conflict (LOAC) and the Use of Force in Cyberspace: Colonial Interests, US & Russian Expansionism, and The United States Doctrine >>](https://cx7.dev/papers/2_New_Monroe_Doctrine_Cox.html) 
 
 2022.04.05
