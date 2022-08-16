@@ -1,6 +1,5 @@
 
-<a href="https://disesdi.github.io/" target="_blank" rel="noopener noreferrer">home</a> \| 
-### about \| 
+<a href="https://disesdi.github.io/" target="_blank" rel="noopener noreferrer">home</a> \| #### about \| 
 <a href="https://cx7.dev/research/policy.html" target="_blank" rel="noopener noreferrer">contact</a>
 
 -----
