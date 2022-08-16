@@ -4,7 +4,7 @@
 
 -----
 
-## AvSec: the intersection of aviation & security
+# AvSec: the intersection of aviation & security
 
 Angles Of Attack is a blog about aviation & cybersecurity. 
 
