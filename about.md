@@ -9,12 +9,13 @@
 
 Angles Of Attack is a blog about aviation & cybersecurity. 
 
-It's written by me, Disesdi. I'm a security engineer with a passion for aviation. 
+It's written by me, [Disesdi](https://cr1.dev/contact.html). I'm a security engineer & I <3 aviation. 
 
-My contact info is [here](https://cr1.dev/contact.html).
 
 Topics:
 
 `avionics`
+
 `ATC` 
+
 `policy`  `US`  [`FAA`](https://google.com)
