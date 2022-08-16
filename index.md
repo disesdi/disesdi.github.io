@@ -6,8 +6,6 @@ home \| <a href="https://cr1.dev/about.html" target="_blank" rel="noopener noref
 
 # Angles Of Attack
 
--------
-
 ### aviation + cybersecurity ++
 
 -------
