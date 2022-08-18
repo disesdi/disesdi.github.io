@@ -14,14 +14,4 @@ It's written by me, [Disesdi](https://cr1.dev/contact.html). I'm a security engi
 
 -----
 
-### What I write about:
 
-> `avionics`
-
-> `atc` 
-
-> `policy`  
-
-> `united states`  
-
-> [`FAA`](https://google.com)
