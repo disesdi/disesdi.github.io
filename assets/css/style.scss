@@ -27,27 +27,27 @@ h3, h4, h5, h6 {
   color:#000000;
 }
 
-// prev a == ff6ec7 pink <3
-// change to match 3c5a7b blue
+// ff6ec7 pink <3
+// 3c5a7b blue
 
 a {
-  color: #3c5a7b;
+  color: #ff6ec7;
   font-weight: bold;
   text-decoration:none;
 }
 
-// prev hover == 9d7bb3 mauve <3
+// 9d7bb3 mauve <3
 
 a:hover, a:focus {
-  color: #ff6ec7;
+  color: #9d7bb3;
 }
 
-// prev a small == ff6ec7 pink <3
-// change to match 3c5a7b blue
+// ff6ec7 pink <3
+// 3c5a7b blue
 
 a small {
   font-size:11px;
-  color:#3c5a7b;
+  color:#ff6ec7;
   margin-top:-0.3em;
   display:block;
 }
