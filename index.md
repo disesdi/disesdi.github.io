@@ -4,8 +4,6 @@ home \| <a href="https://cr1.dev/about.html" target="_blank" rel="noopener noref
 
 -------
 
-# AnglesOfAttack.io
-
 ### aviation + cybersecurity + policy ++
 
 -------
