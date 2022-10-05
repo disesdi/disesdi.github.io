@@ -27,8 +27,11 @@ h3, h4, h5, h6 {
   color:#000000;
 }
 
+// prev a == ff6ec7 pink <3
+// change to match 3c5a7b blue
+
 a {
-  color: #ff6ec7;
+  color: #3c5a7b;
   font-weight: bold;
   text-decoration:none;
 }
@@ -37,9 +40,12 @@ a:hover, a:focus {
   color: #9d7bb3;
 }
 
+// prev a small == ff6ec7 pink <3
+// change to match 3c5a7b blue
+
 a small {
   font-size:11px;
-  color:#ff6ec7;
+  color:#3c5a7b;
   margin-top:-0.3em;
   display:block;
 }
@@ -48,7 +54,9 @@ a:hover small {
   color:#9d7bb3;
 }
 
+// prev strong == 89ecda neon turquoise <3
+
 strong {
-  color:#89ecda;
+  color:#000000;
   font-weight:700;
 }
