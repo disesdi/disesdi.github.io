@@ -50,9 +50,6 @@ A brief background on Ukrainian natural resources, financial reforms, and IMF in
 -----
 
 
-home \| <a href="https://cr1.dev/about.html" target="_blank" rel="noopener noreferrer">about</a> \| 
-<a href="https://cr1.dev/contact.html" target="_blank" rel="noopener noreferrer">contact</a> 
-
 -------
 
 ### aviation + cybersecurity + policy ++
