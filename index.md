@@ -8,7 +8,7 @@
 
 -----
 
-## [Explore research >>](https://cx7.dev/research/home.html)
+## [*Explore research >>*](https://cx7.dev/research/home.html)
 
 -----
 
