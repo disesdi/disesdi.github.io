@@ -12,7 +12,7 @@
 
 -----
 
-# >> Bleeding edge:
+# *>> Bleeding edge:*
 
 ### *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* 
 
