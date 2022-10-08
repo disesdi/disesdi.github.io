@@ -46,12 +46,6 @@ A brief background on Ukrainian natural resources, financial reforms, and IMF in
 
 -------
 
-
------
-
-
--------
-
 ### aviation + cybersecurity + policy ++
 
 -------
