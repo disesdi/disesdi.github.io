@@ -160,7 +160,8 @@ These results are in line with current academic literature,<sup>[20]</sup> and w
 3. Bora Ly & Romny Ly (2021) Cybersecurity in unmanned aerial vehicles (UAVs), Journal of Cyber Security Technology, 5:2, 120-137, DOI: 10.1080/23742917.2020.1846307
 
 
-4. “Cybersecurity Best Practices for Operating Commercial Unmanned Aircraft Systems (UASs).” n.d. CISA. Accessed October 18, 2022. https://www.cisa.gov/sites/default/files/publications/CISA%20Cybersecurity%20Best%20Practices%20for%20Operating%20Commerical%20UAS%20%28508%29.pdf
+4. “Cybersecurity Best Practices for Operating Commercial Unmanned Aircraft Systems (UASs).” n.d. CISA. Accessed October 18, 2022. https://www.cisa.gov/sites/default/files/publications/
+CISA%20Cybersecurity%20Best%20Practices%20for%20Operating%20Commerical%20UAS%20%28508%29.pdf
 
 
 5. Majid, Mamoona, Shaista Habib, Abdul Rehman Javed, Muhammad Rizwan, Gautam Srivastava, Thippa Reddy Gadekallu and Chun-Wei Lin. “Applications of Wireless Sensor Networks and Internet of Things Frameworks in the Industry Revolution 4.0: A Systematic Literature Review.” Sensors (Basel, Switzerland) 22 (2022): n. pag.
