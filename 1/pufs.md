@@ -208,7 +208,7 @@ These results are in line with current academic literature,<sup>[20]</sup> and w
 19. Babaei, Armin and Gregor Schiele. “Physical Unclonable Functions in the Internet of Things: State of the Art and Open Challenges.” Sensors (Basel, Switzerland) 19 (2019): n. pag.
 
 
-20. Ebrahimabadi, Mohammad Haghir, Mohamed F. Younis and Naghmeh Karimi. “A PUF-Based Modeling-Attack Resilient Authentication Protocol for IoT Devices.” IEEE Internet of Things Journal 9 (2022): 3684\-3703.
+20. Ebrahimabadi, Mohammad Haghir, Mohamed F. Younis and Naghmeh Karimi. “A PUF-Based Modeling-Attack Resilient Authentication Protocol for IoT Devices.” IEEE Internet of Things Journal 9 (2022): 3684-3703.
 
 -------
 _______
