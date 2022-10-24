@@ -1,4 +1,4 @@
-[home](https://disesdi.github.io/)|[about](https://disesdi.github.io/about.html)|<a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a>|[contact](https://disesdi.github.io/contact.html)
+[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
 
 
 # Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting 
@@ -106,17 +106,17 @@ Four classifiers were initially trained & made predictions without parameter tun
 
 ***Cohort 1:*** 
 > 
-> Gaussian Naive Bayes
+> * Gaussian Naive Bayes
 >
-> Support Vector Machine
+> * Support Vector Machine
 >
-> XGBoost
+> * XGBoost
 
 ***Cohort 2:***
 >
-> Random Forest *(estimators increased to 99)*
+> * Random Forest *(estimators increased to 99)*
 >
-> XGBoost *(max tree depth increased to 11)*
+> * XGBoost *(max tree depth increased to 11)*
 
 Trained on a publicly-available CRP dataset containing approximately 12,000 rows, models were immediately able to guess accurately over 50% of the time, using out-of-the-box classifiers from the `sklearn` python library.
 
