@@ -22,7 +22,7 @@ PUFs have been proposed as a lightweight drone authentication method resistant t
 
 ### [*#AviationCyber Attack Case Study: Sunwing Airlines 2022>>*](https://disesdi.github.io/2/sunwing_2022.html)
 
-Sunwing Airlines & Airline Choice, April 2022: A Phishing + 3rd Party/Supply Chain Breach In The Aviation Sector [*more >>*](https://disesdi.github.io/2/sunwing_2022.html)
+Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply chain breach in the aviation sector [*more >>*](https://disesdi.github.io/2/sunwing_2022.html)
 
 -------
 
@@ -47,6 +47,8 @@ What’s The Difference Between Safety And Security? [*more >>*](https://disesdi
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/pufs.html)
 
+-------
+
 ### [*Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs >>*](https://disesdi.github.io/1/ics_ensemble.html)
 
 Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [*more >>*](https://disesdi.github.io/ics_ensemble.html)  
@@ -54,6 +56,7 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 -------
 
 ## *>> Other projects:*
+
 -------
 
 ### *<a href="https://cx7.dev/" target="_blank" rel="noopener noreferrer">CX7: AIML, Security, Policy, & People >> </a>*
@@ -69,6 +72,8 @@ Data science, NLProc, and AIML for the culture [*more >>*](https://indigenous.en
 -------
 
 ## *>> Read more:*
+
+-------
 
 ### *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* **2022.04.20**
 
