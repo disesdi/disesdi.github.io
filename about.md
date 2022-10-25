@@ -32,7 +32,7 @@ Technical applications, code & how-tos  [*more >>*](https://disesdi.github.io/en
 
 -------
 
-## *Everything by date [*go >>*](https://disesdi.github.io/by_date.html)*
+## *Everything [by date >>](https://disesdi.github.io/by_date.html)*
 
 -------
 -------
