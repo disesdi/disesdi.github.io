@@ -5,7 +5,7 @@
 -----
 
 
-*Hi, I'm Disesdi. I'm an MSEE (Electrical Engineering) student, with industry experience as an AIML & security engineer. My area of focus is embedded systems. I <3 aviation. [Contact me >>](https://disesdi.github.io/contact.html)*
+*Hi, I'm Disesdi. I'm an electrical engineering student, with industry experience as an AIML & security engineer. My area of focus is embedded systems. I <3 aviation. [*Contact me >>*](https://disesdi.github.io/contact.html)*
 
 ***ᎦᏙᎯ:*** *My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
 
@@ -32,7 +32,7 @@ Technical applications, code & how-tos  [*more >>*](https://disesdi.github.io/en
 
 -------
 
-## *Everything by date [go >>](https://disesdi.github.io/by_date.html)*
+## *Everything by date [*go >>*](https://disesdi.github.io/by_date.html)*
 
 -------
 -------
