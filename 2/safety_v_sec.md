@@ -107,7 +107,7 @@ Source: *["Repairs as the last orderly provided defense of safety in aviation"](
 
 The Swiss Cheese Model is a way of representing how systems can work together, preventing a critical incident from getting past the defenses. The model is a great example of how redundancy and teamwork in aviation play crucial roles in preventing mishaps.
 
-The Swiss Cheese Model is also an example of *[layered security](https://www.ibm.com/docs/en/i/7.3?topic=security-layered-defense-approach)*. <sup>[8]</sup>  
+The Swiss Cheese Model is also an example of *[layered security](https://www.ibm.com/docs/en/i/7.3?topic=security-layered-defense-approach)*.<sup>[8]</sup>  
 
 Layered security is a method for preventing a single point-of-failure in critical systems. The idea goes like this: the more systems working together, the safer the general outcome. It is one of the security world’s versions of *redundancy*.
 
