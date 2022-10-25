@@ -14,7 +14,7 @@
 -----
 
 
-### [*Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>*](https://disesdi.github.io/1/pufs.html)
+### [*Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting >>*](https://disesdi.github.io/1/pufs.html)
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/pufs.html)
 
@@ -40,7 +40,7 @@ What’s The Difference Between Safety And Security? [*more >>*](https://disesdi
 ## *>> Technical & how-to:*
 
 
-### [*Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>*](https://disesdi.github.io/1/pufs.html)
+### [*Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting >>*](https://disesdi.github.io/1/pufs.html)
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/pufs.html)
 
@@ -53,23 +53,24 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 ## *>> Other projects:*
 -------
 
-### *<a href="https://www.cx7.dev/" target="_blank" rel="noopener noreferrer">CX7: AIML, Security, Policy, & People >> </a>*
+### *<a href="https://cx7.dev/" target="_blank" rel="noopener noreferrer">CX7: AIML, Security, Policy, & People >> </a>*
 
-Research at the intersections of AIML, public policy, and public good [*more >>*](https://www.cx7.dev/)
+Research at the intersections of AIML, public policy, and public good [*more >>*](https://cx7.dev/)
 
 
 ### *<a href="https://indigenous.engineering/" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>*
 
 Data science, NLProc, and AIML for the culture [*more >>*](https://indigenous.engineering/)
 
+
 -------
 
 ## *>> Read more:*
 
-### *<a href="https://www.cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* 
+### *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* **2022.04.20**
 
 A practical blueprint for measuring & increasing cyber resiliency of AIML systems in the adversarial Information Warfare environment 
-*<a href="https://www.cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">more >> </a>*
+*<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">more >> </a>*
 
 -------
 -------
