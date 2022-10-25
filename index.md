@@ -66,7 +66,7 @@ Data science, NLProc, and AIML for the culture [*more >>*](https://indigenous.en
 
 ## *>> Read more:*
 
-### *<a href="https://www.cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* **2022.04.20**
+### *<a href="https://www.cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* 
 
 A practical blueprint for measuring & increasing cyber resiliency of AIML systems in the adversarial Information Warfare environment 
 *<a href="https://www.cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">more >> </a>*
