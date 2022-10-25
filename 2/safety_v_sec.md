@@ -3,7 +3,7 @@
 
 # Safety Vs Security: Aviation Culture Meets Cyber
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/20*
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/15*
 
 -------
 
