@@ -2,16 +2,19 @@
 
 
 # Engineering: Technical applications, code & how-tos
------
 
-*[Everything by date >>](https://disesdi.github.io/by_date.html)*
+-------
 
------
+*Everything [by date >>](https://disesdi.github.io/by_date.html)*
+
+-------
 
 
 ### [*Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>*](https://disesdi.github.io/1/pufs.html)
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/pufs.html)
+
+-------
 
 ### [*Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs >>*](https://disesdi.github.io/1/ics_ensemble.html)
 
