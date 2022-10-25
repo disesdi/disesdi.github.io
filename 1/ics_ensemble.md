@@ -39,7 +39,7 @@ Cyberattacks on power grids can take the form of data injections that mimic faul
 In the diagram below, G1 and G2 are power generators. R1 through R4 are Intelligent Electronic Devices (IEDs) that can switch the breakers on or off. 
 
 
-![image.png](attachment:image.png)
+![ics_ensemble_1](https://user-images.githubusercontent.com/110150470/197652921-2f98b627-4d1c-4f43-95d5-f3d286b825cd.png)
 
 *[Image source](http://www.ece.uah.edu/~thm0009/icsdatasets/PowerSystem_Dataset_README.pdf) <sup>[1]</sup>*
 
