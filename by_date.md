@@ -5,7 +5,7 @@
 
 -----
 
-*[Everything by topic >>](https://disesdi.github.io/about.html)*
+*Everything [by subject >>](https://disesdi.github.io/about.html)*
 
 -----
 
