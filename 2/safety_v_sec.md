@@ -19,13 +19,13 @@ In this post I’ll be talking about aviation safety culture, the Swiss Cheese M
 I’ll also 
 
 
-* tell you where you can find aviation safety datasets, 
+* *tell you where you can find aviation safety datasets* 
 
 
-* talk about the interaction between safety and security, and 
+* *talk about the interaction between safety and security,* and 
 
 
-* talk about how cybersecurity culture is complementary to aviation safety.
+* *talk about how cybersecurity culture is complementary to aviation safety.*
 
 
 Let’s go!
