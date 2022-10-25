@@ -102,7 +102,7 @@ The [*Swiss Cheese Model*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117770/
 ![The Swiss cheese model of accident causation (Reason, 1990-1997)](The-Swiss-cheese-model-of-accident-causation-Reason-1990-1997.png "Title")
 
 
-Source: *["Repairs as the last orderly provided defense of safety in aviation"](https://blogs.helsinki.fi/iarminen/files/2010/09/Arminen-et-al.-2010.pdf)<sup>[7]</sup>*
+Source: *["Repairs as the last orderly provided defense of safety in aviation"](https://blogs.helsinki.fi/iarminen/files/2010/09/Arminen-et-al.-2010.pdf)*<sup>[7]</sup>
 
 
 The Swiss Cheese Model is a way of representing how systems can work together, preventing a critical incident from getting past the defenses. The model is a great example of how redundancy and teamwork in aviation play crucial roles in preventing mishaps.
