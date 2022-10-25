@@ -140,7 +140,7 @@ While this particular breach is very recent and it is difficult to know the spec
 
 ## References
 
-1. “phishing - Glossary | CSRC.” n.d. NIST Computer Security Resource Center. Accessed October 20, 2022. https://csrc.nist.gov/glossary/term/phishing.
+1. “phishing - Glossary, CSRC.” n.d. NIST Computer Security Resource Center. Accessed October 20, 2022. https://csrc.nist.gov/glossary/term/phishing.
 
 
 2. “What is a Supply Chain Attack?” 2021. CrowdStrike. https://www.crowdstrike.com/cybersecurity-101/cyberattacks/supply-chain-attacks/.
