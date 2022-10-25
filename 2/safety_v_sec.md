@@ -11,6 +11,8 @@
 
 -------
 
+## Introduction
+
 
 In this post I’ll be talking about aviation safety culture, the Swiss Cheese Model, & data sharing. 
 
@@ -28,7 +30,7 @@ I’ll also
 
 Let’s go!
 
-## Introduction: A Culture Of Safety
+## A Culture Of Safety
 
 Aviation has a well earned reputation as [the safest mode of transit](https://www.iata.org/en/youandiata/travelers/aviation-safety/#:~:text=Flying%20is%20the%20safest%20form,for%20every%204.2%20million%20flights.), with a track record that’s steadily getting better.<sup>[1]</sup> 
 
