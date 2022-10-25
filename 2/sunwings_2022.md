@@ -3,7 +3,7 @@
 
 # AviationCyber Attack Case Study: Sunwing Airlines 2022
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/12*
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/22*
 
 -------
 
