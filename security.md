@@ -2,11 +2,12 @@
 
 
 # Cybersecurity: Papers, thoughts, + intros & concepts for people outside the field
------
 
-*[Everything by date >>](https://disesdi.github.io/by_date.html)*
+-------
 
------
+*Everything [by date >>](https://disesdi.github.io/by_date.html)*
+
+-------
 
 ### [*#AviationCyber Attack Case Study: Sunwing Airlines 2022>>*](https://disesdi.github.io/2/sunwing_2022.html)
 
