@@ -99,10 +99,10 @@ The complexity of the systems involved in global air transport can make it diffi
 
 The [*Swiss Cheese Model*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117770/) is an example of how multiple safety systems might–or might not–work together. In the model, safety systems stack up like slices of swiss cheese. Each slice has “holes” symbolizing errors or another lack of defense, but the layering of all these systems in tandem works to *hopefully* make sure the “holes” never fully line up–and a serious incident never slips through.<sup>[6]</sup>  
 
-![The Swiss cheese model of accident causation (Reason, 1990-1997)](The-Swiss-cheese-model-of-accident-causation-Reason-1990-1997.png "Title")
+![The Swiss cheese model of accident causation (Reason, 1990-1997)](The-Swiss-cheese-model-of-accident-causation-Reason-1990-1997.png "The Swiss cheese model of accident causation ")
 
 
-Source: *["Repairs as the last orderly provided defense of safety in aviation"](https://blogs.helsinki.fi/iarminen/files/2010/09/Arminen-et-al.-2010.pdf)*<sup>[7]</sup>
+Source: *["Repairs as the last orderly provided defense of safety in aviation."](https://blogs.helsinki.fi/iarminen/files/2010/09/Arminen-et-al.-2010.pdf)*<sup>[7]</sup>
 
 
 The Swiss Cheese Model is a way of representing how systems can work together, preventing a critical incident from getting past the defenses. The model is a great example of how redundancy and teamwork in aviation play crucial roles in preventing mishaps.
