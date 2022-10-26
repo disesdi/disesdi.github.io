@@ -126,10 +126,10 @@ _______
 ## References
 
 
-1. Power System Attack Datasets - Mississippi State University and Oak Ridge National Laboratory - 4/15/2014, 15 April 2014, http://www.ece.uah.edu/~thm0009/icsdatasets/PowerSystem_Dataset_README.pdf. Accessed 22 October 2022.
+1. Power System Attack Datasets - Mississippi State University and Oak Ridge National Laboratory - 4/15/2014, 15 April 2014, http://www.ece.uah.edu/~thm0009/icsdatasets/PowerSystem_Dataset_README.pdf. Accessed 21 October 2022.
 
 
-2. “Tommy Morris - Industrial Control System (ICS) Cyber Attack Datasets.” Google Sites, https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets?authuser=1. Accessed 22 October 2022.
+2. “Tommy Morris - Industrial Control System (ICS) Cyber Attack Datasets.” Google Sites, https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets?authuser=1. Accessed 21 October 2022.
 
 
 3. Knapp, Eric D. and Raj Samani. “Applied Cyber Security and the Smart Grid: Implementing Security Controls into the Modern Power Infrastructure.” (2013).
@@ -138,41 +138,42 @@ _______
 4. Unsal, Derya, Taha Selim Ustun, S. M. Suhail Hussain and Ahmet Onen. “Enhancing Cybersecurity in Smart Grids: False Data Injection and Its Mitigation.” Energies 14 (2021): 2657.
 
 
-5. Snort - Network Intrusion Detection & Prevention System, https://www.snort.org/. Accessed 22 October 2022.
+5. Snort - Network Intrusion Detection & Prevention System, https://www.snort.org/. Accessed 21 October 2022.
 
 
-6. “1.11. Ensemble methods — scikit-learn 1.1.2 documentation: Bagging meta-estimator.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html?highlight=bagging#bagging-meta-estimator. Accessed 22 October 2022.
+6. “1.11. Ensemble methods — scikit-learn 1.1.2 documentation: Bagging meta-estimator.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html?highlight=bagging#bagging-meta-estimator. Accessed 21 October 2022.
 
 
 7. L. Breiman, “Bagging predictors”, Machine Learning, 24(2), 123-140, 1996.
 
 
-8. Ensemble methods — scikit-learn 1.1.2 documentation: Forests of randomized trees.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html?highlight=random+forests#forests-of-randomized-trees“1.11. Accessed 22 October 2022.
+8. Ensemble methods — scikit-learn 1.1.2 documentation: Forests of randomized trees.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html?highlight=random+forests#forests-of-randomized-trees“1.11. Accessed 21 October 2022.
 
 
 
 9. Breiman, “Random Forests”, Machine Learning, 45(1), 5-32, 2001.
 
 
-10. “1.11. Ensemble methods — scikit-learn 1.1.2 documentation: Gradient Boosting.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting. Accessed 22 October 2022.
+10. “1.11. Ensemble methods — scikit-learn 1.1.2 documentation: Gradient Boosting.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting. Accessed 21 October 2022.
 
 
 11. Friedman, J.H. (2001). Greedy function approximation: A gradient boosting machine. Annals of Statistics, 29, 1189-1232.
 
 
-12. “1.11. Ensemble methods — scikit-learn 1.1.2 documentation: Gradient Boosting--Shrinkage.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting-shrinkage. Accessed 22 October 2022.
+12. “1.11. Ensemble methods — scikit-learn 1.1.2 documentation: Gradient Boosting--Shrinkage.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting-shrinkage. Accessed 21 October 2022.
 
 
 13. Tianqi Chen and Carlos Guestrin. XGBoost: A Scalable Tree Boosting System. In 22nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2016
 
 
-14. “Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow.” GitHub, https://github.com/dmlc/xgboost. Accessed 22 October 2022.
+14. “Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow.” GitHub, https://github.com/dmlc/xgboost. Accessed 21 October 2022.
 
 
-15. “1.11. Ensemble methods — scikit-learn 1.1.2 documentation: Histogram Based Gradient Boosting.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html#histogram-based-gradient-boosting. Accessed 22 October 2022
+15. “1.11. Ensemble methods — scikit-learn 1.1.2 documentation: Histogram Based Gradient Boosting.” Scikit-learn, https://scikit-learn.org/stable/modules/ensemble.html#histogram-based-gradient-boosting. Accessed 21 October 2022
 
 
 16. Ke et. al. “LightGBM: A Highly Efficient Gradient Boosting Decision Tree”
 
 -------
--------
+
+[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
