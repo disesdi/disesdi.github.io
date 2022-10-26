@@ -58,4 +58,5 @@ lDy85KIgnxZEf0fDIVQoVUq/l4/L3A5b26yVKmVsAPqoJBqwYg==
 -----END PGP PUBLIC KEY BLOCK-----
 
 -------
--------
+
+[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
