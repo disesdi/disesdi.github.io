@@ -35,4 +35,8 @@ Technical applications, code & how-tos  [*more >>*](https://disesdi.github.io/en
 ## *Everything [by date >>](https://disesdi.github.io/by_date.html)*
 
 -------
+
+[home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
+
+-------
 -------
