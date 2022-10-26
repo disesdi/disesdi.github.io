@@ -66,8 +66,8 @@ In April 2022, a third party software provider used by the airline for check in 
 
 
 Sources:
-1. https://toronto.citynews.ca/2022/04/21/sunwing-cyberattack-flight-delays-pearson/
-2. https://www.shlegal.com/insights/aviation-is-facing-a-rising-wave-of-cyber-attacks-in-the-wake-of-covid
+1. https://toronto.citynews.ca/2022/04/21/sunwing-cyberattack-flight-delays-pearson/<sup>[10]</sup>
+2. https://www.shlegal.com/insights/aviation-is-facing-a-rising-wave-of-cyber-attacks-in-the-wake-of-covid<sup>[11]</sup>
 
 
 ## Timeline
