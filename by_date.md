@@ -18,7 +18,7 @@ PUFs have been proposed as a lightweight drone authentication method resistant t
 
 ### [*#AviationCyber Attack Case Study: Sunwing Airlines 2022>>*](https://disesdi.github.io/2/sunwing_2022.html)
 
-Sunwing Airlines & Airline Choice, April 2022: A Phishing + 3rd Party/Supply Chain Breach In The Aviation Sector [*more >>*](https://disesdi.github.io/2/sunwing_2022.html)
+Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply chain breach in the aviation sector [*more >>*](https://disesdi.github.io/2/sunwing_2022.html)
 
 -------
 
