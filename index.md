@@ -61,13 +61,14 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 ### *<a href="https://cx7.dev/" target="_blank" rel="noopener noreferrer">CX7: AIML, Security, Policy, & People >> </a>*
 
-Research at the intersections of AIML, public policy, and public good [*more >>*](https://cx7.dev/)
+Research at the intersections of AIML, public policy, and public good *<a href="https://cx7.dev/" target="_blank" rel="noopener noreferrer">more >> </a>*
 
 -------
 
 ### *<a href="https://indigenous.engineering/" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>*
 
-Data science, NLProc, and AIML for the culture [*more >>*](https://indigenous.engineering/)
+Data science, NLProc, and AIML for the culture *<a href="https://indigenous.engineering/" target="_blank" rel="noopener noreferrer">more >> </a>*
+
 
 
 -------
@@ -76,7 +77,7 @@ Data science, NLProc, and AIML for the culture [*more >>*](https://indigenous.en
 
 -------
 
-### *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* **2022.04.20**
+### *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* 
 
 A practical blueprint for measuring & increasing cyber resiliency of AIML systems in the adversarial Information Warfare environment 
 *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">more >> </a>*
@@ -86,5 +87,4 @@ A practical blueprint for measuring & increasing cyber resiliency of AIML system
 
 **home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
--------
--------
+
