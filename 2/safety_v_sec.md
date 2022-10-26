@@ -147,19 +147,19 @@ Paying attention to cybersecurity as a part of overall AvSec is complementary–
 ## References
 
 
-1. “Aviation Safety.” IATA, https://www.iata.org/en/youandiata/travelers/aviation-safety/. Accessed 22 October 2022.
+1. “Aviation Safety.” IATA, https://www.iata.org/en/youandiata/travelers/aviation-safety/. Accessed 15 October 2022.
 
 
-2. Aviation Safety Reporting System: ASRS, https://asrs.arc.nasa.gov/. Accessed 22 October 2022.
+2. Aviation Safety Reporting System: ASRS, https://asrs.arc.nasa.gov/. Accessed 15 October 2022.
 
 
-3. FAA. “Faa Aviation Safety Information Analysis And Sharing (ASIAS) System.” https://www.asias.faa.gov/apex/f?p=100:1. Accessed 22 October 2022.
+3. FAA. “Faa Aviation Safety Information Analysis And Sharing (ASIAS) System.” https://www.asias.faa.gov/apex/f?p=100:1. Accessed 15 October 2022.
 
 
-4. FAA. “Data & Information.” FAA  ASIAS, https://www.asias.faa.gov/apex/f?p=100:2:::NO. Accessed 22 October 2022.
+4. FAA. “Data & Information.” FAA  ASIAS, https://www.asias.faa.gov/apex/f?p=100:2:::NO. Accessed 15 October 2022.
 
 
-5. “Berlin man caught directing flight traffic with radio.” AP News, 29 January 2021, https://apnews.com/article/arrests-berlin-f56833f73c7ecfa34a5ed5e6461669bc. Accessed 22 October 2022.
+5. “Berlin man caught directing flight traffic with radio.” AP News, 29 January 2021, https://apnews.com/article/arrests-berlin-f56833f73c7ecfa34a5ed5e6461669bc. Accessed 15 October 2022.
 
 
 6. Reason, James (2000-03-18). "Human error: models and management". British Medical Journal. 320 (7237): 768–70. doi:10.1136/bmj.320.7237.768
@@ -168,8 +168,9 @@ Paying attention to cybersecurity as a part of overall AvSec is complementary–
 7. Arminen, Ilkka, Petra Auvinen and Hannele Palukka. “Repairs as the last orderly provided defense of safety in aviation.” Journal of Pragmatics 42 (2010): 443-465.
 
 
-8. IBM. “The layered defense approach to security.” IBM, https://www.ibm.com/docs/en/i/7.3?topic=security-layered-defense-approach. Accessed 22 October 2022.
+8. IBM. “The layered defense approach to security.” IBM, https://www.ibm.com/docs/en/i/7.3?topic=security-layered-defense-approach. Accessed 15 October 2022.
 
 
 -------
-_______
+
+[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
