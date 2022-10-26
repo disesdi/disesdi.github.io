@@ -7,7 +7,7 @@
 
 -------
 
-*Sunwing Airlines & Airline Choice, April 2022: A Phishing + 3rd Party/Supply Chain Breach In The Aviation Sector*
+*Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply chain breach in the aviation sector*
 
 -------
 
