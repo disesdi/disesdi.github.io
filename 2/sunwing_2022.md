@@ -42,16 +42,16 @@ In 2021, 64% of organizations experienced an attack on their software supply cha
 Supply chain attacks on open source software packages **increased by 650%** in 2021.<sup>[6]</sup>
 
 
-“*Based on our analysis and industry data, we estimate that software supply chain attacks more than tripled in 2021, as compared to 2020, with more vulnerabilities and attacks discovered every month.*”<sup>[7]</sup> –[Argon 2021 Software Supply Chain Security Report](https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Assets/Argon%20Security%20-%202021%20Software%20Supply%20Chain%20Security%20Report.pdf)
+“*Based on our analysis and industry data, we estimate that software supply chain attacks more than tripled in 2021, as compared to 2020, with more vulnerabilities and attacks discovered every month.*” –[Argon 2021 Software Supply Chain Security Report](https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Assets/Argon%20Security%20-%202021%20Software%20Supply%20Chain%20Security%20Report.pdf)<sup>[7]</sup>
 
 ### Cyber Attacks in Aviation
 
 "*Cyber-attacks reported to or identified by the European Air Traffic Management Computer Emergency Response Team rose by 530% between 2019 and 2020*"
 
 "*39% of organisations experiencing cyber-attacks in 2020
-assessed that these attacks had had a medium to high impact on their operations*"<sup>[8]</sup>
+assessed that these attacks had had a medium to high impact on their operations*"
 
-–Source: [Eurocontrol](https://www.eurocontrol.int/sites/default/files/2021-07/eurocontrol-think-paper-12-aviation-under-cyber-attack.pdf)
+–Source: [Eurocontrol](https://www.eurocontrol.int/sites/default/files/2021-07/eurocontrol-think-paper-12-aviation-under-cyber-attack.pdf)<sup>[8]</sup>
 
 ## Affected Organization: Sunwing Airlines
 
