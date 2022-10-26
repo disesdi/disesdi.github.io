@@ -5,7 +5,7 @@
 
 -------
 
-### *Public key <a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>*
+### Public key *<a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>*
 
 -------
 
