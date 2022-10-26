@@ -37,4 +37,6 @@ Technical applications, code & how-tos  [*more >>*](https://disesdi.github.io/en
 
 ***ᏗᎦᏙᎯ:*** *Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>*
 
+-------
 
+[home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
