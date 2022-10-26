@@ -173,4 +173,5 @@ While this particular breach is very recent and it is difficult to know the spec
 11. “Aviation is facing a rising wave of cyber-attacks in the wake of COVID.” 2022. Stephenson Harwood. https://www.shlegal.com/insights/aviation-is-facing-a-rising-wave-of-cyber-attacks-in-the-wake-of-covid.
 
 -------
--------
+
+[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
