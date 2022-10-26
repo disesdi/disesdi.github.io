@@ -28,16 +28,16 @@ With widespread use, security concerns around malicious drone activity have rise
 
 According to CISA,<sup>[1]</sup> malicious UAS activity may include:
 
-* Weaponized or Smuggling Payloads – Depending on power and payload size, UAS may be capable of transporting contraband, chemical, or other explosive/weaponized payloads.
+* *Weaponized or Smuggling Payloads – Depending on power and payload size, UAS may be capable of transporting contraband, chemical, or other explosive/weaponized payloads.*
 
 
-* Prohibited Surveillance and Reconnaissance – UAS are capable of silently monitoring a large area from the sky for nefarious purposes.
+* *Prohibited Surveillance and Reconnaissance – UAS are capable of silently monitoring a large area from the sky for nefarious purposes.*
 
 
-* Intellectual Property Theft – UAS can be used to perform cyber crimes involving theft of trade secrets, technologies, or sensitive information.
+* *Intellectual Property Theft – UAS can be used to perform cyber crimes involving theft of trade secrets, technologies, or sensitive information.*
 
 
-* Intentional Disruption or Harassment – UAS may be used to disrupt or invade the privacy of other individuals.
+* *Intentional Disruption or Harassment – UAS may be used to disrupt or invade the privacy of other individuals.*<sup>[1]</sup>
 
 Given the potential for serious misuse of the technology, securely identifying and authenticating UAS is a critical challenge. However, UAS-specific security constraints, as well as the proliferation of industry-wide security challenges already existent in the underlying technologies, are complicating factors that must be weighed in any solution.
 
