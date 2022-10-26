@@ -81,4 +81,8 @@ A practical blueprint for measuring & increasing cyber resiliency of AIML system
 *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">more >> </a>*
 
 -------
+
+**home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
+
+-------
 -------
