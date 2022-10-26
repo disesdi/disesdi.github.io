@@ -73,7 +73,7 @@ Data science, NLProc, and AIML for the culture *<a href="https://indigenous.engi
 
 -------
 
-## *>> Read more:*
+## *>> More:*
 
 -------
 
