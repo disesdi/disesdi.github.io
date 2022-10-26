@@ -18,13 +18,13 @@
 
 Aviation & cyber from an electrical engineering perspective [*more >>*](https://disesdi.github.io/aviation.html)
 
-
+-------
 
 ## Cybersecurity  [*go >>*](https://disesdi.github.io/security.html) 
 
 Cybersecurity papers, thoughts, + concepts for people outside the field   [*more >>*](https://disesdi.github.io/security.html)
 
-
+-------
 
 ## Engineering  [*go >>*](https://disesdi.github.io/engineering.html) 
 
