@@ -18,6 +18,9 @@
 
 -------
 
+### Telegram: *<a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>* 
+
+
 ### Telegram: *[@disesdi >>](https://t.me/disesdi)*
 
 -------
