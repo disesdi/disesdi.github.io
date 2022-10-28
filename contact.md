@@ -3,12 +3,8 @@
 
 # Contact me: <a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">Email >></a>, <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">Github >></a>, <a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">Telegram >></a>, <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">LinkedIn >></a>
 
--------
-
-### Public key *<a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>*
 
 -------
-
 
 ### Email: *<a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>* 
 
@@ -23,6 +19,10 @@
 -------
 
 ### LinkedIn: *<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">linkedin.com/in/disesdi >></a>*
+
+-------
+
+### Public key *<a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>*
 
 -------
 
