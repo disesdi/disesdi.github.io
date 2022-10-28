@@ -1,7 +1,7 @@
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | **contact**
 
 
-# Contact me: [Email](mailto:disesdi@pm.me), <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">Github</a>,  [Telegram](https://t.me/cx7_dev), <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">LinkedIn >></a>
+# Contact me: [Email](mailto:disesdi@pm.me), <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">Github</a>, <a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>, <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">LinkedIn >></a>
 
 -------
 
@@ -19,9 +19,6 @@
 -------
 
 ### Telegram: *<a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>* 
-
-
-### Telegram: *[@disesdi >>](https://t.me/disesdi)*
 
 -------
 
