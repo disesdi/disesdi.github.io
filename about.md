@@ -5,7 +5,7 @@
 -----
 
 
-*Hi, I'm Disesdi & I <3 aviation. I'm an electrical engineering student, with industry experience as an AIML & security engineer. My area of focus is embedded systems. [Contact me >>](https://disesdi.github.io/contact.html)*
+*Hi, I'm Disesdi & I <3 aviation. I'm an electrical engineering student with industry experience as an AIML & security engineer. My area of focus is embedded systems. [Contact me >>](https://disesdi.github.io/contact.html)*
 
 
 -------
