@@ -50,7 +50,7 @@ As both their use and susceptibility to attacks increase, IOT and UAS devices sh
 
 UAS and IOT devices also share a common characteristic of being resource-constrained;<sup>[5]</sup> that is, these devices often have physical size and, in aerospace applications in particular, weight considerations. 
 
-These considerations co-exist and interact with the need for optimizing computational performance on already small devices. 
+These considerations co-exist and interact with the need for optimizing computational performance on what are often already small devices. 
 
 Due to the combination of security needs and resource constraints, authentication of these systems is of particular interest.
 
@@ -86,7 +86,7 @@ These potential attack vectors carry significant implications for aerospace appl
 
 Physical Unclonable Functions (PUFs), based on the unique electronic signatures of the agent’s hardware, have been proposed as a solution for authentication in resource-constrained UAS and IOT environments.<sup>[9][10]</sup> PUF authentication works via a set of challenge-and-response pairs (CRPs) exchanged between the authenticator and the system being authenticated.
 
-Two significant problems exist with regard to PUF authentication methods. First, strong PUF authentication requires a very large CRP space.<sup>[10]</sup> This conflicts with resource constraints in UAS  and other aerospace devices. 
+Two significant problems exist with regard to PUF authentication methods. First, strong PUF authentication requires a very large CRP space.<sup>[10]</sup> This conflicts with resource constraints in UAS and other aerospace devices. 
 
 Second, PUF CRPs are subject to machine learning attacks.<sup>[11]</sup> Given a dataset of CRPs, machine learning models have been demonstrated to be capable of guessing pair components with high efficacy.  
 
