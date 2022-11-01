@@ -3,15 +3,15 @@
  
 *How secure is AviationCyber? And how do we know?*
 
-## Introduction--Who Is Taking Responsibility, And How? 
+## Introduction: Who Is Taking Responsibility, And How? 
 
-There is a socio-psychological phenomenon called *[diffusion of responsibility](https://dictionary.apa.org/diffusion-of-responsibility),<sup>[1]</sup>* describing how people can sometimes be less inclined to take responsibility for their actions (or inaction) in scenarios when others are present. 
+There's a socio-psychological phenomenon called *[diffusion of responsibility](https://dictionary.apa.org/diffusion-of-responsibility),<sup>[1]</sup>* describing how people can sometimes be less inclined to take responsibility for their actions (or inaction) in scenarios when others are present. 
 
 
 They may assume that someone else is taking charge in one way or another, whether that’s the case or not. 
 
 
-The American Psychological Association defines *diffusion of responsibility* as *”the diminished sense of responsibility often experienced by individuals in groups and social collectives.”<sup>[1]</sup>
+The American Psychological Association defines *diffusion of responsibility* as ”*the diminished sense of responsibility often experienced by individuals in groups and social collectives.*”*<sup>[1]</sup>*
 
 
 When dealing with large, systemic issues there is a very human tendency to assume someone else is taking care of the situation–after all, challenges this big can feel impossible to tackle all on our own.
