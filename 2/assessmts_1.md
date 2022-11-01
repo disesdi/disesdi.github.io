@@ -66,7 +66,7 @@ That’s in part because the aviation technologies involved are very different, 
 The paper also points out some key factors driving the adoption of digital and connected technologies in aviation. 
 
 
-## Key Factor: Growth In The Sector == More Connected Tech
+## Key Factor: Growth In The Sector, More Connected Tech
 
 
 One inescapable factor is the modern increase in air traffic and the need to reduce air crew & air traffic control (ATC) workloads, all while maintaining safety in increasingly crowded skies.
