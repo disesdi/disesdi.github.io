@@ -3,7 +3,7 @@
  
 *How secure is AviationCyber? And how do we know?*
 
-## Introduction 
+## Introduction--Who Is Taking Responsibility, And How? 
 
 There is a socio-psychological phenomenon called *[diffusion of responsibility](https://dictionary.apa.org/diffusion-of-responsibility),<sup>[1]</sup>* describing how people can sometimes be less inclined to take responsibility for their actions (or inaction) in scenarios when others are present. 
 
@@ -26,7 +26,7 @@ But this might not be the case.
 Big problems sometimes have to be broken down and tackled one piece at a time. And as daunting as it might seem on the surface, aviation cybersecurity is no exception.
 
 
-## What Is The Status Quo, Who Is Taking Responsibility, And How?
+## What Is The Status Quo?
 
 
 A foundational question to ask at the beginning of any project is, “where are we now?” We need a way to measure the state of the system that we’re about to work with, so we can understand both where we are starting from, and what success looks like.
@@ -156,14 +156,10 @@ What if the attack doesn’t require special skills or equipment? In this case, 
 Curious to see how various aviation systems rank in terms of cyber vulnerability? So was I! For some key results of the paper’s assessment, as well as a deep dive into the methodology itself, check out Part 2. 
 
 
-![avcyber_assmts_1 image 1](avcyber_assmts_1_image_2.png)
-
-![avcyber_assmts_1 image 1](https://disesdi.github.io/2/avcyber_assmts_1_image_2.png)
-
+![avcyber_assmts_1_image_2](https://user-images.githubusercontent.com/110150470/199144715-fbdcd044-e5df-4b1b-aed7-214ee950d6b1.png)
 
 *A sneak peak at the paper’s Cybersecurity Risk Matrix, which I talk about in Part 2 of this series. [Source here.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579414)*
 
-***IMAGE ABOVE***
 
 How do you think aviation systems stack up, security-wise? Let me know! 
 
