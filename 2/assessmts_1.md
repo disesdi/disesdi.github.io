@@ -59,10 +59,8 @@ The authors point out that although there have been a number of diverse pieces s
 That’s in part because the aviation technologies involved are very different, in some cases involve multiple uses, interact with other safety/redundant systems in various ways, and may have very diverse impacts–all depending on the method of attack.
 
 
-*Table of other AvSec works referenced in the paper, along with subjects covered. [Source.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579414)<sup>[2]</sup>*
-
-
-***IMAGE ABOVE***
+![avcyber_assmts_1_image_1](https://user-images.githubusercontent.com/110150470/199145879-5d501cee-8cb5-4ddf-938e-82c0ee861d58.png)
+*Image: Table of other AvSec works referenced in the paper, along with subjects covered. [Source.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579414)<sup>[2]</sup>*
 
 
 The paper also points out some key factors driving the adoption of digital and connected technologies in aviation. 
@@ -157,8 +155,7 @@ Curious to see how various aviation systems rank in terms of cyber vulnerability
 
 
 ![avcyber_assmts_1_image_2](https://user-images.githubusercontent.com/110150470/199144715-fbdcd044-e5df-4b1b-aed7-214ee950d6b1.png)
-
-*A sneak peak at the paper’s Cybersecurity Risk Matrix, which I talk about in Part 2 of this series. [Source here.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579414)*
+*Image: A sneak peak at the paper’s Cybersecurity Risk Matrix, which I talk about in Part 2 of this series. [Source here.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579414)*
 
 
 How do you think aviation systems stack up, security-wise? Let me know! 
