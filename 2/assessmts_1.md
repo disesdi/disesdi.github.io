@@ -100,7 +100,7 @@ They are:
 Those with the **lowest** (assessed) risk levels are: 
 
 
-> "*controller-pilot data link communication, ground-based radio navigation aids, and secondary surveillance radar, respectively...*”<sup>[2]</sup>
+> "*controller-pilot data link communication, ground-based radio navigation aids, and secondary surveillance radar, respectively...*” <sup>[2]</sup>
 
 
 ### A Deeper Look: Vulnerabilities & Mitigations 
