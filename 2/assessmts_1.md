@@ -155,7 +155,6 @@ Curious to see how various aviation systems rank in terms of cyber vulnerability
 
 
 ![avcyber_assmts_1_image_2](https://user-images.githubusercontent.com/110150470/199144715-fbdcd044-e5df-4b1b-aed7-214ee950d6b1.png)
-
 *Image: A sneak peak at the paper’s Cybersecurity Risk Matrix, which I talk about in Part 2 of this series. [Source here.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579414)*
 
 
