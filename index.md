@@ -5,7 +5,7 @@
 
 -----
 
-## [*About AviationCyber >>*](https://disesdi.github.io/about.html)
+## [*About >>*](https://disesdi.github.io/about.html)
 
 -----
 
