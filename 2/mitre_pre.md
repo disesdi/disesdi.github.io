@@ -40,32 +40,20 @@ There are 14 goals, or *tactics*, in MITRE ATT&CK.<sup>[2]</sup>
 ***Fourteen Tactics Of The MITRE ATT&CK Matrix:***
 >
 > *1. Reconnaissance*
->
 > *2. Resource Development*
->
 > *3. Initial Access*
->
 > *4. Execution*
->
 > *5. Persistence*
->
 > *6. Privilege Escalation*
->
 > *7. Defense Evasion*
->
 > *8. Credential Access*
->
 > *9. Discovery*
->
 > *10. Lateral Movement*
->
 > *11. Command & Control*
->
 > *12. Collection*
->
 > *13. Exfiltration*
->
 > *14. Impact*
+
 
 
 Today we’re going to focus on what comes before that: the first stages, called PRE-ATT&CK.
@@ -76,9 +64,9 @@ Speaking of *tactics*, let’s define some terms before we dive in.
 
 In MITRE ATT&CK, *Tactics* represent the attacker’s goal during a particular phase of an attack.<sup>[3]</sup> Tactics are the reason to employ a particular technique–they are the end result an attacker is hoping for when they are applying any procedure in an attack.
 
-> *”Tactics represent the "why" of an ATT&CK technique or sub-technique. **It is the adversary's tactical goal: the reason for performing an action.**” [MITRE](https://attack.mitre.org/tactics/enterprise/)*
+> *”Tactics represent the "why" of an ATT&CK technique or sub-technique. **It is the adversary's tactical goal: the reason for performing an action.**” [MITRE](https://attack.mitre.org/tactics/enterprise/) <sup>[3]</sup>*
 
-There are fourteen Enterprise tactics. You can find the full list [here](https://attack.mitre.org/tactics/enterprise/)
+There are fourteen Enterprise tactics. You can find the full list [here](https://attack.mitre.org/tactics/enterprise/).
 
 ## What Are *Techniques* In The Att&CK Framework?
 
