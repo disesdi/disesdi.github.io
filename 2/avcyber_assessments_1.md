@@ -3,7 +3,7 @@
 
 # Thinking About AviationCyber Papers: Assessing Aviation Cybersecurity, Part 1
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/15*
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/29*
 
 -------
 
@@ -193,7 +193,7 @@ How do you think aviation systems stack up, security-wise? Let me know!
 ## References
 
 
-1. “Diffusion Of Responsibility.” n.d. APA Dictionary of Psychology. Accessed October 31, 2022. https://dictionary.apa.org/diffusion-of-responsibility.
+1. “Diffusion Of Responsibility.” n.d. APA Dictionary of Psychology. Accessed October 29, 2022. https://dictionary.apa.org/diffusion-of-responsibility.
 
 
 2. Elmarady, Ahmed Abdelwahab and Kamel Hussein Rahouma. “Studying Cybersecurity in Civil Aviation, Including Developing and Applying Aviation Cybersecurity Risk Assessment.” IEEE Access 9 (2021): 143997-144016.
@@ -224,7 +224,7 @@ How do you think aviation systems stack up, security-wise? Let me know!
 10. Doc 8973: Aviation Security Manual, 12th ed, International Civil Aviation Organization (ICAO), Montreal, QC, Canada, 2020
 
 
-11. “ICAO.” n.d. Home. Accessed October 31, 2022. https://www.icao.int/Pages/default.aspx.
+11. “ICAO.” n.d. Home. Accessed October 29, 2022. https://www.icao.int/Pages/default.aspx.
 
 
 -------
