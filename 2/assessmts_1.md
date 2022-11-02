@@ -1,17 +1,38 @@
+[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
+
 
 # Thinking About AviationCyber Papers: Assessing Aviation Cybersecurity, Part 1
- 
+
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/15*
+
+-------
+
 *How secure is AviationCyber? And how do we know?*
 
-## Introduction: Who Is Taking Responsibility, And How? 
+-------
 
-There's a socio-psychological phenomenon called *[diffusion of responsibility](https://dictionary.apa.org/diffusion-of-responsibility),<sup>[1]</sup>* describing how people can sometimes be less inclined to take responsibility for their actions (or inaction) in scenarios when others are present. 
+
+## Introduction
+
+
+In this post, I'll be taking a look at a [recent paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579414) from the world of aviation cybersecurity.
+
+We'll take a look at one view of the state of AviationCyber assessments, as well as a proposed solution. 
+
+Next we'll do a deeper dive into the system proposed in the paper, & see how the paper's authors feel various aviation tech stacks up in terms of cybersecurity.
+
+Let's go!
+
+
+## Who Is Taking Responsibility, And How? 
+
+There's a socio-psychological phenomenon called *[diffusion of responsibility](https://dictionary.apa.org/diffusion-of-responsibility)*,<sup>[1]</sup> describing how people can sometimes be less inclined to take responsibility for their actions (or inaction) in scenarios when others are present. 
 
 
 They may assume that someone else is taking charge in one way or another, whether that’s the case or not. 
 
 
-The American Psychological Association defines *diffusion of responsibility* as ”*the diminished sense of responsibility often experienced by individuals in groups and social collectives.*”*<sup>[1]</sup>*
+The American Psychological Association defines *diffusion of responsibility* as ”*the diminished sense of responsibility often experienced by individuals in groups and social collectives.*”<sup>[1]</sup>
 
 
 When dealing with large, systemic issues there is a very human tendency to assume someone else is taking care of the situation–after all, challenges this big can feel impossible to tackle all on our own.
@@ -66,7 +87,7 @@ That’s in part because the aviation technologies involved are very different, 
 The paper also points out some key factors driving the adoption of digital and connected technologies in aviation. 
 
 
-## Key Factor: Growth In The Sector, More Connected Tech
+## Key Factor: Growth In The Sector == More Connected Tech
 
 
 One inescapable factor is the modern increase in air traffic and the need to reduce air crew & air traffic control (ATC) workloads, all while maintaining safety in increasingly crowded skies.
@@ -155,10 +176,57 @@ Curious to see how various aviation systems rank in terms of cyber vulnerability
 
 
 ![avcyber_assmts_1_image_2](https://user-images.githubusercontent.com/110150470/199144715-fbdcd044-e5df-4b1b-aed7-214ee950d6b1.png)
-
 *Image: A sneak peak at the paper’s Cybersecurity Risk Matrix, which I talk about in Part 2 of this series. [Source here.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579414)*
 
 
 How do you think aviation systems stack up, security-wise? Let me know! 
 
+-------
 
+
+## [*Contact me >>*](https://disesdi.github.io/contact.html)
+
+
+-------
+
+
+## References
+
+
+1. “Diffusion Of Responsibility.” n.d. APA Dictionary of Psychology. Accessed October 31, 2022. https://dictionary.apa.org/diffusion-of-responsibility.
+
+
+2. Elmarady, Ahmed Abdelwahab and Kamel Hussein Rahouma. “Studying Cybersecurity in Civil Aviation, Including Developing and Applying Aviation Cybersecurity Risk Assessment.” IEEE Access 9 (2021): 143997-144016.
+
+
+3. Z. Wu, T. Shang and A. Guo, "Security Issues in Automatic Dependent Surveillance - Broadcast (ADS-B): A Survey," in IEEE Access, vol. 8, pp. 122147-122167, 2020, doi: 10.1109/ACCESS.2020.3007182.
+
+
+
+4. Morales-Ferre, Ruben, Philipp Richter, Emanuela Falletti, Alberto de la Fuente and Elena Simona Lohan. “A Survey on Coping With Intentional Interference in Satellite Navigation for Manned and Unmanned Aircraft.” IEEE Communications Surveys & Tutorials 22 (2020): 249-291.
+
+
+5. M. Strohmeier, I. Martinovic, and V. Lenders, Eds., The Security of Critical Infrastructures: Risk, Resilience and Defense. Oxford, U.K.: Springer, ch. Securing the Air-Ground Link in Aviation, 2020, pp. 131–154.
+
+
+6.  O. Osechas, M. Mostafa, T. Graupl, and M. Meurer, ‘‘Addressing vulnerabilities of the CNS infrastructure to targeted radio interference,’’ IEEE Aerosp. Electron. Syst. Mag., vol. 32, no. 11, pp. 34–42, Nov. 2017.
+
+
+7. Wang, Jing, Yunkai Zou and Jianli Ding. “ADS-B spoofing attack detection method based on LSTM.” EURASIP Journal on Wireless Communications and Networking 2020 (2020): 1-12.
+
+
+8. Ying, Xuhang, Joanna Mazer, Giuseppe Bernieri, Mauro Conti, Linda Bushnell and Radha Poovendran. “Detecting ADS-B Spoofing Attacks Using Deep Neural Networks.” 2019 IEEE Conference on Communications and Network Security (CNS) (2019): 187-195.
+
+
+9. H. Yang, Q. Zhou, M. Yao, R. Lu, H. Li and X. Zhang, "A Practical and Compatible Cryptographic Solution to ADS-B Security," in IEEE Internet of Things Journal, vol. 6, no. 2, pp. 3322-3334, April 2019, doi: 10.1109/JIOT.2018.2882633.
+
+
+10. Doc 8973: Aviation Security Manual, 12th ed, International Civil Aviation Organization (ICAO), Montreal, QC, Canada, 2020
+
+
+11. “ICAO.” n.d. Home. Accessed October 31, 2022. https://www.icao.int/Pages/default.aspx.
+
+
+-------
+
+[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
