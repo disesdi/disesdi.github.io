@@ -68,7 +68,7 @@ In MITRE ATT&CK, *Tactics* represent the attacker’s goal during a particular p
 
 There are fourteen Enterprise tactics. You can find the full list [here](https://attack.mitre.org/tactics/enterprise/).
 
-## What Are *Techniques* In The Att&CK Framework?
+## What Are *Techniques* In The ATT&CK Framework?
 
 If tactics represent the goals of an attack, *techniques* represent the methods for achieving those goals.<sup>[4]</sup>
 
