@@ -80,6 +80,9 @@ Although real time systems require rapid responses, they also require that the t
 
 Latency variations between program iterations are so common and well-known, they have their own name: *compute jitter*.<sup>[4]</sup>
 
+
+![real_time_systems_intel](https://user-images.githubusercontent.com/110150470/199603476-21e55726-3115-4a3f-a339-5a3793bbce7f.png)
+
 *Image source: [Intel]( https://www.intel.com/content/www/us/en/robotics/real-time-systems.html)<sup>[4]</sup>*
 
 Real-time is not so much about being fast, it’s about being predictable. Predictable latencies (delays), predictable order of signals, all increase *reliability*. 
