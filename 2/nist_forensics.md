@@ -74,7 +74,7 @@ Here are five key NIST digital forensics resources for researchers at all levels
 >*”We generate digital signatures from all files in that archive and release them in a quarterly Reference Data Set (RDS). When a law enforcement organization seizes a computer or mobile device as part of a criminal investigation, they can use the RDS to quickly identify the known files on that device. This reduces the effort required to determine which files are important as evidence and which are not.” – NIST* <sup>[5]</sup> 
 
 
-2. The [Computer Forensic Tool Testing program](http://www.cftt.nist.gov/) *”establishes a methodology for testing computer forensic software tools by developing general tool specifications, test procedures, test criteria, test sets, and test hardware.”
+2. The [Computer Forensic Tool Testing program](http://www.cftt.nist.gov/) ”establishes a methodology for testing computer forensic software tools by developing general tool specifications, test procedures, test criteria, test sets, and test hardware.”
 
 >*”There is a critical need in the law enforcement community to ensure the reliability of computer forensic tools….The [test] results help toolmakers to improve their products, allows users to make informed choices about which tools to use, and provides information to all interested parties on the capabilities of various computer tools used in forensic investigations.” – NIST* <sup>[6]</sup> 
 
@@ -114,31 +114,31 @@ What are some of your favorite NIST resources? What other digital forensics reso
 
 ## References
 
-1. “Digital evidence | NIST.” National Institute of Standards and Technology, https://www.nist.gov/digital-evidence. Accessed 22 October 2022.
+1. “Digital evidence \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/digital-evidence. Accessed 22 October 2022.
 
 
-2. “Cybersecurity | NIST.” National Institute of Standards and Technology, https://www.nist.gov/cybersecurity. Accessed 22 October 2022.
+2. “Cybersecurity \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/cybersecurity. Accessed 22 October 2022.
 
 
-3. “Workforce Framework for Cybersecurity (NICE Framework) | NICCS.” NICCS, 30 June 2022, https://niccs.cisa.gov/workforce-development/nice-framework. Accessed 22 October 2022.
+3. “Workforce Framework for Cybersecurity (NICE Framework) \| NICCS.” NICCS, 30 June 2022, https://niccs.cisa.gov/workforce-development/nice-framework. Accessed 22 October 2022.
 
 
 4. “Using the NICE Framework.” NICCS, https://niccs.cisa.gov/sites/default/files/documents/pdf/using%20the%20nice%20framework_pdf.pdf?trackDocs=using%20the%20nice%20framework_pdf.pdf. Accessed 22 October 2022.
 
 
-5. “National Software Reference Library (NSRL) | NIST.” National Institute of Standards and Technology, 19 April 2016, http://www.nsrl.nist.gov/. Accessed 22 October 2022.
+5. “National Software Reference Library (NSRL) \| NIST.” National Institute of Standards and Technology, 19 April 2016, http://www.nsrl.nist.gov/. Accessed 22 October 2022.
 
 
-6. “Computer Forensics Tool Testing Program (CFTT) | NIST.” National Institute of Standards and Technology, 8 May 2017, http://www.cftt.nist.gov/. Accessed 22 October 2022.
+6. “Computer Forensics Tool Testing Program (CFTT) \| NIST.” National Institute of Standards and Technology, 8 May 2017, http://www.cftt.nist.gov/. Accessed 22 October 2022.
 
 
-7. “Video Analytics | NIST.” National Institute of Standards and Technology, https://www.nist.gov/programs-projects/video-analytics. Accessed 22 October 2022.
+7. “Video Analytics \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/programs-projects/video-analytics. Accessed 22 October 2022.
 
 
-8. “Image Group | NIST.” National Institute of Standards and Technology, https://www.nist.gov/itl/iad/image-group. Accessed 22 October 2022.
+8. “Image Group \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/itl/iad/image-group. Accessed 22 October 2022.
 
 
-9. “NIST Cloud Computing Forensic Science | NIST.” National Institute of Standards and Technology, https://www.nist.gov/programs-projects/nist-cloud-computing-forensic-science. Accessed 22 October 2022.
+9. “NIST Cloud Computing Forensic Science \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/programs-projects/nist-cloud-computing-forensic-science. Accessed 22 October 2022.
 
 
 -------
