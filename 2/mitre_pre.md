@@ -159,7 +159,7 @@ Thanks for reading!
 10. “Cyber Kill Chain®.” n.d. Lockheed Martin. Accessed October 31, 2022. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html.
 
 
-11. Poston, Howard. 2020. “MITRE ATT&CK® Framework Matrices: An Overview | Infosec Resources.” Infosec Resources. https://resources.infosecinstitute.com/topic/mitre-attck-framework-matrices-an-overview/.
+11. Poston, Howard. 2020. “MITRE ATT&CK® Framework Matrices: An Overview \| Infosec Resources.” Infosec Resources. https://resources.infosecinstitute.com/topic/mitre-attck-framework-matrices-an-overview/.
 
 
 12. CISA: Homepage. Accessed October 31, 2022. https://www.cisa.gov/.
