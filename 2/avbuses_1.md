@@ -110,7 +110,7 @@ Thanks for reading!
 
 
 
-1. “Networks and Busses | Digital Communication | Electronics Textbook.” All About Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-14/networks-and-busses/. Accessed 1 November 2022.
+1. “Networks and Busses \| Digital Communication \| Electronics Textbook.” All About Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-14/networks-and-busses/. Accessed 1 November 2022.
 
 
 2. Schuster, T. and D. Verma. “Networking concepts comparison for avionics architecture.” 2008 IEEE/AIAA 27th Digital Avionics Systems Conference (2008): 1.D.1-1-1.D.1-11.
@@ -150,7 +150,7 @@ Thanks for reading!
 system,” in IEEE DASC, 2001
 
 
-14. Freiherr, Greg. “Will Your Airliner Get Hacked? | Air & Space Magazine.” Smithsonian Magazine, https://www.smithsonianmag.com/air-space-magazine/will-your-airliner-get-hacked-180976752/. Accessed 1 November 2022.
+14. Freiherr, Greg. “Will Your Airliner Get Hacked? \| Air & Space Magazine.” Smithsonian Magazine, https://www.smithsonianmag.com/air-space-magazine/will-your-airliner-get-hacked-180976752/. Accessed 1 November 2022.
 
 
 
