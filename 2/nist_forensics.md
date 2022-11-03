@@ -79,17 +79,17 @@ Here are five key NIST digital forensics resources for researchers at all levels
 >*”There is a critical need in the law enforcement community to ensure the reliability of computer forensic tools….The [test] results help toolmakers to improve their products, allows users to make informed choices about which tools to use, and provides information to all interested parties on the capabilities of various computer tools used in forensic investigations.” – NIST* <sup>[6]</sup> 
 
 
-**3. Video forensics: NIST has "multiple projects aimed at advancing [video technologies](https://www.nist.gov/programs-projects/video-analytics) that have forensic applications.”**
+### 3. Video forensics: NIST has "multiple projects aimed at advancing [video technologies](https://www.nist.gov/programs-projects/video-analytics) that have forensic applications.”
 
 >*”Current project areas include detection of events in surveillance video, detection of events in internet video, and detection and understanding of images that have been altered from their original state.” – NIST* <sup>[7]</sup> 
 
 
-4. Biometrics: NIST is ”working on multiple projects involving [image-based biometric recognition](https://www.nist.gov/itl/iad/image-group) that have forensic applications” with “a particular focus on fingerprint, face, iris, and tattoo recognition.”  
+### 4. Biometrics: NIST is ”working on multiple projects involving [image-based biometric recognition](https://www.nist.gov/itl/iad/image-group) that have forensic applications” with “a particular focus on fingerprint, face, iris, and tattoo recognition.”  
 
 > *”[NIST Biometric research] work is aimed at advancing measurement science, evaluation methodologies, best practices, image quality metrics, interoperability, and biometric standards.” – NIST* <sup>[8]</sup> 
 
 
-5. The [NIST Cloud Computing Forensic Science Program](https://www.nist.gov/programs-projects/nist-cloud-computing-forensic-science) ”aims to improve the accuracy, reliability, scientific validity, and usefulness of cloud forensic science.”  
+### 5. The [NIST Cloud Computing Forensic Science Program](https://www.nist.gov/programs-projects/nist-cloud-computing-forensic-science) ”aims to improve the accuracy, reliability, scientific validity, and usefulness of cloud forensic science.”  
 
 >*”In support of the [NIST Cloud Computing Forensic Science Program] project, NIST has established the Cloud Computing Forensic Science Public Working Group to perform research and identify gaps in technology, standards and measurements; to address various challenges in cloud forensics; and to develop a cloud forensics reference architecture. – NIST”*  <sup>[9]</sup>
 
