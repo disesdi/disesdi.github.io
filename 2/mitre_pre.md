@@ -4,7 +4,7 @@
 
 # Intro To MITRE PRE-ATT&CK Part 1: Tactics, Techniques, & Reconnaissance 
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/15*
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/17*
 
 -------
 
@@ -129,46 +129,46 @@ Thanks for reading!
 ## References
 
 
-1. “MITRE ATT&CK: Design and Philosophy.” 2020. MITRE. https://www.mitre.org/news-insights/publication/mitre-attck-design-and-philosophy.
+1. “MITRE ATT&CK: Design and Philosophy.” 2020. MITRE. Accessed October 17, 2022. https://www.mitre.org/news-insights/publication/mitre-attck-design-and-philosophy.
 
 
-2. “Matrix - Enterprise.” n.d. MITRE ATT&CK®. Accessed October 31, 2022. https://attack.mitre.org/matrices/enterprise/.
+2. “Matrix - Enterprise.” n.d. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/matrices/enterprise/.
 
 
-3. “Tactics - Enterprise.” n.d. MITRE ATT&CK®. Accessed October 31, 2022. https://attack.mitre.org/tactics/enterprise/.
+3. “Tactics - Enterprise.” n.d. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/tactics/enterprise/.
 
 
-4. “Techniques - Enterprise.” n.d. MITRE ATT&CK®. Accessed October 31, 2022. https://attack.mitre.org/techniques/enterprise/.
+4. “Techniques - Enterprise.” n.d. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/techniques/enterprise/.
 
 
 5. “Active Scanning, Technique T1595 - Enterprise.” 2020. MITRE ATT&CK®. https://attack.mitre.org/techniques/T1595/.
 
 
-6. “Active Scanning: Scanning IP Blocks, Sub-technique T1595.001 - Enterprise.” 2020. MITRE ATT&CK®. https://attack.mitre.org/techniques/T1595/001/.
+6. “Active Scanning: Scanning IP Blocks, Sub-technique T1595.001 - Enterprise.” 2020. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/techniques/T1595/001/.
 
 
-7. “Active Scanning: Vulnerability Scanning, Sub-technique T1595.002 - Enterprise.” 2020. MITRE ATT&CK®. https://attack.mitre.org/techniques/T1595/002/.
+7. “Active Scanning: Vulnerability Scanning, Sub-technique T1595.002 - Enterprise.” 2020. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/techniques/T1595/002/.
 
 
-8. “Active Scanning: Wordlist Scanning, Sub-technique T1595.003 - Enterprise.” 2022. MITRE ATT&CK®. https://attack.mitre.org/techniques/T1595/003/.
+8. “Active Scanning: Wordlist Scanning, Sub-technique T1595.003 - Enterprise.” 2022. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/techniques/T1595/003/.
 
 
-9. “Reconnaissance, Tactic TA0043 - Enterprise.” 2020. MITRE ATT&CK®. https://attack.mitre.org/tactics/TA0043/
+9. “Reconnaissance, Tactic TA0043 - Enterprise.” 2020. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/tactics/TA0043/
 
 
-10. “Cyber Kill Chain®.” n.d. Lockheed Martin. Accessed October 31, 2022. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html.
+10. “Cyber Kill Chain®.” n.d. Lockheed Martin. Accessed October 17, 2022. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html.
 
 
 11. Poston, Howard. 2020. “MITRE ATT&CK® Framework Matrices: An Overview \| Infosec Resources.” Infosec Resources. https://resources.infosecinstitute.com/topic/mitre-attck-framework-matrices-an-overview/.
 
 
-12. CISA: Homepage. Accessed October 31, 2022. https://www.cisa.gov/.
+12. CISA: Homepage. Accessed October 17, 2022. https://www.cisa.gov/.
 
 
-13. “RVAs Mapped to the MITRE ATT&CK Framework.” n.d. CISA. Accessed October 31, 2022. https://www.cisa.gov/sites/default/files/publications/FY20_RVAs_Mapped_to_the_MITRE_ATTCK_Framework_508_corrected.pdf.
+13. “RVAs Mapped to the MITRE ATT&CK Framework.” n.d. CISA. Accessed October 17, 2022. https://www.cisa.gov/sites/default/files/publications/FY20_RVAs_Mapped_to_the_MITRE_ATTCK_Framework_508_corrected.pdf.
 
 
-14. “What is MITRE Att&ck?” n.d. L7 Defense. Accessed October 31, 2022. https://www.l7defense.com/cyber-security/what-is-mitre-attack-matrix-and-evaluation-spreadsheet/.
+14. “What is MITRE Att&ck?” n.d. L7 Defense. Accessed October 17, 2022. https://www.l7defense.com/cyber-security/what-is-mitre-attack-matrix-and-evaluation-spreadsheet/.
 
 -------
 
