@@ -4,7 +4,7 @@
 #  5 Top FREE Digital Forensics Resources From The National Institute of Standards and Technology (NIST)
 
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/15*
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/19*
 
 -------
 
@@ -114,31 +114,31 @@ What are some of your favorite NIST resources? What other digital forensics reso
 
 ## References
 
-1. “Digital evidence \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/digital-evidence. Accessed 22 October 2022.
+1. “Digital evidence \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/digital-evidence. Accessed 19 October 2022.
 
 
-2. “Cybersecurity \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/cybersecurity. Accessed 22 October 2022.
+2. “Cybersecurity \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/cybersecurity. Accessed 19 October 2022.
 
 
-3. “Workforce Framework for Cybersecurity (NICE Framework) \| NICCS.” NICCS, 30 June 2022, https://niccs.cisa.gov/workforce-development/nice-framework. Accessed 22 October 2022.
+3. “Workforce Framework for Cybersecurity (NICE Framework) \| NICCS.” NICCS, 30 June 2022, https://niccs.cisa.gov/workforce-development/nice-framework. Accessed 19 October 2022.
 
 
-4. “Using the NICE Framework.” NICCS, https://niccs.cisa.gov/sites/default/files/documents/pdf/using%20the%20nice%20framework_pdf.pdf?trackDocs=using%20the%20nice%20framework_pdf.pdf. Accessed 22 October 2022.
+4. “Using the NICE Framework.” NICCS, https://niccs.cisa.gov/sites/default/files/documents/pdf/using%20the%20nice%20framework_pdf.pdf?trackDocs=using%20the%20nice%20framework_pdf.pdf. Accessed 19 October 2022.
 
 
-5. “National Software Reference Library (NSRL) \| NIST.” National Institute of Standards and Technology, 19 April 2016, http://www.nsrl.nist.gov/. Accessed 22 October 2022.
+5. “National Software Reference Library (NSRL) \| NIST.” National Institute of Standards and Technology, 19 April 2016, http://www.nsrl.nist.gov/. Accessed 19 October 2022.
 
 
-6. “Computer Forensics Tool Testing Program (CFTT) \| NIST.” National Institute of Standards and Technology, 8 May 2017, http://www.cftt.nist.gov/. Accessed 22 October 2022.
+6. “Computer Forensics Tool Testing Program (CFTT) \| NIST.” National Institute of Standards and Technology, 8 May 2017, http://www.cftt.nist.gov/. Accessed 19 October 2022.
 
 
-7. “Video Analytics \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/programs-projects/video-analytics. Accessed 22 October 2022.
+7. “Video Analytics \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/programs-projects/video-analytics. Accessed 19 October 2022.
 
 
-8. “Image Group \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/itl/iad/image-group. Accessed 22 October 2022.
+8. “Image Group \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/itl/iad/image-group. Accessed 19 October 2022.
 
 
-9. “NIST Cloud Computing Forensic Science \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/programs-projects/nist-cloud-computing-forensic-science. Accessed 22 October 2022.
+9. “NIST Cloud Computing Forensic Science \| NIST.” National Institute of Standards and Technology, https://www.nist.gov/programs-projects/nist-cloud-computing-forensic-science. Accessed 19 October 2022.
 
 
 -------
