@@ -40,18 +40,31 @@ There are 14 goals, or *tactics*, in MITRE ATT&CK.<sup>[2]</sup>
 ***Fourteen Tactics Of The MITRE ATT&CK Matrix:***
 >
 *1. Reconnaissance*
+
 *2. Resource Development*
+
 *3. Initial Access*
+
 *4. Execution*
+
 *5. Persistence*
+
 *6. Privilege Escalation*
+
 *7. Defense Evasion*
+
 *8. Credential Access*
+
 *9. Discovery*
+
 *10. Lateral Movement*
+
 *11. Command & Control*
+
 *12. Collection*
+
 *13. Exfiltration*
+
 *14. Impact*
 
 
