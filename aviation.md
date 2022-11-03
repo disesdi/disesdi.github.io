@@ -9,6 +9,12 @@
 
 -------
 
+### [*Thinking About AviationCyber Papers: Assessing Aviation Cybersecurity, Part 1 >>*](https://anglesofattack.io/2/avcyber_assessments_1.html)
+
+How secure is AviationCyber? And how do we know? [*more >>*](https://anglesofattack.io/2/avcyber_assessments_1.html)
+
+-------
+
 ### [*#AviationCyber Attack Case Study: Sunwing Airlines 2022>>*](https://disesdi.github.io/2/sunwing_2022.html)
 
 Sunwing Airlines & Airline Choice, April 2022: A Phishing + 3rd Party/Supply Chain Breach In The Aviation Sector [*more >>*](https://disesdi.github.io/2/sunwing_2022.html)
