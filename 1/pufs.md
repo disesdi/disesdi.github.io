@@ -144,7 +144,7 @@ These results are in line with current academic literature,<sup>[20]</sup> and w
 
 -------
 
-### [*Contact me >>*](https://disesdi.github.io/contact.html)
+## [*Contact me >>*](https://disesdi.github.io/contact.html)
 
 -------
 -------
