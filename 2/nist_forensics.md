@@ -69,12 +69,12 @@ According to the site, the projects we’re about to dive into "*are just a few 
 Here are five key NIST digital forensics resources for researchers at all levels of experience:
 
 
-\1. The [National Software Reference Library](http://www.nsrl.nist.gov/) is a "regularly updated archive of known, traceable software applications collected by NIST."
+### 1. The [National Software Reference Library](http://www.nsrl.nist.gov/) is a "regularly updated archive of known, traceable software applications collected by NIST."
 
 >*”We generate digital signatures from all files in that archive and release them in a quarterly Reference Data Set (RDS). When a law enforcement organization seizes a computer or mobile device as part of a criminal investigation, they can use the RDS to quickly identify the known files on that device. This reduces the effort required to determine which files are important as evidence and which are not.” – NIST* <sup>[5]</sup> 
 
 
-\2. The [Computer Forensic Tool Testing program](http://www.cftt.nist.gov/) ”establishes a methodology for testing computer forensic software tools by developing general tool specifications, test procedures, test criteria, test sets, and test hardware.”
+### 2. The [Computer Forensic Tool Testing program](http://www.cftt.nist.gov/) ”establishes a methodology for testing computer forensic software tools by developing general tool specifications, test procedures, test criteria, test sets, and test hardware.”
 
 >*”There is a critical need in the law enforcement community to ensure the reliability of computer forensic tools….The [test] results help toolmakers to improve their products, allows users to make informed choices about which tools to use, and provides information to all interested parties on the capabilities of various computer tools used in forensic investigations.” – NIST* <sup>[6]</sup> 
 
