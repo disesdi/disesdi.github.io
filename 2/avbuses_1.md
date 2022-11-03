@@ -3,7 +3,7 @@
 
 # Buses On Planes Part 1: A Quick Introduction To Digital Avionics Networks
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/15*
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/26*
 
 -------
 
@@ -110,7 +110,7 @@ Thanks for reading!
 
 
 
-1. “Networks and Busses \| Digital Communication \| Electronics Textbook.” All About Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-14/networks-and-busses/. Accessed 1 November 2022.
+1. “Networks and Busses \| Digital Communication \| Electronics Textbook.” All About Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-14/networks-and-busses/. Accessed 26 October 2022.
 
 
 2. Schuster, T. and D. Verma. “Networking concepts comparison for avionics architecture.” 2008 IEEE/AIAA 27th Digital Avionics Systems Conference (2008): 1.D.1-1-1.D.1-11.
@@ -125,16 +125,16 @@ Thanks for reading!
 5. Hope, David C.. “Towards a Wireless Aircraft.” (2011).
 
 
-6. Wm, Justin. 2015. “Hacker Chris Roberts told FBI he took control of United plane, FBI claims.” The Washington Post. https://www.washingtonpost.com/news/morning-mix/wp/2015/05/18/hacker-chris-roberts-told-fbi-he-took-control-of-united-plane-fbi-claims/.
+6. Wm, Justin. 2015. “Hacker Chris Roberts told FBI he took control of United plane, FBI claims.” The Washington Post. Accessed 26 October 2022. https://www.washingtonpost.com/news/morning-mix/wp/2015/05/18/hacker-chris-roberts-told-fbi-he-took-control-of-united-plane-fbi-claims/.
 
 
-7. Zetter, Kim. 2015. “Feds Say That Banned Researcher Commandeered a Plane.” WIRED. https://www.wired.com/2015/05/feds-say-banned-researcher-commandeered-plane/.
+7. Zetter, Kim. 2015. “Feds Say That Banned Researcher Commandeered a Plane.” WIRED. Accessed 26 October 2022. https://www.wired.com/2015/05/feds-say-banned-researcher-commandeered-plane/.
 
 
-8. Crocker, Andrew. 2015. “United Airlines Stops Researcher Who Tweeted about Airplane Network Security from Boarding Flight to Security Conferences.” Electronic Frontier Foundation. https://www.eff.org/deeplinks/2015/04/united-airlines-stops-researcher-who-tweeted-about-airplane-network-security.
+8. Crocker, Andrew. 2015. “United Airlines Stops Researcher Who Tweeted about Airplane Network Security from Boarding Flight to Security Conferences.” Electronic Frontier Foundation. Accessed 26 October 2022. https://www.eff.org/deeplinks/2015/04/united-airlines-stops-researcher-who-tweeted-about-airplane-network-security.
 
 
-9. Gibbs, Samuel. 2015. “Aviation experts dispute hacker's claim he seized control of airliner mid-flight.” The Guardian. https://www.theguardian.com/technology/2015/may/19/hacker-chris-roberts-claim-seized-control-boeing-airliner-disputed-experts.
+9. Gibbs, Samuel. 2015. “Aviation experts dispute hacker's claim he seized control of airliner mid-flight.” The Guardian. Accessed 26 October 2022. https://www.theguardian.com/technology/2015/may/19/hacker-chris-roberts-claim-seized-control-boeing-airliner-disputed-experts.
 
 
 10. Ricker, Tony. “Avionics bus technology: Which bus should i get on?” 2017 IEEE/AIAA 36th Digital Avionics Systems Conference (DASC) (2017): 1-12.
@@ -150,11 +150,11 @@ Thanks for reading!
 system,” in IEEE DASC, 2001
 
 
-14. Freiherr, Greg. “Will Your Airliner Get Hacked? \| Air & Space Magazine.” Smithsonian Magazine, https://www.smithsonianmag.com/air-space-magazine/will-your-airliner-get-hacked-180976752/. Accessed 1 November 2022.
+14. Freiherr, Greg. “Will Your Airliner Get Hacked? \| Air & Space Magazine.” Smithsonian Magazine. Accessed 26 October 2022. https://www.smithsonianmag.com/air-space-magazine/will-your-airliner-get-hacked-180976752/.
 
 
 
-15. “What Is Lateral Movement?” n.d. Palo Alto Networks. Accessed November 1, 2022. https://www.paloaltonetworks.com/cyberpedia/what-is-lateral-movement.
+15. “What Is Lateral Movement?” n.d. Palo Alto Networks. Accessed 26 October 2022. https://www.paloaltonetworks.com/cyberpedia/what-is-lateral-movement.
 
 
 16. Park, Pangun, Piergiuseppe Di Marco, Junghyo Nah and C. Fischione. “Wireless Avionics Intracommunications: A Survey of Benefits, Challenges, and Solutions.” IEEE Internet of Things Journal 8 (2021): 7745-7767.
