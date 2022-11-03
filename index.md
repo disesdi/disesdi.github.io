@@ -33,7 +33,7 @@ Modern avionics buses play a crucial role in aviation. But what exactly is a bus
 
 ### [*Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>*](https://disesdi.github.io/1/pufs.html)
 
-PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/pufs.html)
+PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/1/pufs.html)
 
 -------
 
