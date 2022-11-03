@@ -4,7 +4,7 @@
 # Real Time Embedded Systems: A Quick Primer
 
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/15*
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/11/01*
 
 -------
 
