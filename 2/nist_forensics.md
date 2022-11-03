@@ -79,7 +79,7 @@ Here are five key NIST digital forensics resources for researchers at all levels
 >*”There is a critical need in the law enforcement community to ensure the reliability of computer forensic tools….The [test] results help toolmakers to improve their products, allows users to make informed choices about which tools to use, and provides information to all interested parties on the capabilities of various computer tools used in forensic investigations.” – NIST* <sup>[6]</sup> 
 
 
-3. Video forensics: NIST has "multiple projects aimed at advancing [video technologies](https://www.nist.gov/programs-projects/video-analytics) that have forensic applications.”
+**3. Video forensics: NIST has "multiple projects aimed at advancing [video technologies](https://www.nist.gov/programs-projects/video-analytics) that have forensic applications.”**
 
 >*”Current project areas include detection of events in surveillance video, detection of events in internet video, and detection and understanding of images that have been altered from their original state.” – NIST* <sup>[7]</sup> 
 
