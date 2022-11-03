@@ -93,7 +93,7 @@ In this post I’ll be focusing on **Reconnaissance**.
 These techniques include performing network scans, gathering information about the hardware, software etc that a target relies on; gathering information about victims such as names, email addresses, and other personal information; stealing credentials to gain unauthorized access; and more.
 
 
-> In the Reconnaissance phase *“the adversary is trying to gather information they can use to plan future operations.” [MITRE](https://attack.mitre.org/tactics/TA0043/)*
+> In the Reconnaissance phase *“the adversary is trying to gather information they can use to plan future operations.” [MITRE](https://attack.mitre.org/tactics/TA0043/) <sup>[9]</sup>*
 
 
 You can read the full list of Reconnaissance techniques in the ATT&CK framework [here](https://attack.mitre.org/tactics/TA0043/).
