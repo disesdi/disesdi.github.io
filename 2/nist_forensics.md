@@ -49,7 +49,7 @@ Side note: for more information on cybersecurity roles, check out the [NICE Fram
 You can find a (more technical) guide to using the NICE Framework [here](https://niccs.cisa.gov/sites/default/files/documents/pdf/using%20the%20nice%20framework_pdf.pdf?trackDocs=using%20the%20nice%20framework_pdf.pdf).<sup>[4]</sup> 
 
 
-According to the [NIST cybersecurity](https://www.nist.gov/cybersecurity) site, *”NIST develops cybersecurity standards, guidelines, best practices, and other resources to meet the needs of U.S. industry, federal agencies and the broader public.”* 
+According to the [NIST cybersecurity](https://www.nist.gov/cybersecurity) site, "*NIST develops cybersecurity standards, guidelines, best practices, and other resources to meet the needs of U.S. industry, federal agencies and the broader public.*" 
 
 
 NIST standards, recommendations, and best practices set industry standards and are considered a valuable resource by cybersecurity professionals.
