@@ -55,12 +55,12 @@ According to the [NIST cybersecurity](https://www.nist.gov/cybersecurity) site, 
 NIST standards, recommendations, and best practices set industry standards and are considered a valuable resource by cybersecurity professionals.
 
 
-NIST resources are broad. No one blog post could truly be an exhaustive catalog of what’s available, so you should definitely check out their cybersecurity resources yourself!
-
-
 These resources are by no means exhaustive–there is a lot more to see on the NIST Digital Evidence site. 
 
-According to the site, the projects we’re about to dive into *“are just a few examples of how [NIST helps] the digital forensics community to address these challenges.”
+NIST resources are broad. No one blog post could easily fit a catalog of what’s available, so you should definitely check out their cybersecurity resources yourself!
+
+
+According to the site, the projects we’re about to dive into "*are just a few examples of how [NIST helps] the digital forensics community to address these challenges.*”
 
 
 ## The Resources: 5 Excellent & Free NIST Digital Forensics Sites To Check Out 
@@ -79,7 +79,7 @@ Here are five key NIST digital forensics resources for researchers at all levels
 >*”There is a critical need in the law enforcement community to ensure the reliability of computer forensic tools….The [test] results help toolmakers to improve their products, allows users to make informed choices about which tools to use, and provides information to all interested parties on the capabilities of various computer tools used in forensic investigations.” – NIST* <sup>[6]</sup> 
 
 
-3. Video forensics: NIST has "multiple projects aimed at advancing [video technologies](https://www.nist.gov/programs-projects/video-analytics) that have forensic applications.”* 
+3. Video forensics: NIST has "multiple projects aimed at advancing [video technologies](https://www.nist.gov/programs-projects/video-analytics) that have forensic applications.”
 
 >*”Current project areas include detection of events in surveillance video, detection of events in internet video, and detection and understanding of images that have been altered from their original state.” – NIST* <sup>[7]</sup> 
 
