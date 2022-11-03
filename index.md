@@ -87,9 +87,10 @@ Data science, NLProc, and AIML for the culture *<a href="https://indigenous.engi
 
 -------
 
-### CX7: AIML, Security, Policy, & People
+### *<a href="https://www.cx7.dev/" target="_blank" rel="noopener noreferrer">CX7: AIML, Security, Policy, & People >> </a>*
 
-Research at the intersections of AIML, public policy, and public good.
+
+Research at the intersections of AIML, public policy, and public good. *<a href="https://www.cx7.dev/" target="_blank" rel="noopener noreferrer">more >> </a>*
 
 -------
 
