@@ -61,7 +61,19 @@ PUFs have been proposed as a lightweight drone authentication method resistant t
 
 ### [*Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs >>*](https://disesdi.github.io/1/ics_ensemble.html)
 
-Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [*more >>*](https://disesdi.github.io/ics_ensemble.html)  
+Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [*more >>*](https://disesdi.github.io/ics_ensemble.html)
+
+-------
+
+### [*5 Free Digital Forensics Resources From The National Institute of Standards and Technology (NIST) >>*](https://anglesofattack.io/2/nist_forensics.html)
+
+Free digital forensics resources for researchers of all levels [*more >>*](https://anglesofattack.io/2/nist_forensics.html)
+
+-------
+
+### [*Intro To MITRE PRE-ATT&CK Part 1: Tactics, Techniques, & Reconnaissance  >>*](https://anglesofattack.io/2/mitre_pre.html)
+
+Breaking Pre-ATT&CK down, piece-by-piece [*more >>*](https://anglesofattack.io/2/mitre_pre.html)
 
 -------
 
@@ -69,17 +81,15 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
-### *<a href="https://cx7.dev/" target="_blank" rel="noopener noreferrer">CX7: AIML, Security, Policy, & People >> </a>*
-
-Research at the intersections of AIML, public policy, and public good *<a href="https://cx7.dev/" target="_blank" rel="noopener noreferrer">more >> </a>*
-
--------
-
 ### *<a href="https://indigenous.engineering/" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>*
 
 Data science, NLProc, and AIML for the culture *<a href="https://indigenous.engineering/" target="_blank" rel="noopener noreferrer">more >> </a>*
 
+-------
 
+### CX7: AIML, Security, Policy, & People
+
+Research at the intersections of AIML, public policy, and public good *<a href="https://cx7.dev/" target="_blank" rel="noopener noreferrer">more >> </a>*
 
 -------
 
