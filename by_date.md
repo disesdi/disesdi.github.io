@@ -3,12 +3,29 @@
 
 # Everything by date
 
------
+-------
 
 *Everything [by subject >>](https://disesdi.github.io/about.html)*
 
------
+-------
 
+### [*Real Time Embedded Systems: A Quick Primer >>*](https://anglesofattack.io/2/real_time_systems.html)
+
+What are embedded systems, and what makes a system ‘real-time’? [*more >>*](https://anglesofattack.io/2/real_time_systems.html)
+
+-------
+
+### [*Thinking About AviationCyber Papers: Assessing Aviation Cybersecurity, Part 1 >>*](https://anglesofattack.io/2/avcyber_assessments_1.html)
+
+How secure is AviationCyber? And how do we know? [*more >>*](https://anglesofattack.io/2/avcyber_assessments_1.html)
+
+-------
+
+### [*Buses On Planes Part 1: A Quick Introduction To Digital Avionics Networks  >>*](https://anglesofattack.io/2/avbuses_1.html)
+
+Modern avionics buses play a crucial role in aviation. But what exactly is a bus, and what is it doing on a plane? [*more >>*](https://anglesofattack.io/2/avbuses_1.html)
+
+-------
 
 ### [*Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>*](https://disesdi.github.io/1/pufs.html)
 
@@ -25,6 +42,18 @@ Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply cha
 ### [*Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs >>*](https://disesdi.github.io/1/ics_ensemble.html)
 
 Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [*more >>*](https://disesdi.github.io/1/ics_ensemble.html) 
+
+-------
+
+### [*5 Free Digital Forensics Resources From The National Institute of Standards and Technology (NIST) >>*](https://anglesofattack.io/2/nist_forensics.html)
+
+Free digital forensics resources for researchers of all levels [*more >>*](https://anglesofattack.io/2/nist_forensics.html)
+
+-------
+
+### [*Intro To MITRE PRE-ATT&CK Part 1: Tactics, Techniques, & Reconnaissance  >>*](https://anglesofattack.io/2/mitre_pre.html)
+
+Breaking Pre-ATT&CK down, piece-by-piece [*more >>*](https://anglesofattack.io/2/mitre_pre.html)
 
 -------
 
