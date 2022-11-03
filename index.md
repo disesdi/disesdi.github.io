@@ -53,6 +53,12 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
+### [*Intro To MITRE PRE-ATT&CK Part 1: Tactics, Techniques, & Reconnaissance  >>*](https://anglesofattack.io/2/mitre_pre.html)
+
+Breaking Pre-ATT&CK down, piece-by-piece [*more >>*](https://anglesofattack.io/2/mitre_pre.html)
+
+-------
+
 ### [*Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting >>*](https://disesdi.github.io/1/pufs.html)
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/pufs.html)
@@ -68,12 +74,6 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 ### [*5 Free Digital Forensics Resources From The National Institute of Standards and Technology (NIST) >>*](https://anglesofattack.io/2/nist_forensics.html)
 
 Free digital forensics resources for researchers of all levels [*more >>*](https://anglesofattack.io/2/nist_forensics.html)
-
--------
-
-### [*Intro To MITRE PRE-ATT&CK Part 1: Tactics, Techniques, & Reconnaissance  >>*](https://anglesofattack.io/2/mitre_pre.html)
-
-Breaking Pre-ATT&CK down, piece-by-piece [*more >>*](https://anglesofattack.io/2/mitre_pre.html)
 
 -------
 
