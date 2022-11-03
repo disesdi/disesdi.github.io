@@ -1,7 +1,7 @@
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
 
 
-#  5 Top FREE Digital Forensics Resources From The National Institute of Standards and Technology (NIST)
+#  5 Free Digital Forensics Resources From The National Institute of Standards and Technology (NIST)
 
 
 ### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/19*
