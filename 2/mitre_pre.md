@@ -141,7 +141,7 @@ Thanks for reading!
 4. “Techniques - Enterprise.” n.d. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/techniques/enterprise/.
 
 
-5. “Active Scanning, Technique T1595 - Enterprise.” 2020. MITRE ATT&CK®. https://attack.mitre.org/techniques/T1595/.
+5. “Active Scanning, Technique T1595 - Enterprise.” 2020. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/techniques/T1595/.
 
 
 6. “Active Scanning: Scanning IP Blocks, Sub-technique T1595.001 - Enterprise.” 2020. MITRE ATT&CK®. Accessed October 17, 2022. https://attack.mitre.org/techniques/T1595/001/.
@@ -159,7 +159,7 @@ Thanks for reading!
 10. “Cyber Kill Chain®.” n.d. Lockheed Martin. Accessed October 17, 2022. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html.
 
 
-11. Poston, Howard. 2020. “MITRE ATT&CK® Framework Matrices: An Overview \| Infosec Resources.” Infosec Resources. https://resources.infosecinstitute.com/topic/mitre-attck-framework-matrices-an-overview/.
+11. Poston, Howard. 2020. “MITRE ATT&CK® Framework Matrices: An Overview \| Infosec Resources.” Infosec Resources. Accessed October 17, 2022. https://resources.infosecinstitute.com/topic/mitre-attck-framework-matrices-an-overview/.
 
 
 12. CISA: Homepage. Accessed October 17, 2022. https://www.cisa.gov/.
