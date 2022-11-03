@@ -7,7 +7,7 @@
 
 -------
 
-### *Code available [here >>]()*
+### *Code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)*
 
 -------
 
@@ -139,7 +139,7 @@ Given the ease with which scores can be increased with rudimentary parameter tun
 
 These results are in line with current academic literature,<sup>[20]</sup> and were acheived using a Jupyter Notebook kernel running inside a Linux virtual machine hosted on a Chromebook laptop. Increasingly large datasets and computationally intensive methods have increasingly accurate results. 
 
-*Code available [here >>]()*
+*Code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)*
 
 
 -------
