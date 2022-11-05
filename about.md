@@ -33,16 +33,16 @@ Technical applications, code & how-tos  [*more >>*](https://disesdi.github.io/en
 
 -------
 
-## European Union Aviation Safety Agency (EASA) Cybersecurity Overview  [*go >>*](https://www.easa.europa.eu/en/domains/cyber-security/overview) 
-
-
-## International Civil Aviation Association (ICAO) Aviation Cybersecurity  [*go >>*](https://www.icao.int/aviationcybersecurity/Pages/default.aspx) 
+## International Civil Aviation Organization (ICAO) Aviation Cybersecurity  [*go >>*](https://www.icao.int/aviationcybersecurity/Pages/default.aspx) 
 
 
 ## International Air Transport Association (IATA) Aviation Cybersecurity  [*go >>*](https://www.iata.org/en/programs/security/cyber-security/)
 
 
-## US Federal Aviation Administration (FAA) Cybersecurity Awareness Symposium  [*go >>*](https://www.faa.gov/air_traffic/technology/cas)
+## United States Federal Aviation Administration (FAA) Cybersecurity Awareness Symposium  [*go >>*](https://www.faa.gov/air_traffic/technology/cas)
+
+
+## European Union Aviation Safety Agency (EASA) Cybersecurity Overview  [*go >>*](https://www.easa.europa.eu/en/domains/cyber-security/overview) 
 
 -------
 
