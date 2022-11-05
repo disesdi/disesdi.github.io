@@ -41,6 +41,9 @@ Technical applications, code & how-tos  [*more >>*](https://disesdi.github.io/en
 
 ## International Air Transport Association (IATA) Aviation Cybersecurity  [*go >>*](https://www.iata.org/en/programs/security/cyber-security/)
 
+
+## US Federal Aviation Administration (FAA) Cybersecurity Awareness Symposium  [*go >>*](https://www.faa.gov/air_traffic/technology/cas)
+
 -------
 
 
