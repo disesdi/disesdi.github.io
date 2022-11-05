@@ -35,22 +35,19 @@ Technical applications, code & how-tos  [*more >>*](https://disesdi.github.io/en
 
 ### International Civil Aviation Organization (ICAO) 
 
-Aviation Cybersecurity  [*go >>*](https://www.icao.int/aviationcybersecurity/Pages/default.aspx) 
-
+Aviation Cybersecurity Overview <a href="https://www.icao.int/aviationcybersecurity/Pages/default.aspx" target="_blank" rel="noopener noreferrer">go >></a>
 
 ### International Air Transport Association (IATA) 
 
-Aviation Cybersecurity  [*go >>*](https://www.iata.org/en/programs/security/cyber-security/)
-
+Aviation Cyber Security <a href="https://www.iata.org/en/programs/security/cyber-security/)" target="_blank" rel="noopener noreferrer">go >></a>
 
 ### United States Federal Aviation Administration (FAA) 
 
-Cybersecurity Awareness Symposium  [*go >>*](https://www.faa.gov/air_traffic/technology/cas)
-
+Cybersecurity Awareness Symposium <a href="https://www.faa.gov/air_traffic/technology/cas" target="_blank" rel="noopener noreferrer">go >></a>   
 
 ### European Union Aviation Safety Agency (EASA) 
 
-Cybersecurity Overview  [*go >>*](https://www.easa.europa.eu/en/domains/cyber-security/overview) 
+Cybersecurity Overview <a href="https://www.easa.europa.eu/en/domains/cyber-security/overview" target="_blank" rel="noopener noreferrer">go >></a> 
 
 -------
 
