@@ -98,12 +98,5 @@ Data science, NLProc, and AIML for the culture *<a href="https://indigenous.engi
 
 -------
 
-### *<a href="https://www.cx7.dev/" target="_blank" rel="noopener noreferrer">CX7: AIML, Security, Policy, & People >> </a>*
-
-
-Research at the intersections of AIML, public policy, and public good. *<a href="https://www.cx7.dev/" target="_blank" rel="noopener noreferrer">more >> </a>*
-
--------
-
 **home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
