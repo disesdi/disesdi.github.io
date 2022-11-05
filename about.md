@@ -33,6 +33,17 @@ Technical applications, code & how-tos  [*more >>*](https://disesdi.github.io/en
 
 -------
 
+## European Union Aviation Safety Agency (EASA) Cybersecurity Overview  [*go >>*](https://www.easa.europa.eu/en/domains/cyber-security/overview) 
+
+
+## International Civil Aviation Association (ICAO) Aviation Cybersecurity  [*go >>*](https://www.icao.int/aviationcybersecurity/Pages/default.aspx) 
+
+
+## International Air Transport Association (IATA) Aviation Cybersecurity  [*go >>*](https://www.iata.org/en/programs/security/cyber-security/)
+
+-------
+
+
 ***ᎦᏙᎯ:*** *My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
 
 ***ᏗᎦᏙᎯ:*** *Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>*
