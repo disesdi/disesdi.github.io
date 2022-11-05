@@ -39,7 +39,7 @@ Aviation Cybersecurity Overview <a href="https://www.icao.int/aviationcybersecur
 
 ### International Air Transport Association (IATA) 
 
-Aviation Cyber Security <a href="https://www.iata.org/en/programs/security/cyber-security/)" target="_blank" rel="noopener noreferrer">go >></a>
+Aviation Cyber Security <a href="https://www.iata.org/en/programs/security/cyber-security/" target="_blank" rel="noopener noreferrer">go >></a>
 
 ### United States Federal Aviation Administration (FAA) 
 
