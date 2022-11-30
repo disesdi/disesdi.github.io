@@ -62,8 +62,9 @@ Not the only way. But an important one.
 
 The issues involved in aviation cybersecurity are varied and complex. A couple of key factors driving the importance right now:
 
-aircraft adopting more software-driven technologies
-aviation-related tech becoming increasingly available to civilians
+* aircraft adopting more software-driven technologies
+
+* aviation-related tech becoming increasingly available to civilians
 
 Wireless and E-Enabled aircraft technologies are among the newest software-enabled tech onboard modern commercial planes now. 
 
