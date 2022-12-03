@@ -42,13 +42,24 @@ This approach has drawbacks, however, when it comes to cybersecurity. While the 
 *“...with the widespread availability of cheap and powerful tools such as software-defined radios (SDR), the aviation community lost the considerable technical advantage protecting its communication in the past.”* <sup>[6]</sup>
 
 
-How do we address the problem? One key takeaway from this paper: aviation and cybersecurity need a lot more cross-discipline collaboration. There is a lack of aviation knowledge in the cybersecurity community, and conversely a general lack of cybersecurity experience among aviation experts. This coupled with the expertise & experience-driven nature of aviation in general, means that aviation knowledge isn’t readily available to outsiders. It also means that cross-disciplinary information isn’t readily available to either of these two groups–aviation or cybersecurity–about one another. 
+How do we address the problem? 
+
+One key takeaway from this paper: aviation and cybersecurity need a lot more cross-discipline collaboration. There is a lack of aviation knowledge in the cybersecurity community, and conversely a general lack of cybersecurity experience among aviation experts. 
+
+
+This coupled with the expertise & experience-driven nature of aviation in general, means that aviation knowledge isn’t readily available to outsiders. 
+
+
+It also means that cross-disciplinary information isn’t readily available to either of these two groups–aviation or cybersecurity–about one another. 
 
 
 In short: Aviation needs more cyber, and cyber needs more aviators.
 
 
-The saying goes that *aviation rules are written in blood.* Will changes in aviation cybersecurity come after a catastrophic security failure? We can do more than hope not–we can work across disciplines to improve aviation security and safety for all. 
+The saying goes that *aviation rules are written in blood.* Will changes in aviation cybersecurity come after a catastrophic security failure? 
+
+
+We can do more than hope not–we can work across disciplines to improve aviation security and safety for all. 
 
 -------
 
