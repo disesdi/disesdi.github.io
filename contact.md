@@ -8,7 +8,6 @@
 
 ### Email: *<a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>* 
 
--------
 
 ### Github: *<a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi >> </a>*
 
