@@ -18,7 +18,7 @@ Search for aviation cybersecurity and information is–as of right now, in 2022�
 This trend belies the academic research to a certain extent, in that there are pages and pages of aviation cybersecurity-related papers with titles that seem alarming on the surface. Researching these can seem overwhelming. Titles such as *Cybersecurity – One of the Greatest Challenges for Civil Aviation in the 21st Century*,<sup>[1]</sup> and *Aviation Cybersecurity and Cyber-Resilience: Assessing Risk in Air Traffic Management*,<sup>[2]</sup> underscore the critical importance of aviation cybersecurity. Titles as innocuous-sounding as *A Framework for Aviation Cybersecurity*<sup>[3]</sup> might be viewed in the same session as highly technical–and somewhat scary sounding–titles such as *GDL90fuzz: Fuzzing - GDL-90 Data Interface Specification Within Aviation Software and Avionics Devices–A Cybersecurity Pentesting Perspective.*<sup>[4]</sup>
 
 
-(Is it really possible to tamper with ADS-B by exploiting underlying Garmin Datalink technologies? Yes, but also: it’s *complicated*.)
+(Is it really possible to tamper with ADS-B by exploiting underlying Garmin Datalink technologies? Yes, but also: it’s *complicated*.)<sup>[4]</sup>
 
 
 Meanwhile titles such as *Cybersecurity Of Aviation Sector Will Improve Slowly*,<sup>[5]</sup> while consistent with the pace of change in the industry, seem to be cause for concern when juxtaposed against the rapidly-evolving cybersecurity field. 
