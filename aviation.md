@@ -9,6 +9,12 @@
 
 -------
 
+### [*An (Informal) Survey Of The State Of Aviation Cybersecurity >>*](https://anglesofattack.io/2/survey_of_aviationcyber.html)
+
+We need to talk about AviationCyber, but where do we start? [*more >>*](https://anglesofattack.io/2/survey_of_aviationcyber.html)
+
+-------
+
 ### [*Thinking About AviationCyber Papers: Assessing Aviation Cybersecurity, Part 1 >>*](https://anglesofattack.io/2/avcyber_assessments_1.html)
 
 How secure is AviationCyber? And how do we know? [*more >>*](https://anglesofattack.io/2/avcyber_assessments_1.html)
