@@ -12,13 +12,14 @@
 
 ### Github: *<a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi >> </a>*
 
--------
 
 ### Telegram: *<a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>* 
 
--------
 
 ### LinkedIn: *<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">linkedin.com/in/disesdi >></a>*
+
+
+### Twitter: *<a href="https://twitter.com/IndigenousAI/" target="_blank" rel="noopener noreferrer">@IndigenousAI >></a>*
 
 -------
 
