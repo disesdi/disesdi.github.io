@@ -13,6 +13,12 @@
 
 -------
 
+### [*An (Informal) Survey Of The State Of Aviation Cybersecurity >>*](https://anglesofattack.io/2/survey_of_aviationcyber.html)
+
+We need to talk about AviationCyber, but where do we start? [*more >>*](https://anglesofattack.io/2/survey_of_aviationcyber.html)
+
+-------
+
 ### [*Real Time Embedded Systems: A Quick Primer >>*](https://anglesofattack.io/2/real_time_systems.html)
 
 What are embedded systems, and what makes a system ‘real-time’? [*more >>*](https://anglesofattack.io/2/real_time_systems.html)
