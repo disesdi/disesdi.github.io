@@ -6,7 +6,13 @@
 
 -------
 
-### Email: *<a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>* 
+### Twitter: *<a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">@disesdi >></a>*
+
+
+### LinkedIn: *<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">linkedin.com/in/disesdi >></a>*
+
+
+### TikTok: *<a href="https://www.tiktok.com/@angles.of.attack?_t=8XsMLxMhCXO&_r=1" target="_blank" rel="noopener noreferrer">@angles.of.attack >></a>*
 
 
 ### Github: *<a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi >> </a>*
@@ -14,13 +20,10 @@
 
 ### Telegram: *<a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>* 
 
-
-### LinkedIn: *<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">linkedin.com/in/disesdi >></a>*
-
-
-### Twitter: *<a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">@disesdi >></a>*
-
 -------
+
+### Email: *<a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>* 
+
 
 ### Public key *<a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>*
 
