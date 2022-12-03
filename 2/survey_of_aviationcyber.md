@@ -30,7 +30,10 @@ Perhaps more concerning are the issues raised in a 2016 paper entitled *On Perce
 The paper points out that a lot of aviation technologies originate in the military. In military applications it’s possible to use strategies such as *security through obscurity*, and overwhelming technological superiority, to keep secrets secret. 
 
 
-However, the requirements of a global civil aviation system are different. Civil aviation systems require cooperation–this means sharing of information & technologies as a means to keep all passengers safer. The nature of global travel and communications means it’s not practical or even beneficial to silo information–it benefits everyone to share. “Security through obscurity” isn’t possible in an information-sharing environment like civil aviation.
+However, the requirements of a global civil aviation system are different. Civil aviation systems require cooperation–this means sharing of information & technologies as a means to keep all passengers safer. The nature of global travel and communications means it’s not practical or even beneficial to silo information–it benefits everyone to share. 
+
+
+“Security through obscurity” isn’t possible in an information-sharing environment like civil aviation.
 
 
 This approach has drawbacks, however, when it comes to cybersecurity. While the paper points out that aviation is one of the safest industries with a proven track record of continuous improvement, it also bears acknowledging that safety is not the same thing as security. 
