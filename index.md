@@ -1,6 +1,6 @@
 **home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
-# Thinking about [aviation](https://disesdi.github.io/aviation.html) & [cybersecurity](https://disesdi.github.io/security.html) from an [engineering](https://disesdi.github.io/engineering.html) perspective
+# Thinking about data science, [cybersecurity](https://disesdi.github.io/security.html), & [aviation](https://disesdi.github.io/aviation.html) from an [engineering](https://disesdi.github.io/engineering.html) perspective
 
 
 -------
