@@ -1,9 +1,9 @@
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
 
 
-# semantic space and size 
+# Semantic Space and Size 
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2019*
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/01/01*
 
 -------
 
@@ -260,7 +260,7 @@ Thanks in advance for your time, and for taking the time to read this.
 
 \***
 
-*This project was originally published on the [Indigenous Engineering blog](https://www.indigenous.engineering/#blog)*
+*This project was originally published on the [Indigenous Engineering blog](https://www.indigenous.engineering/#blog) in 2019. Updated and republished for 2023.*
 
 
 *Code available [here >>](https://github.com/neurodivergent-ai/WEAT_analysis_1)*
