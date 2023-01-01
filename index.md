@@ -13,6 +13,12 @@
 
 -------
 
+### [*Semantic Space and Size >>*](https://disesdi.github.io/3/semantic_space_and_size.html)
+
+A proof-of-concept for exploring cultural bias on (very) small corpora using cosine similarity and word2vec [*more >>*](https://disesdi.github.io/3/semantic_space_and_size.html)
+
+-------
+
 ### [*An (Informal) Survey Of The State Of Aviation Cybersecurity >>*](https://anglesofattack.io/2/survey_of_aviationcyber.html)
 
 We need to talk about AviationCyber, but where do we start? [*more >>*](https://anglesofattack.io/2/survey_of_aviationcyber.html)
