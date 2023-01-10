@@ -29,7 +29,7 @@
 
 -------
 
-### Resume *<a href="https://disesdi.github.io/disesdi_susanna_cox_resume.pdf" target="_blank" rel="noopener noreferrer">go >></a>*
+### Resume *<a href="https://disesdi.github.io/disesdi_resume.pdf" target="_blank" rel="noopener noreferrer">go >></a>*
 
 -------
 
