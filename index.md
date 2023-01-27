@@ -1,6 +1,6 @@
 **home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
-# Thinking about data science, [cybersecurity](https://disesdi.github.io/security.html), & [aviation](https://disesdi.github.io/aviation.html) from an [engineering](https://disesdi.github.io/engineering.html) perspective
+# Thinking about data science, [security](https://disesdi.github.io/security.html), policy, & [aviation](https://disesdi.github.io/aviation.html) from an [engineering](https://disesdi.github.io/engineering.html) perspective
 
 
 -------
@@ -10,6 +10,13 @@
 -------
 
 # *>> Newest:*
+
+-------
+
+
+### [*A "New Monroe Doctrine" for the Law of Armed Conflict (LOAC) and the Use of Force in Cyberspace: Colonial Interests, US & Russian Expansionism, and The United States Doctrine >>*](https://anglesofattack.io/4/new_monroe_cyber_doctrine.html)
+
+Exploring US-Russian cyber relations through the lens of historical colonialism. [*more >>*](https://anglesofattack.io/4/new_monroe_cyber_doctrine.html)
 
 -------
 
