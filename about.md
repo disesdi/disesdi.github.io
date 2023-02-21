@@ -63,7 +63,10 @@ Cybersecurity Awareness Symposium *<a href="https://www.faa.gov/air_traffic/tech
 Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-security/overview" target="_blank" rel="noopener noreferrer">go >></a>* 
 
 -------
-# Resources (ᏧᎬᏩᎶᏗᎦᎷᎩ)
+
+## *Resources (ᏧᎬᏩᎶᏗᎦᎷᎩ) >>*
+
+-------
 
 ### by topic:
 
