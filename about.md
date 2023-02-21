@@ -7,6 +7,12 @@
 
 *Hi, I'm Disesdi. I'm an electrical engineering student with industry experience as an AIML & security engineer. [Contact me >>](https://disesdi.github.io/contact.html)*
 
+-------
+
+
+***ᎦᏙᎯ:*** *My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
+
+***ᏗᎦᏙᎯ:*** *Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>*
 
 -------
 
@@ -57,7 +63,7 @@ Cybersecurity Awareness Symposium *<a href="https://www.faa.gov/air_traffic/tech
 Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-security/overview" target="_blank" rel="noopener noreferrer">go >></a>* 
 
 -------
-# ᏧᎬᏩᎶᏗᎦᎷᎩ / resources
+# Resources (ᏧᎬᏩᎶᏗᎦᎷᎩ)
 
 ### by topic:
 
