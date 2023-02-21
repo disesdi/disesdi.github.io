@@ -64,7 +64,7 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 
 -------
 
-## *Resources (ᏧᎬᏩᎶᏗᎦᎷᎩ) >>*
+## *>> Technical Resources (ᏧᎬᏩᎶᏗᎦᎷᎩ):*
 
 -------
 
