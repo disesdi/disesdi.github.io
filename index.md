@@ -15,7 +15,7 @@
 
 ### *<a href="https://disesdi.github.io/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* 
 
-A practical blueprint for measuring & increasing cyber resiliency of AIML systems in the adversarial Information Warfare environment 
+An OODA Loop-based game theoretic model of information warfare in AI/ML systems, with boolean-path threat modeling & cyber resiliency metrics, + a secure, operationalized, platform-agnostic, fully audited debiasing architecture adapted to the canonical MLOps development cycle
 *<a href="https://disesdi.github.io/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">more >> </a>*
 
 -------
