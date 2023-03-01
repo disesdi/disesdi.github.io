@@ -24,6 +24,11 @@ An OODA Loop-based game theoretic model of information warfare in AI/ML systems,
 
 -------
 
+### [*Did An AI CEO Just Tweet About Stealing Data? >>*](https://anglesofattack.io/4/data_hacking.html)
+
+AI security, including the security of training data, is a real issue. Could a CEO’s controversial tweet bring it to the fore? [*more >>*](https://anglesofattack.io/4/data_hacking.html)
+
+-------
 
 ### [*A "New Monroe Doctrine" for the Law of Armed Conflict (LOAC) and the Use of Force in Cyberspace: Colonial Interests, US & Russian Expansionism, and The United States Doctrine >>*](https://anglesofattack.io/4/new_monroe_cyber_doctrine.html)
 
