@@ -24,7 +24,9 @@ To be clear, bypassing firewalls is hacking, aka illegally accessing resourcesâ€
 
 ## The Risks Of AI Data Collection
 
-As a researcher who studies security risks associated with AIML systems, this tweet was disturbing to read (to say the least). It comes at a time when AI orgs are vulnerable, and awareness of security risks is still very low. In other words, data theft is currently a very real possibility with potential to impact AI development, deployment, and numerous stakeholders in the industry.
+As a researcher who studies security risks associated with AIML systems, this tweet was disturbing to read (to say the least). It comes at a time when AI orgs are vulnerable, and awareness of security risks is still very low. 
+
+In other words, data theft is currently a very real possibility with potential to impact AI development, deployment, and numerous stakeholders in the industry.
 
 Collecting, curating, and preprocessing data for AIML applications is already both an uphill challenge, and an [ethical minefield](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/data-ethics-what-it-means-and-what-it-takes).<sup>[2]</sup> If you ask almost any data scientist or ML engineer, theyâ€™ll tell you that they almost always need/want more data. 
 
