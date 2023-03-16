@@ -156,8 +156,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 
 * [Think Python: How to Think Like a Computer Scientist (O'Reilly, free book)](http://greenteapress.com/thinkpython/html/index.html)
 
-* [A Python Crash Course](https://www.grahamwheeler.com/posts/python-crash-course.html)
-
 * [Python Module of the Week](https://pymotw.com/2/contents.html)
 
 * [Microservices with Docker, Flask, and React](https://testdriven.io/courses/microservices-with-docker-flask-and-react/?utm_source=fsp)
