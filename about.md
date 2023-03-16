@@ -259,8 +259,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
         * [Random Forest Simple Explanation](https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d) *note: whether an explanation is 'simple' or not depends on a lot of factors that can have nothing to do with the person learning, so don't let the title intimidate you if this is not the explanation for you!*
     
         * [Random Forest in Python: A Practical End-to-End Machine Learning Example](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
-        
-        * [An Introduction To Building a Classification Model Using Random Forests In Python](https://www.datascience.com/blog/classification-random-forests-in-python)
     
    * bayesian algorithms
         
