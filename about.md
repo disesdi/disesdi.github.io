@@ -439,8 +439,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 * [Machine Learning, Georgia Tech (Udacity)](https://www.udacity.com/course/machine-learning--ud262#)
 
 * [Machine Learning, Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning#syllabus)
-
-* [Intro to Machine Learning (Udacity)](https://www.udacithttps://www.coursera.org/specializations/discrete-mathematicsy.com/course/intro-to-machine-learning--ud120#)
     
 * [Stanford CS224n: Natural Language Processing with Deep Learning (winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) / [course page here](http://web.stanford.edu/class/cs224n/)
 
