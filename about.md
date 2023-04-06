@@ -7,7 +7,7 @@
 
 -------
 
-*i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, data science & security. [Contact me >>](https://disesdi.github.io/contact.html)*
+*i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, data science & security. ᏥᏣᎳᎩ. [Contact me >>](https://disesdi.github.io/contact.html)*
 
 
 -------
