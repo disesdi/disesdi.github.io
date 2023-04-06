@@ -502,8 +502,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
     
     * [OPUS Open Source Parallel Corpus](http://opus.nlpl.eu/) (contains a number of corpora)
     
-    * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
-    
     * [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus/)
     
     * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
