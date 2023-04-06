@@ -452,15 +452,11 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 
     * [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html)
     
-    * [Visual Genome](http://visualgenome.org/api/v0/api_home.html)
-    
     * [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
     
     * [IMDB-WIKI](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
     
     * [Kinetics-700](https://deepmind.com/research/open-source/kinetics)
-    
-    * [Celebrity Face Key-Points](https://dataturks.com/projects/frerk.saxen/celebA_relabel3a)
     
     * [Car License Plate Detection](https://dataturks.com/projects/Mohan/Car%20License%20Plate%20Detection)
     
