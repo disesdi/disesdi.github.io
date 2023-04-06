@@ -458,8 +458,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
     
     * [Kinetics-700](https://deepmind.com/research/open-source/kinetics)
     
-    * [Car License Plate Detection](https://dataturks.com/projects/Mohan/Car%20License%20Plate%20Detection)
-    
     * [COCO - Common Objects in Context](http://cocodataset.org/#home)
     
     * [Open Images](https://storage.googleapis.com/openimages/web/factsfigures.html)
