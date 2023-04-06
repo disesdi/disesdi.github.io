@@ -564,8 +564,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 
     * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
     
-    * [DeepLearning.net](http://deeplearning.net/datasets/)
-    
     * [nlp-datasets (repo with datasets Natural Lannguage Processing research)](https://github.com/niderhoff/nlp-datasets)
     
     * [awesome-public-datasets (repo with public datasets grouped by topic)](https://github.com/awesomedata/awesome-public-datasets)
