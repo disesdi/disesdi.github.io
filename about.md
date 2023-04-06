@@ -504,7 +504,7 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
     
     * [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus/)
     
-    * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
+    * [CASMACAT Global Voices](http://casmacat.eu/corpus/global-voices.html)
     
     * [English-Vietnamese Parallel Corpus (ELRA)](http://catalog.elra.info/en-us/repository/browse/ELRA-W0124/)
     
