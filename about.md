@@ -522,9 +522,7 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
     
 * health datasets
 
-    * [Big Cities Health Inventory Data Platform](https://bchi.bigcitieshealth.org/indicators/1827/searches/34444)
-    
-    * [HealthData.gov](https://healthdata.gov/search/type/dataset?f%5B0%5D=type%3Adataset)
+    * [HealthData.gov](https://healthdata.gov/)
     
     * [Child Health and Development Studies (CHDS)](http://www.chdstudies.org/research/information_for_researchers.php)
     
