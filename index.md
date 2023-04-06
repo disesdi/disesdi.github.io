@@ -14,7 +14,7 @@ An OODA Loop-based game theoretic model of information warfare in AI/ML systems,
 
 -------
 
-### *>> newest:*
+### >> newest:
 
 -------
 
@@ -78,7 +78,7 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
-### *>> technical & how-to:*
+### >> technical & how-to:
 
 -------
 
@@ -106,7 +106,7 @@ Free digital forensics resources for researchers of all levels [*more >>*](https
 
 -------
 
-### *>> other projects:*
+### >> other projects:
 
 -------
 
