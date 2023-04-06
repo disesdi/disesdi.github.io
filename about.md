@@ -1,6 +1,6 @@
 [home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
-# MLSecOps + AviationCyber: where [aerospace](https://disesdi.github.io/aviation.html) meets [cybersecurity](https://disesdi.github.io/security.html) and [engineering](https://disesdi.github.io/engineering.html)
+# MLSecOps, [cybersecurity](https://disesdi.github.io/security.html) and [engineering](https://disesdi.github.io/engineering.html)
 
 -----
 
@@ -16,9 +16,9 @@
 -------
 
 
-## Aviation  [*go >>*](https://disesdi.github.io/aviation.html) 
+## Aerospace  [*go >>*](https://disesdi.github.io/aviation.html) 
 
-Aviation & cyber from an electrical engineering perspective [*more >>*](https://disesdi.github.io/aviation.html)
+Aerospace & cyber applications for AI/ML & beyond [*more >>*](https://disesdi.github.io/aviation.html)
 
 -------
 
