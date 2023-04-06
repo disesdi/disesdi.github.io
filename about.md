@@ -448,8 +448,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 
 * computer vision
 
-    * [MNIST Hand_Written Digits](http://yann.lecun.com/exdb/mnist/)
-    
     * [ImageNet](http://www.image-net.org/)
 
     * [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html)
