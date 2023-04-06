@@ -1,12 +1,5 @@
 **home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
-# Thinking about MLSecOps, [security](https://disesdi.github.io/security.html), policy, & [aerospace](https://disesdi.github.io/aviation.html) from an [engineering](https://disesdi.github.io/engineering.html) perspective
-
-
--------
-
-## [*About >>*](https://disesdi.github.io/about.html)
-
 -------
 
 # *>> Bleeding edge:*
@@ -20,7 +13,7 @@ An OODA Loop-based game theoretic model of information warfare in AI/ML systems,
 
 -------
 
-# *>> Newest posts:*
+# *>> Newest:*
 
 -------
 
