@@ -2,7 +2,7 @@
 
 -------
 
-# *>> Bleeding edge:*
+## *>> Bleeding edge:*
 
 -------
 
@@ -13,7 +13,7 @@ An OODA Loop-based game theoretic model of information warfare in AI/ML systems,
 
 -------
 
-# *>> Newest:*
+## *>> Newest:*
 
 -------
 
