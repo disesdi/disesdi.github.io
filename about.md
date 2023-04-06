@@ -2,7 +2,11 @@
 
 [home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
+**hello/ᎣᏏᏲ** 
+
 *i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, data science & security. [Contact me >>](https://disesdi.github.io/contact.html)*
+
+<div align="center">🕷</div>
 
 -------
 
