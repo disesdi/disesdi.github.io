@@ -540,8 +540,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
     
     * [Global Health Data Exchange](http://ghdx.healthdata.org/)
     
-    * [United Nations Environmental Data Explorer](http://geodata.grid.unep.ch/)
-    
     * [OpenFDA: FDA Public Data](https://open.fda.gov/)
     
     * [Medicare.gov: Medicare Data](https://data.medicare.gov/data)
