@@ -380,8 +380,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 
 * [The Google PageRank Algorithm (Standfor CS 54N handout)](https://web.stanford.edu/class/cs54n/handouts/24-GooglePageRankAlgorithm.pdf)
 
-* [The Google Pagerank Algorithm and How It Works](https://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm)
-
 * [Page Rank Algorithm and Implementation](https://www.geeksforgeeks.org/page-rank-algorithm-implementation/)
 
 *[back to top](#by-topic)*
