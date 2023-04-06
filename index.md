@@ -5,9 +5,6 @@
 
 <div align="center">🕷</div>
 
--------
-
-### mlsecops
 
 -------
 
