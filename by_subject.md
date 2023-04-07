@@ -61,6 +61,8 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 Exploring US-Russian cyber relations through the lens of historical colonialism. [*more >>*](https://anglesofattack.io/4/new_monroe_cyber_doctrine.html)
 
+[top](by_subject.md#everything-by-subject)
+
 -------
 
 ### technicals & how-tos
@@ -76,6 +78,8 @@ Free digital forensics resources for researchers of all levels [*more >>*](https
 ### [*Intro To MITRE PRE-ATT&CK Part 1: Tactics, Techniques, & Reconnaissance  >>*](https://anglesofattack.io/2/mitre_pre.html)
 
 Breaking Pre-ATT&CK down, piece-by-piece [*more >>*](https://anglesofattack.io/2/mitre_pre.html)
+
+[top](by_subject.md#everything-by-subject)
 
 -------
 
@@ -98,6 +102,8 @@ PUFs have been proposed as a lightweight drone authentication method resistant t
 ### [*Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs >>*](https://disesdi.github.io/1/ics_ensemble.html)
 
 Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [*more >>*](https://disesdi.github.io/1/ics_ensemble.html) 
+
+[top](by_subject.md#everything-by-subject)
 
 -------
 
@@ -151,7 +157,7 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 What’s The Difference Between Safety And Security? [*more >>*](https://disesdi.github.io/2/safety_v_sec.html)
 
--------
+[top](by_subject.md#everything-by-subject)
 
 -------
 
