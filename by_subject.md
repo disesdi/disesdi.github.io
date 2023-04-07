@@ -12,7 +12,7 @@
 -------
 
 
-### [mlsecops](by_subject.md#ai-machine-learning--mlsecops)
+### [ai, machine learning, & mlsecops](by_subject.md#ai-machine-learning--mlsecops)
 
 ### [security](by_subject.md#security)
 
