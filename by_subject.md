@@ -20,7 +20,7 @@
 
 ### [technicals & how-tos](#technicals--how--tos)
 
-### [projects](#projects)
+### [projects](by_subject.md#projects-1)
 
 ### [aerospace & defense](by_subject.md#aerospace--defense-1)
 
