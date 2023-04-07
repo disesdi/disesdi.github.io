@@ -10,6 +10,14 @@
 *i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, data science & security. Disesdi (ᏗᏎᏍᏗ) means Numbers. ᏥᏣᎳᎩ. [Contact me >>](https://disesdi.github.io/contact.html)*
 
 
+i maintain lists of 
+
+* [technical resources](https://anglesofattack.io/about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity
+
+* [aerospace & aviation cyber organizations](https://anglesofattack.io/about.md#aerospace-organizations)
+
+as well as [a repo of mlops & mlsecops resources](https://github.com/disesdi/mlsecops_references)
+
 -------
 
 ***ᎦᏙᎯ:*** *My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
