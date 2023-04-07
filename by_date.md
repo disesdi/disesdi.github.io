@@ -1,11 +1,31 @@
+-------
+
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
 
-# Everything by date
+### everything by date
 
 -------
 
-*Everything [by subject >>](https://disesdi.github.io/about.html)*
+*everything [by subject >>](https://disesdi.github.io/about.html)*
+
+-------
+
+### [*Did An AI CEO Just Tweet About Stealing Data? >>*](https://anglesofattack.io/4/data_hacking.html)
+
+AI security, including the security of training data, is a real issue. Could a CEO’s controversial tweet bring it to the fore? [*more >>*](https://anglesofattack.io/4/data_hacking.html)
+
+-------
+
+### [*A "New Monroe Doctrine" for the Law of Armed Conflict (LOAC) and the Use of Force in Cyberspace: Colonial Interests, US & Russian Expansionism, and The United States Doctrine >>*](https://anglesofattack.io/4/new_monroe_cyber_doctrine.html)
+
+Exploring US-Russian cyber relations through the lens of historical colonialism. [*more >>*](https://anglesofattack.io/4/new_monroe_cyber_doctrine.html)
+
+-------
+
+### [*Semantic Space and Size >>*](https://disesdi.github.io/3/semantic_space_and_size.html)
+
+A proof-of-concept for exploring cultural bias on (very) small corpora using cosine similarity and word2vec [*more >>*](https://disesdi.github.io/3/semantic_space_and_size.html)
 
 -------
 
@@ -71,3 +91,5 @@ What’s The Difference Between Safety And Security? [*more >>*](https://disesdi
 -------
 
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
+
+<div align="center">🕷</div>
