@@ -52,6 +52,10 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
+### all posts [*by latest >>*](https://anglesofattack.io/by_date.html)
+
+-------
+
 ### all posts [*by subject >>*](https://anglesofattack.io/by_subject.html)
 
 -------
@@ -68,10 +72,6 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 ### [*aerospace & defense >>*](https://anglesofattack.io/by_subject.html#aerospace--defense-1)
 
-
--------
-
-### all posts [*by date >>*](https://anglesofattack.io/by_date.html)
 
 -------
 
