@@ -3,9 +3,12 @@
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | **contact**
 
 
-### ᎠᏟᏃᎮᏙᏗ / contact
+### contact
 
 -------
+
+email: *<a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>* 
+
 
 twitter: *<a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">@disesdi >></a>*
 
@@ -20,14 +23,11 @@ telegram: *<a href="https://t.me/disesdi" target="_blank" rel="noopener noreferr
 
 -------
 
-### Email: *<a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>* 
-
-
-### Public key *<a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>*
+public key *<a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>*
 
 -------
 
-### Resume *<a href="https://disesdi.github.io/disesdi_susanna_resume.pdf" target="_blank" rel="noopener noreferrer">go >></a>*
+resume *<a href="https://disesdi.github.io/disesdi_susanna_resume.pdf" target="_blank" rel="noopener noreferrer">go >></a>*
 
 -------
 
