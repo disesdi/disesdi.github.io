@@ -12,17 +12,17 @@
 -------
 
 
-### [ai, machine learning, & mlsecops](by_subject.md#ai-machine-learning--mlsecops)
+### [ai, machine learning, & mlsecops](by_subject.md#ai-machine-learning--mlsecops-1)
 
-### [security](by_subject.md#security)
+### [security](by_subject.md#security-1)
 
-### [policy](by_subject.md#policy)
+### [policy](by_subject.md#policy-1)
 
-### [technicals & how-tos](by_subject.md#technicals--how-tos)
+### [technicals & how-tos](by_subject.md#technicals--how-tos-1)
 
-### [projects](by_subject.md#projects)
+### [projects](by_subject.md#projects-1)
 
-### [aerospace & defense](by_subject.md#aerospace--defense)
+### [aerospace & defense](by_subject.md#aerospace--defense-1)
 
 
 -------
@@ -48,7 +48,6 @@ An OODA Loop-based game theoretic model of information warfare in AI/ML systems,
 
 A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, ++ 
 *<a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">more >> </a>*
-
 
 -------
 
