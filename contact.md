@@ -2,24 +2,21 @@
 
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | **contact**
 
-<div align="center">🕷</div>
-
--------
 
 ### ᎠᏟᏃᎮᏙᏗ / contact
 
 -------
 
-### Twitter: *<a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">@disesdi >></a>*
+twitter: *<a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">@disesdi >></a>*
 
 
-### LinkedIn: *<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">linkedin.com/in/disesdi >></a>*
+linkedIn: *<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">linkedin.com/in/disesdi >></a>*
 
 
-### Github: *<a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi >> </a>*
+github: *<a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi >> </a>*
 
 
-### Telegram: *<a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>* 
+telegram: *<a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>* 
 
 -------
 
@@ -43,3 +40,6 @@
 ------- 
 
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | **contact**
+
+<div align="center">🕷</div>
+
