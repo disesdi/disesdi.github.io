@@ -111,7 +111,7 @@ Free digital forensics resources for researchers of all levels [*more >>*](https
 
 -------
 
-### everything [by subject](https://anglesofattack.io/by_subject.html):
+### all posts [by subject](https://anglesofattack.io/by_subject.html):
 
 ### [mlsecops](https://anglesofattack.io/by_subject.html#mlsecops-1)
 
@@ -125,7 +125,6 @@ Free digital forensics resources for researchers of all levels [*more >>*](https
 
 ### [aerospace & defense](https://anglesofattack.io/by_subject.html#aerospace--defense-1)
 
-### everything [by date](https://anglesofattack.io/by_date.html)
 
 -------
 
