@@ -87,7 +87,7 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
-### [*mlsecops >>*](https://anglesofattack.io/by_subject.html#ai-machine-learning--mlsecops-1)
+### [*ai, machine learning, & mlsecops >>*](https://anglesofattack.io/by_subject.html#ai-machine-learning--mlsecops-1)
 
 ### [*security >>*](https://anglesofattack.io/by_subject.html#security-1)
 
