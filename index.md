@@ -2,6 +2,8 @@
 
 **home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
+### mlsecops resources
+
 -------
 
 ### *<a href="https://disesdi.github.io/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* 
