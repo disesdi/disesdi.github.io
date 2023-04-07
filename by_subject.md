@@ -12,13 +12,13 @@
 -------
 
 
-### [mlsecops](#mlsecops)
+### [mlsecops](by_subject.md#mlsecops-1)
 
-### [security](#security)
+### [security](by_subject.md#security-1)
 
-### [policy](#policy)
+### [policy](by_subject.md#policy-1)
 
-### [technicals & how-tos](#technicals--how--tos)
+### [technicals & how-tos](by_subject.md#technicals--how-tos-1)
 
 ### [projects](by_subject.md#projects-1)
 
