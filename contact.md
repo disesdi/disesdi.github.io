@@ -6,6 +6,10 @@
 
 -------
 
+### ᎠᏟᏃᎮᏙᏗ / contact
+
+-------
+
 ### Twitter: *<a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">@disesdi >></a>*
 
 
