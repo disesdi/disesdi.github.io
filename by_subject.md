@@ -12,17 +12,17 @@
 -------
 
 
-### [mlsecops](by_subject.md#mlsecops-1)
+### [mlsecops](by_subject.md#ai-machine-learning--mlsecops)
 
-### [security](by_subject.md#security-1)
+### [security](by_subject.md#security)
 
-### [policy](by_subject.md#policy-1)
+### [policy](by_subject.md#policy)
 
-### [technicals & how-tos](by_subject.md#technicals--how-tos-1)
+### [technicals & how-tos](by_subject.md#technicals--how-tos)
 
-### [projects](by_subject.md#projects-1)
+### [projects](by_subject.md#projects)
 
-### [aerospace & defense](by_subject.md#aerospace--defense-1)
+### [aerospace & defense](by_subject.md#aerospace--defense)
 
 
 -------
