@@ -3,11 +3,11 @@
 [home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
 
-### everything by subject
+## all posts by subject
 
 -------
 
-*everything [by date >>](https://disesdi.github.io/by_date.html)*
+*all posts [by date >>](https://disesdi.github.io/by_date.html)*
 
 -------
 
