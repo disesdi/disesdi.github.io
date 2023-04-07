@@ -74,7 +74,9 @@
     
     * [HackerRank](https://www.hackerrank.com/)
 
-*[back to topics](#by-topic)*
+
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### mathematics
 
@@ -102,7 +104,8 @@
 
 * [Introduction to Discrete Mathematics for Computer Science (Coursera)](https://www.coursera.org/specializations/discrete-mathematics) (free full course)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### python
 
@@ -114,7 +117,8 @@
 
 * [Python Module of the Week](https://pymotw.com/2/contents.html)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### tensorflow
 
@@ -128,7 +132,8 @@
 
 * [Python Machine Learning Tutorial: TensorFlow](https://www.python-course.eu/tensor_flow_introduction.php)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### data science
 
@@ -146,7 +151,8 @@
     
 * [10 Python Pandas tips to make data analysis faster](https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### machine learning
 
@@ -170,7 +176,8 @@
     
     * [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 * algorithms
 
@@ -232,7 +239,8 @@
         
         * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) *(code-heavy demo in python, followed by a simpler demo using scikit-learn)*
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
@@ -252,7 +260,8 @@
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### deep learning
 
@@ -268,7 +277,8 @@
 
 * [Crash Course On Multi-Layer Perceptron Neural Networks](https://machinelearningmastery.com/neural-networks-crash-course/)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### RNNs and LSTMs
 
@@ -282,7 +292,8 @@
 
 * [Recurrent neural networks and LSTM tutorial in Python and TensorFlow](https://github.com/adventuresinML/adventures-in-ml-code)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### natural language processing
 
@@ -302,7 +313,8 @@
 
 * [A Gentle Introduction to Neural Machine Translation](https://machinelearningmastery.com/introduction-neural-machine-translation/)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### graph algorithms
 
@@ -338,7 +350,8 @@
 
 * [Page Rank Algorithm and Implementation](https://www.geeksforgeeks.org/page-rank-algorithm-implementation/)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### data visualization
 
@@ -354,7 +367,8 @@
 
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### scraping and building datasets
 
@@ -372,7 +386,8 @@
 
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### learning AI through code
 
@@ -388,7 +403,8 @@
     
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### free courses
 
@@ -398,7 +414,8 @@
     
 * [Stanford CS224n: Natural Language Processing with Deep Learning (winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) / [course page here](http://web.stanford.edu/class/cs224n/)
 
-*[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 #### datasets
 
@@ -418,7 +435,8 @@
     
     * [Open Images](https://storage.googleapis.com/openimages/web/factsfigures.html)
     
-    *[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
     
 * natural language processing
 
@@ -446,7 +464,8 @@
     
     * [The Reuters Corpora](https://trec.nist.gov/data/reuters/reuters.html)
     
-    *[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 * parallel corpora (machine translation)
 
@@ -474,7 +493,8 @@
     
     * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
     
-    *[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
     
 * health datasets
 
@@ -504,7 +524,8 @@
     
     * [The Human Mortality Database](https://www.mortality.org/)
     
-    *[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 * government datasets
 
@@ -512,7 +533,8 @@
     
     * [DATA.gov US Government Open Data](https://www.data.gov/)
     
-    *[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 * dataset collections
 
@@ -524,8 +546,8 @@
     
     * [awesome-public-datasets (repo with public datasets grouped by topic)](https://github.com/awesomedata/awesome-public-datasets)
 
-    
-    *[back to topics](#by-topic)*
+[back to topics](about.md#technical-resources)
+[top](https://anglesofattack.io/about.html)
 
 -------
 
