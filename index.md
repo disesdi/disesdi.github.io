@@ -83,6 +83,25 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
+### all posts [*by subject >>*](https://anglesofattack.io/by_subject.html)
+
+-------
+
+### [*mlsecops >>*](https://anglesofattack.io/by_subject.html#mlsecops-1)
+
+### [*security >>*](https://anglesofattack.io/by_subject.html#security-1)
+
+### [*policy >>*](https://anglesofattack.io/by_subject.html#policy-1)
+
+### [*technicals & how-tos >>*](https://anglesofattack.io/by_subject.html#technicals--how-tos-1)
+
+### [*projects >>*](https://anglesofattack.io/by_subject.html#projects-1)
+
+### [*aerospace & defense >>*](https://anglesofattack.io/by_subject.html#aerospace--defense-1)
+
+
+-------
+
 ### technical & how-to
 
 -------
@@ -108,23 +127,6 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 ### [*5 Free Digital Forensics Resources From The National Institute of Standards and Technology (NIST) >>*](https://anglesofattack.io/2/nist_forensics.html)
 
 Free digital forensics resources for researchers of all levels [*more >>*](https://anglesofattack.io/2/nist_forensics.html)
-
--------
-
-### all posts [by subject](https://anglesofattack.io/by_subject.html):
-
-### [mlsecops](https://anglesofattack.io/by_subject.html#mlsecops-1)
-
-### [security](https://anglesofattack.io/by_subject.html#security-1)
-
-### [policy](https://anglesofattack.io/by_subject.html#policy-1)
-
-### [technicals & how-tos](https://anglesofattack.io/by_subject.html#technicals--how-tos-1)
-
-### [projects](https://anglesofattack.io/by_subject.html#projects-1)
-
-### [aerospace & defense](https://anglesofattack.io/by_subject.html#aerospace--defense-1)
-
 
 -------
 
