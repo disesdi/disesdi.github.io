@@ -74,7 +74,7 @@
     
     * [HackerRank](https://www.hackerrank.com/)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### mathematics
 
@@ -102,7 +102,7 @@
 
 * [Introduction to Discrete Mathematics for Computer Science (Coursera)](https://www.coursera.org/specializations/discrete-mathematics) (free full course)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### python
 
@@ -114,7 +114,7 @@
 
 * [Python Module of the Week](https://pymotw.com/2/contents.html)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### tensorflow
 
@@ -128,7 +128,7 @@
 
 * [Python Machine Learning Tutorial: TensorFlow](https://www.python-course.eu/tensor_flow_introduction.php)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### data science
 
@@ -146,7 +146,7 @@
     
 * [10 Python Pandas tips to make data analysis faster](https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### machine learning
 
@@ -170,7 +170,7 @@
     
     * [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 * algorithms
 
@@ -232,7 +232,7 @@
         
         * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) *(code-heavy demo in python, followed by a simpler demo using scikit-learn)*
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
@@ -252,7 +252,7 @@
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### deep learning
 
@@ -268,7 +268,7 @@
 
 * [Crash Course On Multi-Layer Perceptron Neural Networks](https://machinelearningmastery.com/neural-networks-crash-course/)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### RNNs and LSTMs
 
@@ -282,7 +282,7 @@
 
 * [Recurrent neural networks and LSTM tutorial in Python and TensorFlow](https://github.com/adventuresinML/adventures-in-ml-code)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### natural language processing
 
@@ -302,7 +302,7 @@
 
 * [A Gentle Introduction to Neural Machine Translation](https://machinelearningmastery.com/introduction-neural-machine-translation/)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### graph algorithms
 
@@ -338,7 +338,7 @@
 
 * [Page Rank Algorithm and Implementation](https://www.geeksforgeeks.org/page-rank-algorithm-implementation/)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### data visualization
 
@@ -354,7 +354,7 @@
 
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### scraping and building datasets
 
@@ -372,7 +372,7 @@
 
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### learning AI through code
 
@@ -388,7 +388,7 @@
     
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### free courses
 
@@ -398,7 +398,7 @@
     
 * [Stanford CS224n: Natural Language Processing with Deep Learning (winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) / [course page here](http://web.stanford.edu/class/cs224n/)
 
-*[back to top](#by-topic)*
+*[back to topics](#by-topic)*
 
 #### datasets
 
@@ -418,7 +418,7 @@
     
     * [Open Images](https://storage.googleapis.com/openimages/web/factsfigures.html)
     
-    *[back to top](#by-topic)*
+    *[back to topics](#by-topic)*
     
 * natural language processing
 
@@ -446,7 +446,7 @@
     
     * [The Reuters Corpora](https://trec.nist.gov/data/reuters/reuters.html)
     
-    *[back to top](#by-topic)*
+    *[back to topics](#by-topic)*
 
 * parallel corpora (machine translation)
 
@@ -474,7 +474,7 @@
     
     * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
     
-    *[back to top](#by-topic)*
+    *[back to topics](#by-topic)*
     
 * health datasets
 
@@ -504,7 +504,7 @@
     
     * [The Human Mortality Database](https://www.mortality.org/)
     
-    *[back to top](#by-topic)*
+    *[back to topics](#by-topic)*
 
 * government datasets
 
@@ -512,7 +512,7 @@
     
     * [DATA.gov US Government Open Data](https://www.data.gov/)
     
-    *[back to top](#by-topic)*
+    *[back to topics](#by-topic)*
 
 * dataset collections
 
@@ -525,7 +525,7 @@
     * [awesome-public-datasets (repo with public datasets grouped by topic)](https://github.com/awesomedata/awesome-public-datasets)
 
     
-    *[back to top](#by-topic)*
+    *[back to topics](#by-topic)*
 
 -------
 
@@ -550,7 +550,9 @@ Cybersecurity Awareness Symposium *<a href="https://www.faa.gov/air_traffic/tech
 
 **European Union Aviation Safety Agency (EASA)**
 
-Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-security/overview" target="_blank" rel="noopener noreferrer">go >></a>* 
+Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-security/overview" target="_blank" rel="noopener noreferrer">go >></a>*
+
+[top](https://anglesofattack.io/about.html)
 
 -------
 
