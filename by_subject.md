@@ -35,7 +35,7 @@
 
 AI security, including the security of training data, is a real issue. Could a CEO’s controversial tweet bring it to the fore? [*more >>*](https://anglesofattack.io/4/data_hacking.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -44,7 +44,7 @@ AI security, including the security of training data, is a real issue. Could a C
 An OODA Loop-based game theoretic model of information warfare in AI/ML systems, with boolean-path threat modeling & cyber resiliency metrics, + a secure, operationalized, platform-agnostic, fully audited debiasing architecture adapted to the canonical MLOps development cycle
 *<a href="https://disesdi.github.io/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">more >> </a>*
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -53,7 +53,7 @@ An OODA Loop-based game theoretic model of information warfare in AI/ML systems,
 A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, ++ 
 *<a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">more >> </a>*
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -65,7 +65,7 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 Exploring US-Russian cyber relations through the lens of historical colonialism. [*more >>*](https://anglesofattack.io/4/new_monroe_cyber_doctrine.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -77,7 +77,7 @@ Exploring US-Russian cyber relations through the lens of historical colonialism.
 
 Free digital forensics resources for researchers of all levels [*more >>*](https://anglesofattack.io/2/nist_forensics.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -85,7 +85,7 @@ Free digital forensics resources for researchers of all levels [*more >>*](https
 
 Breaking Pre-ATT&CK down, piece-by-piece [*more >>*](https://anglesofattack.io/2/mitre_pre.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -97,7 +97,7 @@ Breaking Pre-ATT&CK down, piece-by-piece [*more >>*](https://anglesofattack.io/2
 
 A proof-of-concept for exploring cultural bias on (very) small corpora using cosine similarity and word2vec [*more >>*](https://disesdi.github.io/3/semantic_space_and_size.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -105,7 +105,7 @@ A proof-of-concept for exploring cultural bias on (very) small corpora using cos
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/1/pufs.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -113,7 +113,7 @@ PUFs have been proposed as a lightweight drone authentication method resistant t
 
 Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [*more >>*](https://disesdi.github.io/1/ics_ensemble.html) 
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -125,7 +125,7 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 We need to talk about AviationCyber, but where do we start? [*more >>*](https://anglesofattack.io/2/survey_of_aviationcyber.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -133,7 +133,7 @@ We need to talk about AviationCyber, but where do we start? [*more >>*](https://
 
 What are embedded systems, and what makes a system ‘real-time’? [*more >>*](https://anglesofattack.io/2/real_time_systems.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -141,7 +141,7 @@ What are embedded systems, and what makes a system ‘real-time’? [*more >>*](
 
 How secure is AviationCyber? And how do we know? [*more >>*](https://anglesofattack.io/2/avcyber_assessments_1.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -149,7 +149,7 @@ How secure is AviationCyber? And how do we know? [*more >>*](https://anglesofatt
 
 Modern avionics buses play a crucial role in aviation. But what exactly is a bus, and what is it doing on a plane? [*more >>*](https://anglesofattack.io/2/avbuses_1.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -157,7 +157,7 @@ Modern avionics buses play a crucial role in aviation. But what exactly is a bus
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [*more >>*](https://disesdi.github.io/1/pufs.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -165,7 +165,7 @@ PUFs have been proposed as a lightweight drone authentication method resistant t
 
 Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply chain breach in the aviation sector [*more >>*](https://disesdi.github.io/2/sunwing_2022.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -173,7 +173,7 @@ Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply cha
 
 Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [*more >>*](https://disesdi.github.io/1/ics_ensemble.html) 
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
@@ -181,7 +181,7 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 What’s The Difference Between Safety And Security? [*more >>*](https://disesdi.github.io/2/safety_v_sec.html)
 
-[top](by_subject.md#everything-by-subject)
+[top](by_subject.md#all-posts-by-subject)
 
 -------
 
