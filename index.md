@@ -2,8 +2,6 @@
 
 **home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
-<div align="center">🕷</div>
-
 -------
 
 ### mlsecops
@@ -126,3 +124,4 @@ Data science, NLProc, and AIML for the culture *<a href="https://indigenous.engi
 
 **home** | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
+<div align="center">🕷</div>
