@@ -20,6 +20,14 @@
 
 -------
 
+### all posts [*by latest >>*](https://anglesofattack.io/by_date.html)
+
+-------
+
+### all posts [*by subject >>*](https://anglesofattack.io/by_subject.html)
+
+-------
+
 ### technical resources
 
 -------
