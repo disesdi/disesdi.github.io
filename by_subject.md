@@ -49,7 +49,7 @@ An OODA Loop-based game theoretic model of information warfare in AI/ML systems,
 A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, ++ 
 *<a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">more >> </a>*
 
-[top](by_subject.md#everything-by-subject-1)
+[top](by_subject.md#everything-by-subject)
 
 -------
 
