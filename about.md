@@ -10,7 +10,7 @@
 *i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, data science & security. Disesdi (ᏗᏎᏍᏗ) means Numbers. ᏥᏣᎳᎩ. [Contact me >>](https://disesdi.github.io/contact.html)*
 
 
-*i maintain lists of [technical resources](https://github.com/disesdi/disesdi.github.io/blob/main/about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; [a repo of mlops & mlsecops resources](https://github.com/disesdi/mlsecops_references), and a list of [aerospace organizations & aviation cyber resources](https://github.com/disesdi/disesdi.github.io/blob/main/about.md#aerospace-organizations).*
+*i maintain lists of [technical resources](https://github.com/disesdi/disesdi.github.io/blob/main/about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](https://github.com/disesdi/disesdi.github.io/blob/main/about.md#aerospace-organizations).*
 
 -------
 
