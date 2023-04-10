@@ -14,16 +14,16 @@
 
 -------
 
-***ᎦᏙᎯ:*** *my work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
-
-***ᏗᎦᏙᎯ:*** *find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>*
-
--------
-
 **all posts [*by latest >>*](https://anglesofattack.io/by_date.html)**
 
 
 **all posts [*by subject >>*](https://anglesofattack.io/by_subject.html)**
+
+-------
+
+***ᎦᏙᎯ:*** *my work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
+
+***ᏗᎦᏙᎯ:*** *find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>*
 
 -------
 
