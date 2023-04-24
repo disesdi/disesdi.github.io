@@ -57,6 +57,16 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
+### security
+
+-------
+
+### [*ThinkPad Appreciation: Respect the Classic >>*](https://anglesofattack.io/4/thinkpad.html)
+
+A classic machine that's still going strong [*more >>*](https://anglesofattack.io/4/thinkpad.html)
+
+-------
+
 ### policy
 
 -------
