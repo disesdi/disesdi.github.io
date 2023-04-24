@@ -6,6 +6,12 @@
 
 -------
 
+### [*ThinkPad Appreciation: Respect the Classic >>*](https://anglesofattack.io/4/thinkpad.html)
+
+A classic machine that's still going strong [*more >>*](https://anglesofattack.io/4/thinkpad.html)
+
+-------
+
 ### [*Did An AI CEO Just Tweet About Stealing Data? >>*](https://anglesofattack.io/4/data_hacking.html)
 
 AI security, including the security of training data, is a real issue. Could a CEO’s controversial tweet bring it to the fore? [*more >>*](https://anglesofattack.io/4/data_hacking.html)
