@@ -7,30 +7,30 @@
 
 -------
 
-#### Book time with me: *<a href="https://calendly.com/disesdi" target="_blank" rel="noopener noreferrer">calendar >></a>* 
+#### Book time with me: <a href="https://calendly.com/disesdi" target="_blank" rel="noopener noreferrer">My calendar >></a> 
 
 -------
 
-LinkedIn: *<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi >></a>*
+LinkedIn: <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi >></a>
 
 
-X: *<a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">@disesdi >></a>*
+Twitter/X: <a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">@disesdi >></a>
 
 
-YouTube: *<a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">@disesdi >> </a>*
+YouTube: <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">@disesdi >> </a>
 
 
-Github: *<a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi >> </a>*
+Github: <a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi >> </a>
 
 
-Telegram: *<a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>* 
+Telegram: <a href="https://t.me/disesdi" target="_blank" rel="noopener noreferrer">@disesdi >></a>
 
 
-Email: *<a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>* 
+Email: <a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>
 
 -------
 
-Public Key *<a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>*
+Public Key <a href="https://disesdi.github.io/key.html" target="_blank" rel="noopener noreferrer">go >></a>
 
 ------- 
 
