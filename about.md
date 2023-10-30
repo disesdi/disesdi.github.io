@@ -16,10 +16,7 @@ I maintain lists of [technical resources](about.md#technical-resources) for subj
 
 -------
 
-**All posts [by latest >>](https://anglesofattack.io/by_date.html)**
-
-
-**All posts [by subject >>](https://anglesofattack.io/by_subject.html)**
+**All posts [by date >>](https://anglesofattack.io/by_date.html)**
 
 -------
 
