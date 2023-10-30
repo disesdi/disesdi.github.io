@@ -3,31 +3,33 @@
 [home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
 
 
-### about me
+### About me
 
 -------
 
-*i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, security, & policy. Disesdi (ᏗᏎᏍᏗ) means Numbers. ᏥᏣᎳᎩ. [Contact me >>](https://disesdi.github.io/contact.html)*
+I'm an AI/ML architect &  security researcher.  
+
+Disesdi (ᏗᏎᏍᏗ) means Numbers. ᏥᏣᎳᎩ. [Contact me >>](https://disesdi.github.io/contact.html)
 
 
-*i maintain lists of [technical resources](about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](about.md#aerospace-organizations).*
-
--------
-
-**all posts [*by latest >>*](https://anglesofattack.io/by_date.html)**
-
-
-**all posts [*by subject >>*](https://anglesofattack.io/by_subject.html)**
+I maintain lists of [technical resources](about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](about.md#aerospace-organizations).
 
 -------
 
-***ᎦᏙᎯ:*** *my work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
+**All posts [by latest >>](https://anglesofattack.io/by_date.html)**
 
-***ᏗᎦᏙᎯ:*** *find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>*
+
+**All posts [by subject >>](https://anglesofattack.io/by_subject.html)**
 
 -------
 
-### technical resources
+***ᎦᏙᎯ:*** *My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
+
+***ᏗᎦᏙᎯ:*** *Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>*
+
+-------
+
+### Technical resources
 
 -------
 
