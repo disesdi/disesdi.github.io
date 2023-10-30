@@ -42,15 +42,11 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
-### all posts [by latest >>](https://anglesofattack.io/by_date.html)
+### all posts [by date >>](https://anglesofattack.io/by_date.html)
 
 -------
 
-### all posts [by subject >>](https://anglesofattack.io/by_subject.html)
-
--------
-
-### other projects: <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>
+### <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>
 
 Data science, NLProc, and AIML for the culture <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer"> >> </a>
 
