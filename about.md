@@ -9,10 +9,11 @@
 
 I'm an AI/ML architect &  security researcher.  
 
-Disesdi (ᏗᏎᏍᏗ) means Numbers. ᏥᏣᎳᎩ. [Contact me >>](https://disesdi.github.io/contact.html)
-
 
 I maintain lists of [technical resources](about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](about.md#aerospace-organizations).
+
+
+Disesdi (ᏗᏎᏍᏗ) means *numbers*. ᏥᏣᎳᎩ. [Contact me >>](https://disesdi.github.io/contact.html)
 
 -------
 
