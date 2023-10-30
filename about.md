@@ -20,9 +20,9 @@ I maintain lists of [technical resources](about.md#technical-resources) for subj
 
 -------
 
-***ᎦᏙᎯ:*** *My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>*
+**ᎦᏙᎯ:** My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>
 
-***ᏗᎦᏙᎯ:*** *Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>*
+**ᏗᎦᏙᎯ:** Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>
 
 -------
 
