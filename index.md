@@ -50,11 +50,7 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
-### other projects
-
--------
-
-### <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>
+### other projects: <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer">Indigenous.Engineering >> </a>
 
 Data science, NLProc, and AIML for the culture <a href="https://github.com/indigenousEngineering" target="_blank" rel="noopener noreferrer"> >> </a>
 
