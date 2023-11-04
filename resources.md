@@ -594,6 +594,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 
 -------
 
-[home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
+[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
 
 <div align="center">🕷</div>
