@@ -8,7 +8,7 @@
 
 -------
 
-This is where I maintain lists of [technical resources](about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](about.md#aerospace-organizations).
+This is where I maintain lists of [technical resources](resources.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](resources.md#aerospace-organizations).
 
 [Contact me >>](https://anglesofattack.io/about.html)
 
