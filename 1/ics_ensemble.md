@@ -1,6 +1,6 @@
 -------
 
-[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> \| [about](https://disesdi.github.io/about.html) 
 
 -------
 
@@ -179,4 +179,4 @@ The increased tree depth came with training time increases, however. Resource us
 
 -------
 
-[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> \| [about](https://disesdi.github.io/about.html) 
