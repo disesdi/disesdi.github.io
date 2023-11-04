@@ -24,12 +24,6 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
-### [Semantic Space and Size >>](https://disesdi.github.io/3/semantic_space_and_size.html)
-
-A proof-of-concept for exploring cultural bias on (very) small corpora using cosine similarity and word2vec [ >> ](https://disesdi.github.io/3/semantic_space_and_size.html)
-
--------
-
 ### [Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>](https://disesdi.github.io/1/pufs.html)
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [ >> ](https://disesdi.github.io/1/pufs.html)
