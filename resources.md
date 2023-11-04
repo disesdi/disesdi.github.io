@@ -1,6 +1,6 @@
 -------
 
-[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
+[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> \| [about](https://disesdi.github.io/about.html) 
 
 -------
 
@@ -594,6 +594,6 @@ Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-sec
 
 -------
 
-[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
+[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> \| [about](https://disesdi.github.io/about.html) 
 
 <div align="center">🕷</div>
