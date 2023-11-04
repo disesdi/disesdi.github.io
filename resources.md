@@ -1,29 +1,16 @@
 -------
 
-[home](https://disesdi.github.io/) | **about** | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html) 
-
-
-### About me
+[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
 
 -------
 
-I'm an AI/ML architect &  security researcher.  
-
-
-I maintain lists of [technical resources](about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](about.md#aerospace-organizations).
-
-
-Disesdi (ᏗᏎᏍᏗ) means *numbers*. ᏥᏣᎳᎩ. [Contact me >>](https://disesdi.github.io/contact.html)
+### Resources
 
 -------
 
-**All posts [by date >>](https://anglesofattack.io/by_date.html)**
+This is where I maintain lists of [technical resources](about.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](about.md#aerospace-organizations).
 
--------
-
-**ᎦᏙᎯ:** My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>
-
-**ᏗᎦᏙᎯ:** Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>
+[Contact me >>](https://disesdi.github.io/contact.html)
 
 -------
 
