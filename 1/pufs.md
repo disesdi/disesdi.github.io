@@ -1,13 +1,14 @@
-[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
-
-
-# Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting 
-
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | *2022/10/23*
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
 
 -------
 
-### *Code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)*
+# Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting 
+
+### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | 23 October 2022
+
+-------
+
+Code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)
 
 -------
 
@@ -215,4 +216,4 @@ Operating%20Commerical%20UAS%20%28508%29.pdf
 
 -------
 
-[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
