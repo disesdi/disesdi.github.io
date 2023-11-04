@@ -1,6 +1,6 @@
 -------
 
-**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
+**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> \| [about](https://disesdi.github.io/about.html) 
 
 -------
 
@@ -46,6 +46,6 @@ Data science, NLProc, and AIML for the culture <a href="https://github.com/indig
 
 -------
 
-**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
+**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> \| [about](https://disesdi.github.io/about.html) 
 
 <div align="center">🕷</div>
