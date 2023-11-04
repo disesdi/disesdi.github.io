@@ -20,7 +20,7 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
-### Projects
+### Projects \| [All >>](https://disesdi.github.io/all.html)
 
 -------
 
