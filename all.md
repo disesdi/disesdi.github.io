@@ -1,6 +1,6 @@
 -------
 
-[home](https://disesdi.github.io/) | [resources](https://disesdi.github.io/resources.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | [about](https://disesdi.github.io/about.html) 
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
 
 
 ## All by date
@@ -11,7 +11,7 @@
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [ >> ](https://disesdi.github.io/1/pufs.html)
 
-[top](by_date.md#all-posts-by-date)
+[top](all.md#all-by-date)
 
 -------
 
@@ -19,7 +19,7 @@ PUFs have been proposed as a lightweight drone authentication method resistant t
 
 Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply chain breach in the aviation sector [ >> ](https://disesdi.github.io/2/sunwing_2022.html)
 
-[top](by_date.md#all-posts-by-date)
+[top](all.md#all-by-date)
 
 -------
 
@@ -27,10 +27,10 @@ Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply cha
 
 Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [ >> ](https://disesdi.github.io/1/ics_ensemble.html) 
 
-[top](by_date.md#all-posts-by-date)
+[top](all.md#all-by-date)
 
 -------
 
-[home](https://disesdi.github.io/) | [resources](https://disesdi.github.io/resources.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | [about](https://disesdi.github.io/about.html)
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| [about](https://disesdi.github.io/about.html) 
 
 <div align="center">🕷</div>
