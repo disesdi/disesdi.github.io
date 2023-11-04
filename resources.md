@@ -99,9 +99,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [Introduction to Discrete Mathematics for Computer Science (Coursera)](https://www.coursera.org/specializations/discrete-mathematics) (free full course)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### python
 
@@ -113,9 +113,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [Python Module of the Week](https://pymotw.com/2/contents.html)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### tensorflow
 
@@ -129,9 +129,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [Python Machine Learning Tutorial: TensorFlow](https://www.python-course.eu/tensor_flow_introduction.php)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### data science
 
@@ -149,9 +149,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
 * [10 Python Pandas tips to make data analysis faster](https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### machine learning
 
@@ -166,6 +166,10 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     * [ML Basics: supervised, unsupervised and reinforcement learning](https://medium.com/@machadogj/ml-basics-supervised-unsupervised-and-reinforcement-learning-b18108487c5a)
     
     * [Machine Learning 101: Supervised, Unsupervised, Reinforcement & Beyond](https://towardsdatascience.com/machine-learning-101-supervised-unsupervised-reinforcement-beyond-f18e722069bc)
+ 
+[back to topics](resources.md#technical-resources)
+
+[top](https://anglesofattack.io/resources.html)
 
 * gradient descent
     
@@ -175,9 +179,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
     * [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 * algorithms
 
@@ -239,9 +243,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
         
         * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) *(code-heavy demo in python, followed by a simpler demo using scikit-learn)*
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
@@ -261,9 +265,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### deep learning
 
@@ -279,9 +283,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [Crash Course On Multi-Layer Perceptron Neural Networks](https://machinelearningmastery.com/neural-networks-crash-course/)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### RNNs and LSTMs
 
@@ -295,9 +299,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [Recurrent neural networks and LSTM tutorial in Python and TensorFlow](https://github.com/adventuresinML/adventures-in-ml-code)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### natural language processing
 
@@ -317,9 +321,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [A Gentle Introduction to Neural Machine Translation](https://machinelearningmastery.com/introduction-neural-machine-translation/)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### graph algorithms
 
@@ -355,9 +359,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [Page Rank Algorithm and Implementation](https://www.geeksforgeeks.org/page-rank-algorithm-implementation/)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### data visualization
 
@@ -373,9 +377,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### scraping and building datasets
 
@@ -393,9 +397,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### learning AI through code
 
@@ -411,9 +415,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### free courses
 
@@ -423,9 +427,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
 * [Stanford CS224n: Natural Language Processing with Deep Learning (winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) / [course page here](http://web.stanford.edu/class/cs224n/)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### datasets
 
@@ -445,9 +449,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
     * [Open Images](https://storage.googleapis.com/openimages/web/factsfigures.html)
     
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
     
 * natural language processing
 
@@ -475,9 +479,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
     * [The Reuters Corpora](https://trec.nist.gov/data/reuters/reuters.html)
     
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 * parallel corpora (machine translation)
 
@@ -505,9 +509,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
     * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
     
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
     
 * health datasets
 
@@ -537,9 +541,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
     * [The Human Mortality Database](https://www.mortality.org/)
     
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 * government datasets
 
@@ -547,9 +551,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
     * [DATA.gov US Government Open Data](https://www.data.gov/)
     
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 * dataset collections
 
@@ -561,9 +565,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     
     * [awesome-public-datasets (repo with public datasets grouped by topic)](https://github.com/awesomedata/awesome-public-datasets)
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 -------
 
@@ -590,7 +594,7 @@ Cybersecurity Awareness Symposium *<a href="https://www.faa.gov/air_traffic/tech
 
 Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-security/overview" target="_blank" rel="noopener noreferrer">go >></a>*
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 -------
 
