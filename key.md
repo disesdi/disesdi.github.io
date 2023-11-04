@@ -1,5 +1,4 @@
-[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
-
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> \| [about](https://disesdi.github.io/about.html) 
 ### key
 
 -------
@@ -61,6 +60,6 @@ lDy85KIgnxZEf0fDIVQoVUq/l4/L3A5b26yVKmVsAPqoJBqwYg==
 
 -------
 
-[home](https://disesdi.github.io/) | [about](https://disesdi.github.io/about.html) | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">code</a> | [contact](https://disesdi.github.io/contact.html)
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> \| [about](https://disesdi.github.io/about.html) 
 
 <div align="center">🕷</div>
