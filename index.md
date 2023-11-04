@@ -4,7 +4,7 @@
 
 -------
 
-### mlsecops resources
+### MLSecops Resources
 
 -------
 
@@ -20,7 +20,7 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
-### projects
+### Projects
 
 -------
 
@@ -42,7 +42,7 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
-### all posts [by date >>](https://anglesofattack.io/by_date.html)
+### Other Projects
 
 -------
 
