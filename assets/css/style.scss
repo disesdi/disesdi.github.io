@@ -28,37 +28,39 @@ h3, h4, h5, h6 {
 }
 
 // ff6ec7 pink <3
-// 3c5a7b blue
+// 363957 blue
+// 9A99AA gray
 
 a {
-  color: #ff6ec7;
+  color: #9A99AA;
   font-weight: bold;
   text-decoration:none;
 }
 
-// 9d7bb3 mauve <3
+// 9d7bb3 mauve 
 
 a:hover, a:focus {
   color: #9d7bb3;
 }
 
-// ff6ec7 pink <3
-// 3c5a7b blue
+// 363957 blue
+// 9A99AA gray
 
 a small {
   font-size:11px;
-  color:#ff6ec7;
+  color: #9A99AA;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#9d7bb3;
+  color: #9d7bb3;
 }
 
-// prev strong == 89ecda neon turquoise <3
+// 9A99AA gray
+// 363957 blue
 
 strong {
-  color:#000000;
+  color: #363957;
   font-weight:700;
 }
