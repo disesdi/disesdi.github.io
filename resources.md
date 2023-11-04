@@ -69,9 +69,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
     * [HackerRank](https://www.hackerrank.com/)
 
 
-[back to topics](about.md#technical-resources)
+[back to topics](resources.md#technical-resources)
 
-[top](https://anglesofattack.io/about.html)
+[top](https://anglesofattack.io/resources.html)
 
 #### mathematics
 
