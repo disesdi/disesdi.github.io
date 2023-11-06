@@ -15,7 +15,7 @@
 
 -------
 
-**AI/ML Architect & Security Researcher | Data Systems Architect at <a href="https://www.bobihealth.com/" target="_blank" rel="noopener noreferrer">BobiHealth >></a>**
+**AI/ML Architect & Security Researcher \| Data Systems Architect at <a href="https://www.bobihealth.com/" target="_blank" rel="noopener noreferrer">BobiHealth >></a>**
 
 
 **Hear me talk about AI security on the <a href="https://mlsecops.com/podcast/cox-securing-aiml-systems-in-the-age-of-information-warfare" target="_blank" rel="noopener noreferrer">MLSecOps Podcast >></a>**
