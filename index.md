@@ -20,6 +20,12 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
+### [Auto Axelrod Tournament Generator](https://github.com/disesdi/auto_axelrod)
+
+A python game theory project to auto-generate multi-strategy Axelrod tournaments, & visualize their results [ >> ](https://github.com/disesdi/auto_axelrod)
+
+-------
+
 ### MLSecops Resources
 
 -------
