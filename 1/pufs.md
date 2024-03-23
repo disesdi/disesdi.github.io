@@ -4,7 +4,7 @@
 
 # Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting 
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | 23 October 2022
+### By <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | 23 October 2022
 
 -------
 
@@ -145,7 +145,7 @@ These results are in line with current academic literature,<sup>[20]</sup> and w
 
 -------
 
-## [*Contact me >>*](https://disesdi.github.io/contact.html)
+## [*Contact me >>*](https://hypr.systems/about.html)
 
 -------
 -------
