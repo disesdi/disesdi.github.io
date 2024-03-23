@@ -1,6 +1,6 @@
 -------
 
-[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://mlops.archi/" target="_blank" rel="noopener noreferrer">mlops.archi</a> 
+[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/" target="_blank" rel="noopener noreferrer">hypr.systems</a>
 
 -------
 
