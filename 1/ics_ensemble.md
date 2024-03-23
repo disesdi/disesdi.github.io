@@ -6,7 +6,7 @@
 
 # Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs 
 
-### By <a href="https://disesdi.github.io/contact.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | 21 October 2022
+### By <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | 21 October 2022
 
 -------
 
@@ -121,7 +121,7 @@ The increased tree depth came with training time increases, however. Resource us
 -------
 
 
-## [*Contact me >>*](https://disesdi.github.io/contact.html)
+## [*Contact me >>*](https://hypr.systems/about.html)
 
 
 -------
