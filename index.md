@@ -4,7 +4,7 @@
 
 -------
 
-## MLSecops Resources
+## AISecOps / MLSecOps Resources
 
 -------
 
