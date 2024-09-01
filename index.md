@@ -4,7 +4,7 @@
 
 -------
 
-### MLSecops Resources
+## MLSecops Resources
 
 -------
 
@@ -20,7 +20,7 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
-### Code
+## Code
 
 -------
 
@@ -36,7 +36,7 @@ A python game theory project to auto-generate multi-strategy Axelrod tournaments
 
 -------
 
-### Other Projects
+## Other Projects
 
 -------
 
