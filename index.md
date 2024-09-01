@@ -1,28 +1,6 @@
 -------
 
-**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a>
-
--------
-
-### Projects \| [All >>](https://disesdi.github.io/all.html)
-
--------
-
-### [Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>](https://disesdi.github.io/1/pufs.html)
-
-PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [ >> ](https://disesdi.github.io/1/pufs.html)
-
--------
-
-### [Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs >>](https://disesdi.github.io/1/ics_ensemble.html)
-
-Exploring classification of high-dimensional synchrophasor security log data with ensemble methods [ >> ](https://disesdi.github.io/1/ics_ensemble.html) 
-
--------
-
-### [Auto Axelrod Tournament Generator >>](https://github.com/disesdi/auto_axelrod)
-
-A python game theory project to auto-generate multi-strategy Axelrod tournaments, & visualize their results [ >> ](https://github.com/disesdi/auto_axelrod)
+**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 -------
 
@@ -42,6 +20,22 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
+### Code
+
+-------
+
+### [Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>](https://disesdi.github.io/1/pufs.html)
+
+PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [ >> ](https://disesdi.github.io/1/pufs.html)
+
+-------
+
+### [Auto Axelrod Tournament Generator >>](https://github.com/disesdi/auto_axelrod)
+
+A python game theory project to auto-generate multi-strategy Axelrod tournaments, & visualize their results [ >> ](https://github.com/disesdi/auto_axelrod)
+
+-------
+
 ### Other Projects
 
 -------
@@ -52,5 +46,6 @@ Data science, NLProc, and AIML for the culture <a href="https://github.com/indig
 
 -------
 
-**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a>
+**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+
 <div align="center">🕷</div>
