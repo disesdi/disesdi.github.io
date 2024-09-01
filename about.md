@@ -9,11 +9,11 @@
 -------
 ![disesdi_susanna](disesdi_susanna.png)
 
-### ᏗᏎᏍᏗ Disesdi Susanna Cox *(any pronouns)*
+## ᏗᏎᏍᏗ Disesdi Susanna Cox
 
 -------
 
-**Aerospace & Safety Critical AI Systems Researcher. Native. ᏥᏣᎳᎩ. 🕷**
+**Aerospace & Safety Critical AI Systems Researcher. Native. ᏥᏣᎳᎩ.** *(any pronouns)*
 
 -------
 
@@ -23,7 +23,6 @@
 
 Email: <a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>
 
--------
 
 LinkedIn: <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi >></a>
 
