@@ -23,6 +23,6 @@ Exploring classification of high-dimensional synchrophasor security log data wit
 
 -------
 
-[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a> \| <a href="https://hypr.systems/" target="_blank" rel="noopener noreferrer">hypr.systems</a>
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a> 
 
 <div align="center">🕷</div>
