@@ -9,9 +9,7 @@
 -------
 ![disesdi_susanna](disesdi_susanna.png)
 
-**ᏗᏎᏍᏗ Disesdi Susanna Cox**
-
-*(Any pronouns)*
+### ᏗᏎᏍᏗ Disesdi Susanna Cox *(any pronouns)*
 
 -------
 
