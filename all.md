@@ -1,7 +1,6 @@
 -------
 
-[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a> \| <a href="https://hypr.systems/" target="_blank" rel="noopener noreferrer">hypr.systems</a>
-
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a> 
 -------
 
 ### All by date
@@ -11,14 +10,6 @@
 ### [Evaluating Robustness of Physical Unclonable Functions (PUFs) for Unmanned Aerial System Authentication via Random Forests & Gradient Boosting >>](https://disesdi.github.io/1/pufs.html)
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [ >> ](https://disesdi.github.io/1/pufs.html)
-
-[top](all.md#all-by-date)
-
--------
-
-### [#AviationCyber Attack Case Study: Sunwing Airlines 2022>>](https://disesdi.github.io/2/sunwing_2022.html)
-
-Sunwing Airlines & Airline Choice, April 2022: A phishing + 3rd party/supply chain breach in the aviation sector [ >> ](https://disesdi.github.io/2/sunwing_2022.html)
 
 [top](all.md#all-by-date)
 
