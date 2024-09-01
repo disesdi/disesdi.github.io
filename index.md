@@ -52,6 +52,5 @@ Data science, NLProc, and AIML for the culture <a href="https://github.com/indig
 
 -------
 
-**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a> \| <a href="https://hypr.systems/" target="_blank" rel="noopener noreferrer">hypr.systems</a>
-
+**home** \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a>
 <div align="center">🕷</div>
