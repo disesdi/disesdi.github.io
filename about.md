@@ -1,4 +1,7 @@
+-------
+
 [home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| about
+
 -------
 
 ## About me
@@ -6,9 +9,9 @@
 -------
 ![disesdi_susanna](disesdi_susanna.png)
 
-# My name is ᏗᏎᏍᏗ Disesdi Susanna Cox.
+**ᏗᏎᏍᏗ Disesdi Susanna Cox**
 
-### (Any pronouns)
+*(Any pronouns)*
 
 -------
 
