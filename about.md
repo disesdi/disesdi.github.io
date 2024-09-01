@@ -13,7 +13,7 @@
 
 -------
 
-**Aerospace & Safety Critical AI Systems Researcher. Native. ᏥᏣᎳᎩ.**
+**Aerospace & Safety Critical AI Systems Researcher. Native. ᏥᏣᎳᎩ. 🕷**
 
 -------
 
@@ -49,3 +49,7 @@ Telegram: <a href="https://t.me/disesdi" target="_blank" rel="noopener noreferre
 -------
 
 [home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| **about**
+
+-------
+
+<div align="center">🕷</div>
