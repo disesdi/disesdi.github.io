@@ -1,4 +1,4 @@
-[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a> \| <a href="https://hypr.systems/" target="_blank" rel="noopener noreferrer">hypr.systems</a>
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 -------
 
@@ -216,4 +216,4 @@ Operating%20Commerical%20UAS%20%28508%29.pdf
 
 -------
 
-[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">about</a> \| <a href="https://hypr.systems/" target="_blank" rel="noopener noreferrer">hypr.systems</a>
+[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
