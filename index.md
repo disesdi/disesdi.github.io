@@ -4,7 +4,11 @@
 
 -------
 
-## Angles of Attack
+# Angles of Attack: Safety-Critical AI Systems & Engineering
+
+-------
+
+## MLSecOps Resources
 
 -------
 
