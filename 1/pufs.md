@@ -4,11 +4,11 @@
 
 # Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting 
 
-### By <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 23 October 2022
+### By <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 23 October 2022
 
 -------
 
-Code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)
+Code available <a href="https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb" target="_blank" rel="noopener noreferrer">here >></a>
 
 -------
 
@@ -140,7 +140,7 @@ Given the ease with which scores can be increased with rudimentary parameter tun
 
 These results are in line with current academic literature,<sup>[20]</sup> and were acheived using a Jupyter Notebook kernel running inside a Linux virtual machine hosted on a Chromebook laptop. Increasingly large datasets and computationally intensive methods have increasingly accurate results. 
 
-*Code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)*
+*Code available <a href="https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb" target="_blank" rel="noopener noreferrer">here >></a>*
 
 
 -------
