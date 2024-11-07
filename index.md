@@ -4,8 +4,11 @@
 
 -------
 
-# Angles of Attack
-*Safety-Critical AI Systems (SCAIS) Engineering*
+# Angles of Attack: *Safety-Critical AI Systems (SCAIS) Engineering*
+
+-------
+
+**[Posts](#posts)** \| **[Publications & Research](#ai-security-publications--research)**
 
 -------
 
@@ -28,7 +31,7 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 -------
 
-## Code
+## Posts
 
 -------
 
