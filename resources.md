@@ -4,29 +4,68 @@
 
 -------
 
-### Resources
+# Resources
 
 -------
 
-This is where I maintain lists of 
+### Welcome. This is where I maintain lists of 
 
 * [AI Security resources](resources.md#ai-security)
 
-* [Technical resources](resources.md#technical-resources) for subjects related to AI security, data science, machine learning, & cybersecurity
+* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">Influential AI Security, MLOps & MLSecOps publications</a> in a Github Repo
+  
+* [Aviation Cybersecurity resources](resources.md#aerospace-organizations) from global aerospace organizations
 
-* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">AI Security, MLOps & MLSecOps resources</a> in a Github Repo
+* [Educational resources & how-tos](resources.md#educational-resources) for subjects related to AI security, data science, machine learning, & cybersecurity
 
-[Contact me >>](https://anglesofattack.io/about.html)
 
 -------
 
-### Technical resources
+### AI security
+
+-------
+
+* [OWASP AI Exchange](https://owaspai.org/)
+  
+* [NIST AI 100-2e2023 Adversarial Machine Learning Taxonomy](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf)
+  
+* [MITRE Atlas](https://atlas.mitre.org/matrices/ATLAS)
+  
+* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">Github repository of influential AI Security, MLOps & MLSecOps publications</a>
+
+[top](https://anglesofattack.io/resources.html)
+
+-------
+
+### Aerospace organizations
+
+-------
+
+**International Civil Aviation Organization (ICAO)**
+
+Aviation Cybersecurity Overview *<a href="https://www.icao.int/aviationcybersecurity/Pages/default.aspx" target="_blank" rel="noopener noreferrer">go >></a>*
+
+
+**International Air Transport Association (IATA)**
+
+Aviation Cyber Security *<a href="https://www.iata.org/en/programs/security/cyber-security/" target="_blank" rel="noopener noreferrer">go >></a>* 
+
+
+**European Union Aviation Safety Agency (EASA)**
+
+Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-security/overview" target="_blank" rel="noopener noreferrer">go >></a>*
+
+[top](https://anglesofattack.io/resources.html)
+
+-------
+
+### Educational resources
 
 -------
 
 **by topic:**
 
-[all topics](#all)
+[all topics](#all-educational-resources)
 
 [learn to code](#learn-to-code)
 
@@ -60,17 +99,9 @@ This is where I maintain lists of
 
 -------
 
-### All:
+### All educational resources
 
-#### AI Security
-
-* [OWASP AI Exchange](https://owaspai.org/)
-  
-* [NIST AI 100-2e2023 Adversarial Machine Learning Taxonomy](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf)
-  
-* [MITRE Atlas](https://atlas.mitre.org/matrices/ATLAS)
-  
-* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">Github repository of AI Security, MLOps & MLSecOps resources</a>
+-------
 
 #### learn to code
 
@@ -87,7 +118,7 @@ This is where I maintain lists of
     * [HackerRank](https://www.hackerrank.com/)
 
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -117,7 +148,7 @@ This is where I maintain lists of
 
 * [Introduction to Discrete Mathematics for Computer Science (Coursera)](https://www.coursera.org/specializations/discrete-mathematics) (free full course)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -131,7 +162,7 @@ This is where I maintain lists of
 
 * [Python Module of the Week](https://pymotw.com/2/contents.html)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -147,7 +178,7 @@ This is where I maintain lists of
 
 * [Python Machine Learning Tutorial: TensorFlow](https://www.python-course.eu/tensor_flow_introduction.php)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -167,7 +198,7 @@ This is where I maintain lists of
     
 * [10 Python Pandas tips to make data analysis faster](https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -185,7 +216,7 @@ This is where I maintain lists of
     
     * [Machine Learning 101: Supervised, Unsupervised, Reinforcement & Beyond](https://towardsdatascience.com/machine-learning-101-supervised-unsupervised-reinforcement-beyond-f18e722069bc)
  
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -197,7 +228,7 @@ This is where I maintain lists of
     
     * [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -261,7 +292,7 @@ This is where I maintain lists of
         
         * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) *(code-heavy demo in python, followed by a simpler demo using scikit-learn)*
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -283,7 +314,7 @@ This is where I maintain lists of
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -301,7 +332,7 @@ This is where I maintain lists of
 
 * [Crash Course On Multi-Layer Perceptron Neural Networks](https://machinelearningmastery.com/neural-networks-crash-course/)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -317,7 +348,7 @@ This is where I maintain lists of
 
 * [Recurrent neural networks and LSTM tutorial in Python and TensorFlow](https://github.com/adventuresinML/adventures-in-ml-code)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -339,7 +370,7 @@ This is where I maintain lists of
 
 * [A Gentle Introduction to Neural Machine Translation](https://machinelearningmastery.com/introduction-neural-machine-translation/)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -377,7 +408,7 @@ This is where I maintain lists of
 
 * [Page Rank Algorithm and Implementation](https://www.geeksforgeeks.org/page-rank-algorithm-implementation/)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -395,7 +426,7 @@ This is where I maintain lists of
 
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -415,7 +446,7 @@ This is where I maintain lists of
 
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -433,7 +464,7 @@ This is where I maintain lists of
     
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -445,7 +476,7 @@ This is where I maintain lists of
     
 * [Stanford CS224n: Natural Language Processing with Deep Learning (winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) / [course page here](http://web.stanford.edu/class/cs224n/)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -467,7 +498,7 @@ This is where I maintain lists of
     
     * [Open Images](https://storage.googleapis.com/openimages/web/factsfigures.html)
     
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
     
@@ -497,7 +528,7 @@ This is where I maintain lists of
     
     * [The Reuters Corpora](https://trec.nist.gov/data/reuters/reuters.html)
     
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -527,7 +558,7 @@ This is where I maintain lists of
     
     * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
     
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
     
@@ -559,7 +590,7 @@ This is where I maintain lists of
     
     * [The Human Mortality Database](https://www.mortality.org/)
     
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -569,7 +600,7 @@ This is where I maintain lists of
     
     * [DATA.gov US Government Open Data](https://www.data.gov/)
     
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
@@ -583,36 +614,10 @@ This is where I maintain lists of
     
     * [awesome-public-datasets (repo with public datasets grouped by topic)](https://github.com/awesomedata/awesome-public-datasets)
 
-[back to topics](resources.md#technical-resources)
+[back to topics](resources.md#educational-resources)
 
 [top](https://anglesofattack.io/resources.html)
 
--------
-
-### aerospace organizations
-
--------
-
-**International Civil Aviation Organization (ICAO)**
-
-Aviation Cybersecurity Overview *<a href="https://www.icao.int/aviationcybersecurity/Pages/default.aspx" target="_blank" rel="noopener noreferrer">go >></a>*
-
-
-**International Air Transport Association (IATA)**
-
-Aviation Cyber Security *<a href="https://www.iata.org/en/programs/security/cyber-security/" target="_blank" rel="noopener noreferrer">go >></a>*
-
-
-**United States Federal Aviation Administration (FAA)**
-
-Cybersecurity Awareness Symposium *<a href="https://www.faa.gov/air_traffic/technology/cas" target="_blank" rel="noopener noreferrer">go >></a>*   
-
-
-**European Union Aviation Safety Agency (EASA)**
-
-Cybersecurity Overview *<a href="https://www.easa.europa.eu/en/domains/cyber-security/overview" target="_blank" rel="noopener noreferrer">go >></a>*
-
-[top](https://anglesofattack.io/resources.html)
 
 -------
 
