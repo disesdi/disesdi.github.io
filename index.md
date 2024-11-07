@@ -29,6 +29,8 @@ The rise of artificial intelligence applications in society, and their accompany
 A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, ++ 
 <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer"> >> </a>
 
+[top](https://anglesofattack.io/)
+
 -------
 
 ## Posts
@@ -39,11 +41,12 @@ A repo for some of the most influential papers, books, & other media on machine 
 
 PUFs have been proposed as a lightweight drone authentication method resistant to man-in-the-middle attacks. But how secure are they against machine learning? [ >> ](https://disesdi.github.io/1/pufs.html)
 
--------
 
 ### [Auto Axelrod Tournament Generator >>](https://github.com/disesdi/auto_axelrod)
 
 A python game theory project to auto-generate multi-strategy Axelrod tournaments, & visualize their results [ >> ](https://github.com/disesdi/auto_axelrod)
+
+[top](https://anglesofattack.io/)
 
 -------
 
