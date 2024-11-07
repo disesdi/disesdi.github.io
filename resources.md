@@ -10,7 +10,7 @@
 
 This is where I maintain lists of 
 
-* [AI Security resources](resources.md#technical-resources)
+* [AI Security resources](resources.md#ai-security)
 
 * [Technical resources](resources.md#technical-resources) for subjects related to AI security, data science, machine learning, & cybersecurity
 
