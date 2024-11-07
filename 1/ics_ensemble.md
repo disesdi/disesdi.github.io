@@ -6,7 +6,7 @@
 
 # Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs 
 
-### By <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">Disesdi</a> | 21 October 2022
+### By <a href="https://hypr.systems/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 21 October 2022
 
 -------
 
