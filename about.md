@@ -4,16 +4,19 @@
 
 -------
 
-## About me
+# About me
 
 -------
-![disesdi_susanna](disesdi_susanna.png)
 
 ## ᏗᏎᏍᏗ Disesdi Susanna Cox
 
 -------
 
 **Safety Critical AI Systems Architect. AI Security patent holder. OWASP AI Exchange Core Author Team. Former Chief Data Officer & Red Team Lead. Speaker. Author. ᏥᏣᎳᎩ.** *(any pronouns)*
+
+-------
+
+![disesdi_susanna](disesdi_susanna.png)
 
 -------
 
