@@ -52,7 +52,9 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 [datasets](#datasets)
 
-### all:
+-------
+
+## all:
 
 #### learn to code
 
