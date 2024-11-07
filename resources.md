@@ -8,7 +8,12 @@
 
 -------
 
-This is where I maintain lists of [technical resources](resources.md#technical-resources) for subjects related to data science, machine learning, & cybersecurity; <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>, and a list of [aerospace organizations & aviation cyber resources](resources.md#aerospace-organizations).
+This is where I maintain lists of 
+
+* [AI Security resources](resources.md#technical-resources)
+* [technical resources](resources.md#technical-resources) for subjects related to AI security, data science, machine learning, & cybersecurity;
+* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>
+* a list of [aerospace organizations & aviation cyber resources](resources.md#aerospace-organizations).
 
 [Contact me >>](https://anglesofattack.io/about.html)
 
@@ -54,7 +59,17 @@ This is where I maintain lists of [technical resources](resources.md#technical-r
 
 -------
 
-## all:
+### All:
+
+#### AI Security
+
+* [OWASP AI Exchange](https://owaspai.org/)
+  
+* [NIST AI 100-2e2023 Adversarial Machine Learning Taxonomy](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf)
+  
+* [MITRE Atlas](https://atlas.mitre.org/matrices/ATLAS)
+  
+* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">Github repository of AI Security, MLOps & MLSecOps resources</a>
 
 #### learn to code
 
