@@ -12,9 +12,9 @@ This is where I maintain lists of
 
 * [AI Security resources](resources.md#technical-resources)
 
-* [Technical resources](resources.md#technical-resources) for subjects related to AI security, data science, machine learning, & cybersecurity;
+* [Technical resources](resources.md#technical-resources) for subjects related to AI security, data science, machine learning, & cybersecurity
 
-* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">AI Security, MLOps & MLSecOps resources in a Github Repo</a>
+* AI Security, MLOps & MLSecOps resources in a <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">Github Repo</a>
 
 [Contact me >>](https://anglesofattack.io/about.html)
 
