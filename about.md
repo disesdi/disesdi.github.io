@@ -13,7 +13,7 @@
 
 -------
 
-**Aerospace & Safety Critical AI Systems Researcher. Native. ᏥᏣᎳᎩ.** *(any pronouns)*
+**Safety Critical AI Systems Architect. AI Security patent holder. OWASP AI Exchange Core Author Team. Former Chief Data Officer & Red Team Lead. Speaker. Author. ᏥᏣᎳᎩ.** *(any pronouns)*
 
 -------
 
@@ -21,7 +21,7 @@
 
 -------
 
-Email: <a href="mailto:disesdi@pm.me" target="_blank" rel="noopener noreferrer">disesdi@pm.me >></a>
+Email: <a href="mailto:susanna@anglesofattack.io" target="_blank" rel="noopener noreferrer">susanna@anglesofattack.io >></a>
 
 
 LinkedIn: <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi >></a>
