@@ -4,7 +4,7 @@
 
 -------
 
-# Angles of Attack: Safety-Critical AI Systems & Engineering
+# Angles of Attack | Safety-Critical AI Systems (SCAIS) Engineering
 
 -------
 
