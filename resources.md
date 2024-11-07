@@ -14,9 +14,7 @@ This is where I maintain lists of
 
 * [technical resources](resources.md#technical-resources) for subjects related to AI security, data science, machine learning, & cybersecurity;
 
-* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">a repo of mlops & mlsecops resources</a>
-
-* a list of [aerospace organizations & aviation cyber resources](resources.md#aerospace-organizations).
+* <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">AI Security, MLOps & MLSecOps Resources in a Github Repo</a>
 
 [Contact me >>](https://anglesofattack.io/about.html)
 
