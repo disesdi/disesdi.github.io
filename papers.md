@@ -1,6 +1,6 @@
 -------
 
-[**Posts**](https://anglesofattack.io/posts.html) \| **Papers** \| [**Talks**](https://anglesofattack.io/talks.html) \| [**About**](https://anglesofattack.io/about.html)
+[Posts](https://anglesofattack.io/posts.html) \| **Papers** \| [Talks](https://anglesofattack.io/talks.html) \| [About](https://anglesofattack.io/about.html)
 
 -------
 
@@ -12,7 +12,7 @@
 
 -------
 
-### *<a href="https://patents.google.com/patent/US12093400B1/en" target="_blank" rel="noopener noreferrer">US Patent 12,093,400, 2024: "Systems and methods for model security in distributed model training applications" </a>*
+### *<a href="https://patents.google.com/patent/US12093400B1/en" target="_blank" rel="noopener noreferrer">US Patent 12,093,400, 2024: Systems and methods for model security in distributed model training applications </a>*
 
 A novel distributed security architecture for Federated AI/ML data poisoning defense. <a href="https://patents.google.com/patent/US12093400B1/en" target="_blank" rel="noopener noreferrer"> >> </a>
 
