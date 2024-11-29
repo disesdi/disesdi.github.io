@@ -145,11 +145,6 @@ These results are in line with current academic literature,<sup>[20]</sup> and w
 
 -------
 
-## [Contact >>](https://anglesofattack.io/about.html)
-
--------
--------
-
 ## References
 
 
