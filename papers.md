@@ -8,7 +8,7 @@
 
 -------
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ) \| [ORCID](https://orcid.org/0009-0003-0568-0236)
+<a href="https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar </a> \| <a href="https://orcid.org/0009-0003-0568-0236" target="_blank" rel="noopener noreferrer">ORCID </a>
 
 -------
 
