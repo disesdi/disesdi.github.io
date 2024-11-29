@@ -32,15 +32,11 @@ One of the biggest challenges in creating mission-critical AI is baked into the 
 
 -------
 
-### <a href="https://zenodo.org/records/13905972" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare </a> 
+### *<a href="https://owaspai.org/" target="_blank" rel="noopener noreferrer">OWASP AI Exchange </a>*
 
-A novel AI/machine learning security operations (AI/MLSecOps) architecture, including systems for operationalized security, auditing, data threat, and information warfare detection, along with OODA Loop-based game theoretic modeling of information warfare in AI/ML systems, and boolean path threat modeling & cyber resiliency metrics adapted to the canonical MLOps development cycle. <a href="https://zenodo.org/records/13905972" target="_blank" rel="noopener noreferrer"> >> </a>
+The OWASP AI Exchange is an open collaborative project to advance the development of AI security standards and regulations, by providing a comprehensive overview of AI threats, vulnerabilities and controls. Content feeds into standards for the EU AI Act, ISO/IEC 27090 (AI security), the OWASP ML top 10, the OWASP LLM top 10, and OpenCRE. 
 
-### <a href="https://zenodo.org/records/13905960" target="_blank" rel="noopener noreferrer">AI-DAL: Towards Security Design Assurance for Artificial Intelligence Systems in Production </a>
-
-The rise of artificial intelligence applications in society, and their accompanying security concerns, has created a need for regulatory oversight that is auditable, actionable, and adaptable to a rapidly changing technological landscape. Methods from safety-critical software engineering, particularly aerospace, are adapted to use in production AIML to aid both practitioners and regulators in establishing design thresholds for AIML system security. Assignment of AI Design Assurance Levels (AI-DAL) to projects/components, along with production of related compliance artifacts, is proposed as a means of consistently applying appropriate design requirements based on a system’s potential adverse impact. <a href="https://zenodo.org/records/13905960" target="_blank" rel="noopener noreferrer"> >> </a>
-
-### <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">MLSecOps Reference Repository </a>
+### *<a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">AI Security Reference Repository </a>*
 
 A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, ++ 
 <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer"> >> </a>
