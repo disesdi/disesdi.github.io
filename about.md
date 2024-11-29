@@ -12,7 +12,7 @@
 
 -------
 
-My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox. I am a Safety Critical AI Systems Architect, & AI Security patent holder. I am a Former Chief Data Officer & Red Team Lead. I am part of the OWASP AI Exchange Core Author Team, cotributing to international standards for AI security and requirements for the EU AI Act. I am Cherokee: ᏥᏣᎳᎩ.** *(any pronouns)*
+My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox. I am a Safety Critical AI Systems Architect, & AI Security patent holder. I am a Former Chief Data Officer & Red Team Lead. I am part of the OWASP AI Exchange Core Author Team, contributing to international standards for AI security and requirements for the EU AI Act. I am Cherokee: ᏥᏣᎳᎩ.** *(any pronouns)*
 
 -------
 
