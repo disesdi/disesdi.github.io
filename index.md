@@ -8,7 +8,7 @@
 
 -------
 
-### **New** \| **[Resources](#resources)**
+**New** \| **[Resources](#resources)**
 
 -------
 
@@ -24,11 +24,9 @@ How do we know whether our security and robustness requirements for mission-crit
 
 One of the biggest challenges in creating mission-critical AI is baked into the nature of AI/ML systems themselves. [>>](https://anglesofattack.io/posts/28112024-1.html)
 
-*[top](https://anglesofattack.io/)*
-
 -------
 
-### Resources
+#### Resources
 
 -------
 
