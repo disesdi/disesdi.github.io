@@ -1,6 +1,6 @@
 -------
 
-[**Posts**](https://anglesofattack.io/posts.html) \| [**Papers**](https://anglesofattack.io/papers.html) \| [**Talks**](https://anglesofattack.io/talks.html) \| [**About**](https://anglesofattack.io/about.html)
+**[Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Talks](https://anglesofattack.io/talks.html) \| [About](https://anglesofattack.io/about.html)**
 
 -------
 
@@ -12,7 +12,7 @@
 
 -------
 
-My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox. I am a Safety Critical AI Systems Architect, & AI Security patent holder. I am a Former Chief Data Officer & Red Team Lead. I am part of the OWASP AI Exchange Core Author Team, contributing to international standards for AI security and requirements for the EU AI Act. I am Cherokee: ᏥᏣᎳᎩ.** *(any pronouns)*
+My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox.** You can call me **Susanna**. I am a Safety Critical AI Systems Architect, & AI Security patent holder, former Chief Data Officer & Red Team Lead. I am part of the OWASP AI Exchange Core Author Team, contributing to international standards for AI security and requirements for the EU AI Act. I am Cherokee: ᏥᏣᎳᎩ. *(any pronouns)*
 
 -------
 
