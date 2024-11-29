@@ -1,18 +1,18 @@
 -------
 
-[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| **about**
+[**Posts**](https://anglesofattack.io/posts.html) \| [**Papers**](https://anglesofattack.io/papers.html) \| [**Talks**](https://anglesofattack.io/talks.html) \| [**About**](https://anglesofattack.io/about.html)
 
 -------
 
-# About me
+# *Angles of Attack: Engineering Mission-Critical AI Systems*
 
 -------
 
-## ᏗᏎᏍᏗ Disesdi Susanna Cox
+### About
 
 -------
 
-**Safety Critical AI Systems Architect. AI Security patent holder. OWASP AI Exchange Core Author Team. Former Chief Data Officer & Red Team Lead. Speaker. Author. ᏥᏣᎳᎩ.** *(any pronouns)*
+My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox. I am a Safety Critical AI Systems Architect, & AI Security patent holder. I am a Former Chief Data Officer & Red Team Lead. I am part of the OWASP AI Exchange Core Author Team, cotributing to international standards for AI security and requirements for the EU AI Act. I am Cherokee: ᏥᏣᎳᎩ.** *(any pronouns)*
 
 -------
 
@@ -20,7 +20,7 @@
 
 -------
 
-### Contact & Socials
+### Contact me
 
 -------
 
@@ -47,10 +47,6 @@ Telegram: <a href="https://t.me/disesdi" target="_blank" rel="noopener noreferre
 **ᎦᏙᎯ:** My work takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >></a> and <a href="https://indigenousengineering.github.io/about/land.html">Ohlone land >></a>
 
 **ᏗᎦᏙᎯ:** Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>
-
--------
-
-[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| **about**
 
 -------
 
