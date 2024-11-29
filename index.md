@@ -8,7 +8,7 @@
 
 -------
 
-**New** \| **[Resources](#resources)**
+### **New** \| **[Resources](#resources)**
 
 -------
 
