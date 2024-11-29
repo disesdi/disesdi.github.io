@@ -14,7 +14,7 @@
 
 ### [*Real-Time Embedded Systems: A Quick Primer For AI*](https://anglesofattack.io/posts/28112024-2.html)
 
-Systems that must operate in real-time--including AI--are more than just fast, they're preictable, reliable, and robust. [>>](https://anglesofattack.io/posts/28112024-1.html)
+Systems that must operate in real-time--including AI--are more than just fast, they're predictable, reliable, and robust. [>>](https://anglesofattack.io/posts/28112024-1.html)
 
 ### [*When Enough Is Enough: Assurance Cases for AI System Security Design*](https://anglesofattack.io/posts/28112024-0.html)
 
