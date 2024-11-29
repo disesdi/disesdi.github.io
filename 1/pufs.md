@@ -1,8 +1,10 @@
-[home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+**[Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Talks](https://anglesofattack.io/talks.html) \| [About](https://anglesofattack.io/about.html)**
 
 -------
 
-# Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting 
+# Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting
+
+-------
 
 ### <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 23 October 2022
 
