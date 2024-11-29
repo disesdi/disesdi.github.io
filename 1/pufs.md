@@ -4,7 +4,7 @@
 
 # Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting 
 
-### By <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 23 October 2022
+### <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 23 October 2022
 
 -------
 
@@ -145,7 +145,7 @@ These results are in line with current academic literature,<sup>[20]</sup> and w
 
 -------
 
-## [*Contact me >>*](https://hypr.systems/about.html)
+## [Contact >>](https://anglesofattack.io/about.html)
 
 -------
 -------
@@ -217,3 +217,7 @@ Operating%20Commerical%20UAS%20%28508%29.pdf
 -------
 
 [home](https://disesdi.github.io/) \| [resources](https://disesdi.github.io/resources.html) \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+
+-------
+
+<div align="center">🕷</div>
