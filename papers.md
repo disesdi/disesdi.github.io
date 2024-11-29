@@ -1,6 +1,6 @@
 -------
 
-[Posts](https://anglesofattack.io/posts.html) \| **Papers** \| [Talks](https://anglesofattack.io/talks.html) \| [About](https://anglesofattack.io/about.html)
+**[Posts](https://anglesofattack.io/posts.html) \| Papers \| [Talks](https://anglesofattack.io/talks.html) \| [About](https://anglesofattack.io/about.html)**
 
 -------
 
@@ -8,7 +8,7 @@
 
 -------
 
-**Papers** \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ) \| [ORCID](https://orcid.org/0009-0003-0568-0236)
+**Papers \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ) \| [ORCID](https://orcid.org/0009-0003-0568-0236)**
 
 -------
 
