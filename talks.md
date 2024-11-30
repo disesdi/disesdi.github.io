@@ -8,9 +8,15 @@
 
 -------
 
-**Slides \| [Video](#video)**
+**Video \| [Slides](#slides)**
 
 -------
+
+[![Watch the video](https://img.youtube.com/vi/cTbAD9K_FqA/0.jpg)](https://www.youtube.com/watch?v=cTbAD9K_FqA&t=206s)
+
+-------
+
+#### Slides
 
 ### *<a href="https://zenodo.org/records/14248926" target="_blank" rel="noopener noreferrer">Threat Modeling in the Age of AI - Threat Modeling Connect Global Meetup November 2024 </a>*
 
@@ -21,11 +27,5 @@ Data is no longer the “new oil”--it’s the new attack vector. How can secur
 This session equips participants with the methodology and knowledge to proactively manage risks and improve the security posture of their AI systems. Threat modeling is a systematic approach to identifying potential threats and vulnerabilities in a system. This session delves into threat modeling for AI systems, and how it differs from traditional applications. Participants learn what threat modeling is & isn’t, including an overview of terms & methodologies, and then dive into how threat modeling for AI actually works. The presenter is part of the OWASP AI Exchange team of experts who developed the OWASP AI Exchange threat framework, and has extensive experience with threat modeling of mission-critical AI. With that knowledge and experience participants are guided in applying the threat framework to various types of AI architectures, to cover AI attacks such as data poisoning and indirect prompt injection. 
 
 -------
-
-#### Video
-
--------
-
-[![Watch the video](https://img.youtube.com/vi/cTbAD9K_FqA/0.jpg)](https://www.youtube.com/watch?v=cTbAD9K_FqA&t=206s)
 
 <div align="center">🕷</div>
