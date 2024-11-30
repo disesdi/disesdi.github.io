@@ -26,8 +26,7 @@ This session equips participants with the methodology and knowledge to proactive
 
 -------
 
-https://www.youtube.com/watch?v=cTbAD9K_FqA&t=206s
 
-[![Watch the video](https://img.youtube.com/vi/cTbAD9K_FqA&t/default.jpg)](https://www.youtube.com/watch?v=cTbAD9K_FqA&t=206s)
+[![Watch the video](https://img.youtube.com/vi/cTbAD9K_FqA&t/0.jpg)](https://www.youtube.com/watch?v=cTbAD9K_FqA&t=206s)
 
 <div align="center">🕷</div>
