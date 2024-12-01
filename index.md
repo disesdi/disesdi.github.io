@@ -38,7 +38,8 @@ The OWASP AI Exchange is an open collaborative project to advance the developmen
 
 A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, ++ <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer"> >> </a>
 
-*[top](https://anglesofattack.io/)*
+
+*<div align="center">[top](https://anglesofattack.io/) </div>*
 
 -------
 
