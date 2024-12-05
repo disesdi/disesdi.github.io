@@ -28,7 +28,10 @@ My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox.** You can call me **Susanna**. I 
 
 -------
 
-<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi</a> \| <a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">x.com/disesdi</a> \| <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a> \| <a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi</a>
+<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi</a> \| <a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">x.com/disesdi</a>
+
+
+<a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a> \| <a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi</a>
 
 -------
 
