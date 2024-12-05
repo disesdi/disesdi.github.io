@@ -8,7 +8,7 @@
 
 -------
 
-### About \| [Contact](#contact-me)
+**About \| [Contact](#contact-me)**
 
 -------
 
