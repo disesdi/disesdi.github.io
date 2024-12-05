@@ -26,9 +26,13 @@ My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox.** You can call me **Susanna**. I 
 
 <a href="mailto:susanna@anglesofattack.io" target="_blank" rel="noopener noreferrer">susanna@anglesofattack.io</a> \| <a href="disesdi.susannacox@owasp.org" target="_blank" rel="noopener noreferrer">disesdi.susannacox@owasp.org</a>
 
+-------
 
 <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi</a> \| <a href="https://twitter.com/disesdi/" target="_blank" rel="noopener noreferrer">x.com/disesdi</a> \| <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a> \| <a href="https://github.com/disesdi" target="_blank" rel="noopener noreferrer">github.com/disesdi</a>
 
+-------
+
+<a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Cox%2C%20Susanna%22&l=list&p=1&s=10&sort=bestmatch" target="_blank" rel="noopener noreferrer">Zenodo</a> \| <a href="https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar </a> \| <a href="https://orcid.org/0009-0003-0568-0236" target="_blank" rel="noopener noreferrer">ORCID </a>
 
 -------
 
