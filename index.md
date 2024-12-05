@@ -37,6 +37,10 @@ The OWASP AI Exchange's overview of AI security, including hepful introductions 
 The AI security matrix (graphic) shows all threats and risks, ordered by type and impact. <a href="https://owaspai.org/goto/aisecuritymatrix/" target="_blank" rel="noopener noreferrer"> >> </a>
 
 
+### *<a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf" target="_blank" rel="noopener noreferrer">NIST AI 100-2e2023 Adversarial Machine Learning </a>*
+
+A Taxonomy and Terminology of AI Attacks and Mitigations, prepared by the US National Institute of Standards and Technology. <a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf" target="_blank" rel="noopener noreferrer"> >> </a>
+
 ### *<a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer">AI Security Reference Repository </a>*
 
 A Github repo of some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, ++ <a href="https://github.com/disesdi/mlsecops_references" target="_blank" rel="noopener noreferrer"> >> </a>
