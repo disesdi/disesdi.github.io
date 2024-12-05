@@ -32,7 +32,7 @@ My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox.** You can call me **Susanna**. I 
 
 -------
 
-**ᏗᎦᏙᎯ:** Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy >> </a>
+**ᏗᎦᏙᎯ:** *Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy here</a>*
 
 -------
 
