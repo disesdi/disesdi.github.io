@@ -24,7 +24,7 @@ My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox.** You can call me **Susanna**. I 
 
 -------
 
-<a href="mailto:susanna@anglesofattack.io" target="_blank" rel="noopener noreferrer">susanna@anglesofattack.io</a>
+<a href="mailto:disesdi.susannacox@owasp.org" target="_blank" rel="noopener noreferrer">disesdi.susannacox@owasp.org</a>
 
 -------
 
