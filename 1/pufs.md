@@ -1,4 +1,4 @@
-**[Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Talks](https://anglesofattack.io/talks.html) \| [About](https://anglesofattack.io/about.html)**
+**[Home](https://anglesofattack.io/) \| [Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Talks](https://anglesofattack.io/talks.html) \| [About](https://anglesofattack.io/about.html)**
 
 -------
 
