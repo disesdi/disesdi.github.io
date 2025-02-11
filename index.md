@@ -26,7 +26,7 @@ How do we know whether our security and robustness requirements for mission-crit
 
 -------
 
-#### Resources \| [Home](https://anglesofattack.io/)
+#### Resources 
 
 -------
 
@@ -37,7 +37,7 @@ The OWASP AI Exchange is an open collaborative project to advance the developmen
 
 ### *<a href="https://owaspai.org/docs/ai_security_overview/" target="_blank" rel="noopener noreferrer">OWASP AIX AI Security Overview </a>*
 
-The OWASP AI Exchange's overview of AI security, including hepful introductions to AI threats, mitigations, lifecycles and more. <a href="https://owaspai.org/docs/ai_security_overview/" target="_blank" rel="noopener noreferrer"> >> </a>
+The OWASP AI Exchange's overview of AI security, including helpful introductions to AI threats, mitigations, lifecycles and more. <a href="https://owaspai.org/docs/ai_security_overview/" target="_blank" rel="noopener noreferrer"> >> </a>
 
 
 ### *<a href="https://owaspai.org/goto/aisecuritymatrix/" target="_blank" rel="noopener noreferrer">The AI Security Matrix </a>*
