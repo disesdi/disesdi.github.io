@@ -8,7 +8,7 @@
 
 -------
 
-**Bio** \| **[Services](#services)** \| **[Contact](#contact)** \| **<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Book Time</a>** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Newsletter</a>**
+**Bio** \| **[Services](#services)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Newsletter</a>**
 
 
 -------
@@ -40,6 +40,8 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 ### Contact
 
 -------
+
+**<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Book Time</a>**
 
 > <a href="mailto:disesdi.susannacox@owasp.org" target="_blank" rel="noopener noreferrer">disesdi.susannacox@owasp.org</a>
 
