@@ -8,7 +8,7 @@
 
 -------
 
-**Mission** \| **[Latest](#latest)** \| [Principles](#principles--applications) \| **<a href="https://github.com/disesdi/mlsecops_references/blob/597de4e4475e6bf647755eac9cc8d86d39d3dabc/README.md" target="_blank" rel="noopener noreferrer">Resources</a>** \| **<a href="https://disesdi.substack.com/subscribe" target="_blank" rel="noopener noreferrer">Subscribe</a>**
+**Mission** \| **[Latest](#latest)** \| **[Principles](#principles--applications)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Newsletter</a>**
 
 -------
 
