@@ -18,7 +18,7 @@
 
 ***→ Use threat modeling to teach*** *AI teams how to de-silo expertise, think like hackers, and deploy like defenders.*
 
-***→ Results: AI security analysis for forward looking, systems thinking, research driven insights***
+***→ Results:*** *AI security analysis for forward looking, systems thinking, research driven insights.*
 
 -------
 
