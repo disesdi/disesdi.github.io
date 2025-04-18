@@ -49,59 +49,61 @@ How do we know whether our security and robustness requirements for mission-crit
 
 -------
 
-**AI Security Requires New Expertise**
+**→ AI Security Requires New Expertise**
 
-→ The AI threat model is radically different from those of traditional systems & requires fundamental paradigm shifts; de-siloing of data, dev, and security teams; training in the role and importance of data; and a lifecycle-based approach which is inseparable from Security Operations (SecOps).
+The AI threat model is radically different from those of traditional systems & requires fundamental paradigm shifts; de-siloing of data, dev, and security teams; training in the role and importance of data; and a lifecycle-based approach which is inseparable from Security Operations (SecOps).
 
-→ Many data teams are still new to security concepts, and many security teams are underexposed to exactly how AI systems work–and break.
+Many data teams are still new to security concepts, and many security teams are underexposed to exactly how AI systems work–and break.
 
-→ De-siloing expertise is an important first step, but without development of critical AI security-specific skill sets, teams will still fail to deploy AI systems securely.
+De-siloing expertise is an important first step, but without development of critical AI security-specific skill sets, teams will still fail to deploy AI systems securely.
 
-**Develop More Securely, Deploy More Successfully**
+**→ Develop More Securely, Deploy More Successfully**
 
-→ The lifecycle-based, SecOps-informed approach to understanding threats to AI systems is fundamental to securing them.
+The lifecycle-based, SecOps-informed approach to understanding threats to AI systems is fundamental to securing them.
 
-→ Lifecycle-based threat modeling ensures that AI-adapted secure development lifecycle (AI-SDL) principles are baked into AI deployments from the start.
+Lifecycle-based threat modeling ensures that AI-adapted secure development lifecycle (AI-SDL) principles are baked into AI deployments from the start.
 
-**Move AI Security Principles From Theory To Practice**
+**→ Move AI Security Principles From Theory To Practice**
 
-→ To gain a deeper contextual understanding of the true AI threat landscape, it’s necessary to both apply and go beyond the lifecycle by examining AI security applications & modeling threats through the lenses of three key themes:
+To gain a deeper contextual understanding of the true AI threat landscape, it’s necessary to both apply and go beyond the lifecycle by examining AI security applications & modeling threats through the lenses of three key themes:
 
-> Mission-Critical AI Engineering (including specialized threat modeling), representing ***engineering standards & principles;*** 
->
-> Adversarial Machine Learning, Red Teaming, AIMLOps, & R&D, representing the ***attack surface and defensive capabilities;*** and 
->
-> AI Policy, both civil and organizational, representing ***application at scale.***
+*1) Mission-Critical AI Engineering (including specialized threat modeling), representing* ***engineering standards & principles;*** 
 
-**AI Threat Modeling Requires A Purple Team Approach**
+*2) Adversarial Machine Learning, Red Teaming, AIMLOps, & R&D, representing the* ***attack surface and defensive capabilities;*** *and*
 
-→ Threat modeling with risk assessment for AI is a purple team activity, requiring understanding of the attack surface, organizational defense capabilities, and the regulatory policy landscape, all as applied to AI systems and their unique contexts. 
+*3) AI Policy, both civil and organizational, representing* ***application at scale.***
 
-→ These three thematic areas (Engineering Principles, Attack Surface & Defensive Capabilities, and Policy Application At Scale) should inform threat modeling and risk assessment for AIML applications in every organization, at every stage of development. Context matters.
+**→ AI Threat Modeling Requires A Purple Team Approach**
 
-**Future-Proof AI Systems**
+Threat modeling with risk assessment for AI is a purple team activity, requiring understanding of the attack surface, organizational defense capabilities, and the regulatory policy landscape, all as applied to AI systems and their unique contexts. 
 
-→ Currency in a highly technical, ever-evolving field with mission-critical applications requires anticipating threats; anything slower means playing a hopeless game of catch-up in the AI security arms race.
+These three thematic areas (Engineering Principles, Attack Surface & Defensive Capabilities, and Policy Application At Scale) should inform threat modeling and risk assessment for AIML applications in every organization, at every stage of development. Context matters.
 
-→ Tightening the OODA loop in favor of defenders requires strategic, proactive threat intelligence, threat modeling, & risk assessment.
+**→ Future-Proof AI Systems**
 
-→ By studying real-world applications of key themes in context, we can better understand—and anticipate–the emergent and rapidly-shifting AI threat model.
+Currency in a highly technical, ever-evolving field with mission-critical applications requires anticipating threats; anything slower means playing a hopeless game of catch-up in the AI security arms race.
 
-**Think Like A Security Researcher**
+Tightening the OODA loop in favor of defenders requires strategic, proactive threat intelligence, threat modeling, & risk assessment.
 
-→ Examining AI security via the context/s of Engineering Principles, Attack Surface & Defensive Capabilities, and Application-At-Scale affords savvy practitioners system-level understanding of the AI threat surface. 
+By studying real-world applications of key themes in context, we can better understand—and anticipate–the emergent and rapidly-shifting AI threat model.
 
-→ Pushing the AI security *SOTA* requires the cooperative, interdisciplinary de-siloing of data, security, and DevOps knowledge; applied creatively, tracked scientifically, and shared robustly.
+**→ Think Like A Security Researcher**
 
-**National And Global Security Are At Stake**
+Examining AI security via the context/s of Engineering Principles, Attack Surface & Defensive Capabilities, and Application-At-Scale affords savvy practitioners system-level understanding of the AI threat surface. 
 
-→ The intersections of AI security research, industrial applications, and policy represent a new frontier in international security. To lead in AI innovation, nation-states will need to first lead in AI security.
+Pushing the AI security *SOTA* requires the cooperative, interdisciplinary de-siloing of data, security, and DevOps knowledge; applied creatively, tracked scientifically, and shared robustly.
 
-**Why The Frameworks We Choose Matter**
+**→ National And Global Security Are At Stake**
 
-→ AI security is a constantly changing field, with many facets and nearly as many ways of cataloging & understanding these aspects. The systems we choose to interpret and model these complexities shape how we see the AI ecosystem, which nuances we perceive, and ultimately, the engineering and policy philosophies we bring to the table. 
+The intersections of AI security research, industrial applications, and policy represent a new frontier in international security. 
 
-→ Now, more than ever, a holistic approach to codifying & interpreting the AI threat surface affords the strategic advantage to forward-thinking practitioners.
+To lead in AI innovation, nation-states will need to first lead in AI security.
+
+**→ Why The Frameworks We Choose Matter**
+
+AI security is a constantly changing field, with many facets and nearly as many ways of cataloging & understanding these aspects. The systems we choose to interpret and model these complexities shape how we see the AI ecosystem, which nuances we perceive, and ultimately, the engineering and policy philosophies we bring to the table. 
+
+Now, more than ever, a holistic approach to codifying & interpreting the AI threat surface affords the strategic advantage to forward-thinking practitioners.
 
 -------
 
