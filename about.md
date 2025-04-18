@@ -35,19 +35,19 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 **Technical Focus**
 
-Engineering Principles:
-> * AI-SDL
-> * Mission-Critical AI Systems Engineering
-> * Risk Analysis
-> * Threat Modeling for AI assets
+*Engineering Principles*
+> * *AI-SDL*
+> * *Mission-Critical AI Systems Engineering*
+> * *Risk Analysis*
+> * *Threat Modeling for AI assets*
 
-Attack Surface & Defensive Capabilities (including R&D)
-> * Adversarial Machine Learning
-> * AIMLSecOps
+*Attack Surface & Defensive Capabilities (including R&D)*
+> * *Adversarial Machine Learning*
+> * *AIMLSecOps*
 
-Policy/Application At Scale
-> * Organizational Policy Evaluation, Recommendations & Referrals
-> * Civil/Governmental Policy Analysis & Advocacy
+*Policy/Application At Scale*
+> * *Organizational Policy Evaluation, Recommendations & Referrals*
+> * *Civil/Governmental Policy Analysis & Advocacy*
 
 [Request a meeting >>](https://calendar.app.google/MemzFXVuhz1upGE2A)
 
