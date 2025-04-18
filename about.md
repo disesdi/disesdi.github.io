@@ -4,7 +4,7 @@
 
 -------
 
-# *Angles of Attack: AI Security Intelligence*
+# *Angles of Attack: About*
 
 -------
 
