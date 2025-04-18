@@ -1,6 +1,6 @@
 -------
 
-**[Home](https://anglesofattack.io/) \| [Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Talks](https://anglesofattack.io/talks.html) \| About**
+**[Home](https://anglesofattack.io/) \| [Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Media](https://anglesofattack.io/media.html) \| About**
 
 -------
 
@@ -16,7 +16,7 @@ My name is **ᏗᏎᏍᏗ Disesdi Susanna Cox.** You can call me **Susanna**. I 
 
 -------
 
-![disesdi_susanna](disesdi_susanna.png)
+![disesdi_susanna](susanna_cox.jpeg)
 
 -------
 
