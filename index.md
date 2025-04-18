@@ -4,11 +4,24 @@
 
 -------
 
-# *Angles of Attack: Engineering Mission-Critical AI Systems*
+# Angles of Attack: AI Security Intelligence 
+*AI security analysis for forward looking, systems thinking, research driven insights*
 
 -------
 
-**New** \| **[Resources](#resources)**
+**Mission** \| **[Latest](#latest)** \| **[Resources](#resources)** \| **[Subscribe](https://disesdi.substack.com/subscribe)**
+
+-------
+
+**→ Understand threats to AI systems, quantify risk, design mitigations, & engineer solutions at scale to the highest engineering standards, at the edge of the SOTA.**
+
+**→ Go beyond the headlines** to understand context, think about AI security at a systems level, anticipate AI security threats, and stay ahead of the hype.
+
+**→ Use threat modeling to teach** AI teams how to de-silo expertise, think like hackers, and deploy like defenders.
+
+-------
+
+#### Latest
 
 -------
 
