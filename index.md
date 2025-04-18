@@ -4,8 +4,7 @@
 
 -------
 
-# Angles of Attack: AI Security Intelligence 
-*AI security analysis for forward looking, systems thinking, research driven insights*
+# *Angles of Attack: AI Security Intelligence*
 
 -------
 
@@ -13,11 +12,13 @@
 
 -------
 
-**→ Understand threats to AI systems, quantify risk, design mitigations, & engineer solutions at scale to the highest engineering standards, at the edge of the SOTA.**
+***→ Understand threats*** *to AI systems, quantify risk, design mitigations, & engineer solutions at scale to the highest engineering standards, at the edge of the SOTA.*
 
-**→ Go beyond the headlines** to understand context, think about AI security at a systems level, anticipate AI security threats, and stay ahead of the hype.
+***→ Go beyond the headlines*** *to understand context, think about AI security at a systems level, anticipate AI security threats, and stay ahead of the hype.*
 
-**→ Use threat modeling to teach** AI teams how to de-silo expertise, think like hackers, and deploy like defenders.
+***→ Use threat modeling to teach*** *AI teams how to de-silo expertise, think like hackers, and deploy like defenders.*
+
+***→ Results: AI security analysis for forward looking, systems thinking, research driven insights***
 
 -------
 
