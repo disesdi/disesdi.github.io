@@ -1,6 +1,6 @@
 -------
 
-**[Home](https://anglesofattack.io/) \| Posts \| [Papers](https://anglesofattack.io/papers.html) \| [Talks](https://anglesofattack.io/talks.html) \| [About](https://anglesofattack.io/about.html)**
+**[Home](https://anglesofattack.io/) \| Posts \| [Papers](https://anglesofattack.io/papers.html) \| [Media](https://anglesofattack.io/media.html) \| [About](https://anglesofattack.io/about.html)**
 
 -------
 
