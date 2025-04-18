@@ -27,9 +27,9 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 ### Services
 
-**AI security training** centered around AI threat modeling for Data, Security, C-Suite and investor teams, for diverse use cases including compliance, upskilling, and due diligence.
+> **AI security training** centered around AI threat modeling for Data, Security, C-Suite and investor teams, for diverse use cases including compliance, upskilling, and due diligence.
 
-**Strategic AI security consulting** services including Architecture, Implementation, Research Design, and Product, oriented around three areas of focus: Engineering Principles, Attack Surface & Defensive Capabilities (including R&D), and Policy/Application At Scale.
+> **Strategic AI security consulting** services including Architecture, Implementation, Research Design, and Product, oriented around three areas of focus: Engineering Principles, Attack Surface & Defensive Capabilities (including R&D), and Policy/Application At Scale.
 
 -------
 
@@ -48,6 +48,8 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 > <a href="https://x.com/disesdi" target="_blank" rel="noopener noreferrer">x.com/disesdi</a>
 
 > <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a>
+
+-------
 
 **<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>**
 
