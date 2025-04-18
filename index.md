@@ -8,7 +8,7 @@
 
 -------
 
-**Mission** \| **[Latest](#latest)** \| **[Resources](#resources)** \| **[Subscribe](https://disesdi.substack.com/subscribe)**
+**Mission** \| **[Latest](#latest)** \| **[Resources](#resources)** \| **<a href="https://disesdi.substack.com/subscribe" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
 
