@@ -12,11 +12,11 @@
 
 -------
 
-**The Mission:**
+**Mission**
 
 ***→ Understand threats*** *to AI systems, quantify risk, design mitigations, & engineer solutions at scale to the highest engineering standards, at the edge of the SOTA.*
 
-***→ Go beyond the headlines*** *to understand context, think about AI security at a systems level, anticipate AI security threats, and stay ahead of the hype.*
+***→ Go beyond the surface*** *to grasp context, think about AI security at a systems level, anticipate AI security threats, and stay ahead of the hype.*
 
 ***→ Use threat modeling to teach*** *AI teams how to de-silo expertise, think like hackers, and deploy like defenders.*
 
