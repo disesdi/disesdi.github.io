@@ -26,4 +26,4 @@ How do we know whether our security and robustness requirements for mission-crit
 
 -------
 
-<div align="center">🕷</div>
+<div align="center"><a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">🕷</a></div>
