@@ -67,11 +67,11 @@ Lifecycle-based threat modeling ensures that AI-adapted secure development lifec
 
 To gain a deeper contextual understanding of the true AI threat landscape, it’s necessary to both apply and go beyond the lifecycle by examining AI security applications & modeling threats through the lenses of three key themes:
 
-*1) Mission-Critical AI Engineering (including specialized threat modeling), representing* ***engineering standards & principles;*** 
+* *Mission-Critical AI Engineering (including specialized threat modeling), representing* ***engineering standards & principles;*** 
 
-*2) Adversarial Machine Learning, Red Teaming, AIMLOps, & R&D, representing the* ***attack surface and defensive capabilities;*** *and*
+* *Adversarial Machine Learning, Red Teaming, AIMLOps, & R&D, representing the* ***attack surface and defensive capabilities;*** *and*
 
-*3) AI Policy, both civil and organizational, representing* ***application at scale.***
+* *AI Policy, both civil and organizational, representing* ***application at scale.***
 
 **→ AI Threat Modeling Requires A Purple Team Approach**
 
