@@ -8,7 +8,7 @@
 
 -------
 
-**Bio \| [Services](#services) \| [Contact](#contact-me)** \| **<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Book Time</a>** \| **<a href="https://disesdi.substack.com/subscribe" target="_blank" rel="noopener noreferrer">Subscribe</a>**
+**Bio \| [Services](#services) \| [Contact](#contact)** \| **<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Book Time</a>** \| **<a href="https://disesdi.substack.com/subscribe" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
 
@@ -16,8 +16,7 @@ Susanna Cox is an AI/ML Architect, Security Researcher & AI security patent hold
 
 Susanna provides training in AI security and threat modeling for AI systems to C-suite, security, data, and dev teams, investors, and other stakeholders. As a consulting AI security architect, Susanna brings her experience in AI security R&D, threat modeling, and policy application to theoretical and applied challenges in research and industry.
 
-Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at [disesdi.substack.com](https://disesdi.substack.com/).
-
+Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
 
 -------
 
@@ -33,7 +32,11 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 <a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>
 
+-------
+
 **Technical Focus**
+
+-------
 
 *Engineering Principles*
 > * *AI-SDL*
@@ -53,15 +56,19 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-### Contact me
+### Contact
 
 -------
 
-<a href="mailto:disesdi.susannacox@owasp.org" target="_blank" rel="noopener noreferrer">disesdi.susannacox@owasp.org</a>
+**Email & Social** 
 
--------
+> <a href="mailto:disesdi.susannacox@owasp.org" target="_blank" rel="noopener noreferrer">disesdi.susannacox@owasp.org</a>
 
-<a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi</a> 
+> <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi</a>
+
+> <a href="https://x.com/disesdi" target="_blank" rel="noopener noreferrer">x.com/disesdi</a>
+
+> <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a>
 
 -------
 
@@ -72,6 +79,6 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 **ᏗᎦᏙᎯ:** *Find out which Indigenous nation(s) lands <a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">you occupy here</a>*
 
 -------
-<div align="center"><a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">🕷</a></div>
 
-<div align="center">🕷</div>
+<div align="center"><a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">🕷</a></div>
+
