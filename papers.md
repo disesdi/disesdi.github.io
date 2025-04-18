@@ -4,7 +4,7 @@
 
 -------
 
-# *Angles of Attack: Engineering Mission-Critical AI Systems*
+# *Angles of Attack: AI Security Intelligence*
 
 -------
 
