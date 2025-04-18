@@ -8,7 +8,7 @@
 
 -------
 
-**Bio \| [Services](#services) \| [Contact](#contact-me)** \| [Book Time](https://calendar.app.google/MemzFXVuhz1upGE2A) \| [Subscribe](https://disesdi.substack.com/subscribe)
+**Bio \| [Services](#services) \| [Contact](#contact-me)** \| **<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Book Time</a>** \| **<a href="https://disesdi.substack.com/subscribe" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
 
