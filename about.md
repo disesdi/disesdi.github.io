@@ -62,5 +62,5 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-<div align="center"><a href="https://anglesofattack.io/" target="_blank" rel="noopener noreferrer">🕷</a></div>
+<div align="center"><a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">🕷</a></div>
 
