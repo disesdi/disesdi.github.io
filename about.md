@@ -41,8 +41,6 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-**<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Book Time</a>**
-
 > <a href="mailto:disesdi.susannacox@owasp.org" target="_blank" rel="noopener noreferrer">disesdi.susannacox@owasp.org</a>
 
 > <a href="https://www.linkedin.com/in/disesdi/" target="_blank" rel="noopener noreferrer">in/disesdi</a>
@@ -50,6 +48,8 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 > <a href="https://x.com/disesdi" target="_blank" rel="noopener noreferrer">x.com/disesdi</a>
 
 > <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a>
+
+**<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>**
 
 -------
 
