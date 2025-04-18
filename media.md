@@ -30,4 +30,4 @@ This session equips participants with the methodology and knowledge to proactive
 
 -------
 
-<div align="center">🕷</div>
+<div align="center"><a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">🕷</a></div>
