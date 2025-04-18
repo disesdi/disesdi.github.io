@@ -12,11 +12,11 @@
 
 -------
 
-Susanna Cox is an AI/ML Architect, Security Researcher & AI security patent holder with more than a decade of experience on the bleeding edge of adversarial machine learning and AI/ML security operations. Bringing her passion for aerospace and safety-critical engineering to AI security, Susanna authored the industry’s first AI/MLSecOps paper, adapted game theoretic threat modeling from aerospace & defense to AI systems, and applied aerospace safety-critical design assurance principles to production AI. As part of the OWASP AI Exchange Core Author team, Susanna also contributes to technical advisory for international engineering standards, requirements for the EU AI Act, and policy advisory for AI security stakeholders.
+Susanna Cox is an AI/ML Architect, Security Researcher & AI security patent holder with more than a decade of experience on the bleeding edge of AI security. Applying her passion for aerospace and safety-critical engineering to adversarial machine learning and AI/ML security operations, Susanna authored the industry’s first AI/MLSecOps paper, adapted game theoretic threat modeling from aerospace & defense for AI systems, and applied aerospace design assurance principles to production AI. As part of the OWASP AI Exchange Core Author team, Susanna also contributes to technical advisory for international engineering standards, requirements for the EU AI Act, and policy advisory for AI security stakeholders.
 
-As a consulting AI security architect, Susanna brings her experience in AI security R&D, threat modeling, and policy application to theoretical and applied challenges in industry. Susanna also provides training in AI security and threat modeling for AI systems to C-suite, security, data, and dev teams, investors, and other stakeholders.
+Susanna provides training in AI security and threat modeling for AI systems to C-suite, security, data, and dev teams, investors, and other stakeholders. As a consulting AI security architect, Susanna brings her experience in AI security R&D, threat modeling, and policy application to theoretical and applied challenges in research and industry.
 
-Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at [disesdi.substack.com](https://disesdi.substack.com/).  Susanna's research and writing go beyond the surface to understand context, think about AI security at a systems level, anticipate AI threats, and stay ahead of the hype.
+Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at [disesdi.substack.com](https://disesdi.substack.com/).
 
 
 -------
