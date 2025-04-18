@@ -105,6 +105,8 @@ How do we know whether our security and robustness requirements for mission-crit
 
 → Now, more than ever, a holistic approach to codifying & interpreting the AI threat surface affords the strategic advantage to forward-thinking practitioners.
 
+*[top](https://anglesofattack.io/)*
+
 -------
 
 <div align="center"><a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">🕷</a></div>
