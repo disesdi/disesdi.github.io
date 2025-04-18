@@ -4,7 +4,7 @@
 
 -------
 
-# *Angles of Attack: Engineering Mission-Critical AI Systems*
+# *Angles of Attack: AI Security Intelligence*
 
 -------
 
@@ -30,27 +30,7 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 **Strategic AI security consulting** services including Architecture, Implementation, Research Design, and Product, oriented around three areas of focus: Engineering Principles, Attack Surface & Defensive Capabilities (including R&D), and Policy/Application At Scale.
 
-<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>
-
 -------
-
-**Technical Focus**
-
--------
-
-*Engineering Principles*
-> * *AI-SDL*
-> * *Mission-Critical AI Systems Engineering*
-> * *Risk Analysis*
-> * *Threat Modeling for AI assets*
-
-*Attack Surface & Defensive Capabilities (including R&D)*
-> * *Adversarial Machine Learning*
-> * *AIMLSecOps*
-
-*Policy/Application At Scale*
-> * *Organizational Policy Evaluation, Recommendations & Referrals*
-> * *Civil/Governmental Policy Analysis & Advocacy*
 
 <a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>
 
@@ -59,8 +39,6 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 ### Contact
 
 -------
-
-**Email & Social** 
 
 > <a href="mailto:disesdi.susannacox@owasp.org" target="_blank" rel="noopener noreferrer">disesdi.susannacox@owasp.org</a>
 
