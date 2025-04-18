@@ -26,4 +26,4 @@ A novel AI/machine learning security operations (AI/MLSecOps) architecture, incl
 
 -------
 
-<div align="center">🕷</div>
+<div align="center"><a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">🕷</a></div>
