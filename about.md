@@ -12,7 +12,7 @@
 
 -------
 
-![disesdi_susanna](disesdi.jpg)
+<p style="text-align: center"><img src="https://github.com/disesdi/disesdi.github.io/blob/06ac3e324a6d2b5567405b313af740c2f176319c/disesdi.jpg"></p>
 
 -------
 
