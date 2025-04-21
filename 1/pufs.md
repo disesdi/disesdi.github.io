@@ -6,7 +6,7 @@
 
 -------
 
-### <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 23 October 2022 | **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
+### <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> \| 23 October 2022 \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
 
