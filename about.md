@@ -12,7 +12,7 @@
 
 -------
 
-![disesdi](disesdi.jpg)
+![disesdi](disesdi.png)
 
 -------
 
