@@ -6,7 +6,7 @@
 
 -------
 
-### <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 23 October 2022
+### <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">Susanna Cox</a> | 23 October 2022 | **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
 
@@ -213,4 +213,4 @@ Operating%20Commerical%20UAS%20%28508%29.pdf
 
 -------
 
-<div align="center">🕷</div>
+<div align="center"><a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">🕷</a></div>
