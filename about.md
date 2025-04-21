@@ -12,7 +12,7 @@
 
 -------
 
-![disesdi_susanna](disesdi_susanna_cox.jpg)
+![disesdi_susanna](disesdi.jpg)
 
 -------
 
