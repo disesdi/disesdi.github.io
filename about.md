@@ -18,7 +18,7 @@
 
 **Former** \| *Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO.*
 
-**Analysis** \| and AI security intel at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
+**Analysis** \| *and AI security intel at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.*
 
 
 Native. ᏥᏣᎳᎩ.
