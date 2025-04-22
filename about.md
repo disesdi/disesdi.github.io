@@ -12,13 +12,9 @@
 
 -------
 
-***Current →*** AI Security Intelligence. Consulting Architect. Patent Holder. Policy & Standards Contributor. <a href="https://owaspai.org/" target="_blank" rel="noopener noreferrer">OWASP AI Exchange</a> Core Author Team.
+AI Threat Modeler. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange. Former: Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO. ᏥᏣᎳᎩ.
 
-***Former →*** Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO.
-
-***AI Security Intel →*** Analysis & insights at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
-
-Native. ᏥᏣᎳᎩ.
+AI Security Intel Brief: <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
 
 -------
 
