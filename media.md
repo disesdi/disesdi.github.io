@@ -8,15 +8,7 @@
 
 -------
 
-**Video \| [Slides](#slides)**
-
--------
-
-  <div id="Nitem" class="Nitem">
-         <img id="Nimgitem" class="Nimgitem"  src="https://img.youtube.com/vi/cTbAD9K_FqA/0.jpg"/>
-         <div class="Nspecitem">
-         <a href="http://www.youtube.com/watch?feature=player_embedded&v=cTbAD9K_FqA&t=206s">Threat Modeling in the Age of AI - Threat Modeling Connect Global Meetup November 2024</a>
-    </div> 
+**Videos \| [Past Talks](#past-talks)**
 
 -------
 
@@ -26,7 +18,7 @@
 
 -------
 
-#### Slides
+#### Past Talks
 
 ### *<a href="https://zenodo.org/records/14248926" target="_blank" rel="noopener noreferrer">Threat Modeling in the Age of AI - Threat Modeling Connect Global Meetup November 2024 </a>*
 
