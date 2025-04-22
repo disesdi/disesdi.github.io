@@ -12,7 +12,7 @@
 
 -------
 
-**→ Name \|** Susanna Cox, aka Disesdi
+**→ Name \|** Disesdi Susanna Cox
 
 **→ Current \|** AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange Core Author Team.
 
@@ -51,7 +51,7 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>
+> <a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>
 
 -------
 
