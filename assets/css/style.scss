@@ -10,27 +10,30 @@ body {
   background-color: #ffffff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  // color:#000000;
+  color:#000000;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #1e2a45;
+  color:#000000;
   margin:0 0 20px;
 }
 
 h2 {
-  color: #1e2a45;
+  color:#000000;
 }
 
 h3, h4, h5, h6 {
-  color: #1e2a45;
+  color:#000000;
 }
- 
-// navy gray 36598F 
+
+// ff6ec7 pink <3
+// 9d7bb3 lav <3
+// 363957 blue
+// 9A99AA gray
 
 a {
-  color: #132c63;
+  color: #36598F;
   font-weight: bold;
   text-decoration:none;
 }
@@ -47,7 +50,7 @@ a:hover, a:focus {
 
 a small {
   font-size:11px;
-  color: #132c63;
+  color: #36598F;
   margin-top:-0.3em;
   display:block;
 }
