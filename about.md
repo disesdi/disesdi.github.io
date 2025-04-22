@@ -35,7 +35,7 @@ Native. ᏥᏣᎳᎩ.
 
 Susanna Cox has spent her career on the bleeding edge of AI security. Applying her passion for aerospace and safety-critical engineering to adversarial machine learning and AI/ML security operations, Susanna authored the industry’s first AI/MLSecOps paper, adapted game theoretic threat modeling from aerospace & defense for AI systems, patented defense-grade data poisoning protection for the challenging federated AI attack surface, and applied aerospace design assurance principles to production AI. As part of the OWASP AI Exchange Core Author team, Susanna also contributes to technical advisory for international engineering standards, requirements for the EU AI Act, and policy advisory for AI security stakeholders.
 
-Susanna provides training in AI security and threat modeling for AI systems to C-suite, security & data, teams, investors, and other stakeholders. As a consulting architect, Susanna brings her experience in AI security R&D, threat modeling, and policy application to theoretical and applied challenges in research and industry.
+As a consulting architect, Susanna brings her experience in AI security R&D, threat modeling, and policy application to theoretical and applied challenges in research and industry. Susanna also provides training in AI security and threat modeling for AI systems to C-suite, security & data teams, investors, and other stakeholders. 
 
 Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
 
