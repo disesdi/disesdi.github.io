@@ -12,7 +12,9 @@
 
 -------
 
-AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange. Former: Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO
+AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange. 
+
+Former: Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO.
 
 Native. ᏥᏣᎳᎩ.
 
