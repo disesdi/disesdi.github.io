@@ -45,9 +45,9 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-**→ AI security training** for Data, Security, C-Suite and investor teams
+**→ AI security training** for Data teams, Security teams, C-Suite and Investors
 
-**→ Strategic AI security consulting** for Threat Modeling, Risk Assessment, Attack Surface & Defensive Capabilities (including R&D), and Policy Advocacy.
+**→ Strategic AI security consulting** for Threat Modeling, Risk Assessment, Attack Surface & Defensive Capabilities (including R&D), and Policy Advocacy
 
 **→ R&D** support for design & implementation
 
@@ -67,9 +67,7 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 > <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a>
 
--------
-
-> <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Cox%2C%20Susanna%22&l=list&p=1&s=10&sort=bestmatch" target="_blank" rel="noopener noreferrer">Zenodo</a> \| <a href="https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar </a> \| <a href="https://orcid.org/0009-0003-0568-0236" target="_blank" rel="noopener noreferrer">ORCID </a> 
+<a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Cox%2C%20Susanna%22&l=list&p=1&s=10&sort=bestmatch" target="_blank" rel="noopener noreferrer">Zenodo</a> \| <a href="https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar </a> \| <a href="https://orcid.org/0009-0003-0568-0236" target="_blank" rel="noopener noreferrer">ORCID </a> 
 
 -------
 
