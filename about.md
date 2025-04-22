@@ -38,7 +38,7 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-Services
+### Services
 
 -------
 
@@ -65,10 +65,6 @@ Services
 > <a href="https://x.com/disesdi" target="_blank" rel="noopener noreferrer">x.com/disesdi</a>
 >
 > <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a>
-
--------
-
-<a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Cox%2C%20Susanna%22&l=list&p=1&s=10&sort=bestmatch" target="_blank" rel="noopener noreferrer">Zenodo</a> \| <a href="https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar </a> \| <a href="https://orcid.org/0009-0003-0568-0236" target="_blank" rel="noopener noreferrer">ORCID </a> 
 
 -------
 
