@@ -31,6 +31,8 @@ Native. ᏥᏣᎳᎩ.
 
 ### Bio
 
+-------
+
 Susanna Cox, aka Disesdi, is an AI/ML Architect, Security Researcher & AI security patent holder with more than a decade of experience on the bleeding edge of AI security. Applying her passion for aerospace and safety-critical engineering to adversarial machine learning and AI/ML security operations, Susanna authored the industry’s first AI/MLSecOps paper, adapted game theoretic threat modeling from aerospace & defense for AI systems, and applied aerospace design assurance principles to production AI. As part of the OWASP AI Exchange Core Author team, Susanna also contributes to technical advisory for international engineering standards, requirements for the EU AI Act, and policy advisory for AI security stakeholders.
 
 Susanna provides training in AI security and threat modeling for AI systems to C-suite, security, data, and dev teams, investors, and other stakeholders. As a consulting AI security architect, Susanna brings her experience in AI security R&D, threat modeling, and policy application to theoretical and applied challenges in research and industry.
@@ -42,6 +44,8 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 -------
 
 ### Services
+
+-------
 
 > **AI security training** centered around AI threat modeling for Data, Security, C-Suite and investor teams
 
