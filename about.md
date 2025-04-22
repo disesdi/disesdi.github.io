@@ -8,7 +8,7 @@
 
 -------
 
-**[Bio](#bio)** \| **[Services](#services)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
+**[Bio](#bio)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
 
@@ -38,23 +38,6 @@ Susanna Cox, aka Disesdi, is an AI/ML Architect, Security Researcher & AI securi
 Susanna provides training in AI security and threat modeling for AI systems to C-suite, security, data, and dev teams, investors, and other stakeholders. As a consulting AI security architect, Susanna brings her experience in AI security R&D, threat modeling, and policy application to theoretical and applied challenges in research and industry.
 
 Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
-
-*[top](https://anglesofattack.io/about.html)*
-
--------
-
-### Services
-
--------
-
-> **AI security training** centered around AI threat modeling for Data, Security, C-Suite and investor teams
-
-> **Strategic AI security consulting** oriented around three areas of focus:
-> * Engineering Principles
-> * Attack Surface & Defensive Capabilities (including R&D)
-> * Policy/Application At Scale
-
-> **R&D**, with available support for research design & implementation
 
 -------
 
