@@ -8,7 +8,7 @@
 
 -------
 
-**whoami** \| **[Bio](#bio)** \| **[Services](#services)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
+**About** \| **[Bio](#bio)** \| **[Services](#services)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
 
@@ -49,13 +49,13 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 **→ AI security training** *for Data teams, Security teams, C-Suite and Investors*
 
-**→ Strategic AI security consulting** *Threat Modeling, Risk Assessment, Attack Surface & Defensive Capabilities (including R&D), and Policy Advocacy*
+**→ Strategic AI security consulting** *on Threat Modeling, Risk Assessment, Attack Surface & Defensive Capabilities (including R&D), and Policy Advocacy*
 
 **→ R&D Support** *for design & implementation*
 
 -------
 
-*<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>*
+> <a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>
 
 -------
 
@@ -81,5 +81,5 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-<div align="center"><a href="https://native-land.ca/" target="_blank" rel="noopener noreferrer">🕷</a></div>
+<div align="center"><a href="https://anglesofattack.io/about.html">🕷</a></div>
 
