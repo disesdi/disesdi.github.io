@@ -12,7 +12,7 @@
 
 -------
 
-AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange. 
+AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange Core Author Team. 
 
 Former: Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO.
 
@@ -32,6 +32,8 @@ Susanna provides training in AI security and threat modeling for AI systems to C
 
 Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
 
+*[top](https://anglesofattack.io/about.html)*
+
 -------
 
 ### Services
@@ -43,6 +45,8 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 -------
 
 <a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>
+
+*[top](https://anglesofattack.io/about.html)*
 
 -------
 
@@ -63,6 +67,8 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 -------
 
 <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Cox%2C%20Susanna%22&l=list&p=1&s=10&sort=bestmatch" target="_blank" rel="noopener noreferrer">Zenodo</a> \| <a href="https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar </a> \| <a href="https://orcid.org/0009-0003-0568-0236" target="_blank" rel="noopener noreferrer">ORCID </a> 
+
+*[top](https://anglesofattack.io/about.html)*
 
 -------
 
