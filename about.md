@@ -41,10 +41,6 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-> <a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>
-
--------
-
 ### Services
 
 -------
@@ -61,10 +57,6 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-*[top](https://anglesofattack.io/about.html)*
-
--------
-
 ### Contact
 
 -------
@@ -76,8 +68,6 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 > <a href="https://x.com/disesdi" target="_blank" rel="noopener noreferrer">x.com/disesdi</a>
 
 > <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a>
-
-> <a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Calendar >></a>
 
 -------
 
