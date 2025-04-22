@@ -8,7 +8,13 @@
 
 -------
 
-**[Bio](#bio)** \| **[Services](#services)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Newsletter</a>**
+**About** \| **[Bio](#bio)** \| **[Services](#services)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
+
+-------
+
+AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange. Former: Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO
+
+Native. ᏥᏣᎳᎩ.
 
 -------
 
