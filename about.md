@@ -36,7 +36,7 @@ As a consulting architect, Susanna brings her experience in AI security R&D, thr
 
 Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
 
-*Services*
+**Services:**
 
 > **→ AI security training** *for Data teams, Security teams, C-Suite and Investors*
 >
