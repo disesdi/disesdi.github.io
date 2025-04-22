@@ -39,6 +39,8 @@ As a consulting architect, Susanna brings her experience in AI security R&D, thr
 
 Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
 
+*[top](https://anglesofattack.io/about.html)*
+
 -------
 
 ### Services
@@ -50,6 +52,8 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 **→ Strategic AI security consulting** *Threat Modeling, Risk Assessment, Attack Surface & Defensive Capabilities (including R&D), and Policy Advocacy*
 
 **→ R&D Support** *for design & implementation*
+
+-------
 
 *<a href="https://calendar.app.google/MemzFXVuhz1upGE2A" target="_blank" rel="noopener noreferrer">Request a meeting >></a>*
 
@@ -67,11 +71,9 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 > <a href="https://www.youtube.com/@disesdi" target="_blank" rel="noopener noreferrer">youtube.com/@disesdi</a>
 
-<a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Cox%2C%20Susanna%22&l=list&p=1&s=10&sort=bestmatch" target="_blank" rel="noopener noreferrer">Zenodo</a> \| <a href="https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar </a> \| <a href="https://orcid.org/0009-0003-0568-0236" target="_blank" rel="noopener noreferrer">ORCID </a> 
-
 -------
 
-*[top](https://anglesofattack.io/about.html)*
+<a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Cox%2C%20Susanna%22&l=list&p=1&s=10&sort=bestmatch" target="_blank" rel="noopener noreferrer">Zenodo</a> \| <a href="https://scholar.google.com/citations?hl=en&user=mRCXIV8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar </a> \| <a href="https://orcid.org/0009-0003-0568-0236" target="_blank" rel="noopener noreferrer">ORCID </a> 
 
 -------
 
