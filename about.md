@@ -12,12 +12,11 @@
 
 -------
 
-**Current** \| *AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange Core Author Team.*
+***Current*** → *AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange Core Author Team.*
 
-**Former** \| *Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO.*
+***Former*** → *Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO.*
 
-**Analysis** \| *and AI security intel at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.*
-
+***Analysis*** → *AI security intel at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.*
 
 Native. ᏥᏣᎳᎩ.
 
@@ -37,9 +36,7 @@ As a consulting architect, Susanna brings her experience in AI security R&D, thr
 
 Susanna curates AI security news, intel & insights at [anglesofattack.io](https://disesdi.substack.com/), and a newsletter with AI threat modeling & in-depth analysis at <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
 
--------
-
-### Services:
+*Services*
 
 > **→ AI security training** *for Data teams, Security teams, C-Suite and Investors*
 >
