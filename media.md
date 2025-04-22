@@ -12,7 +12,7 @@
 
 -------
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=cTbAD9K_FqA&t=206s" target="_blank">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cTbAD9K_FqA&t=206s" target="_blank" rel="noopener noreferrer">
  <img src="https://img.youtube.com/vi/cTbAD9K_FqA/0.jpg" alt="Threat Modeling in the Age of AI - TMC Global Meetup November 2024" width="240" height="180" border="0" />
 </a>
 
