@@ -8,7 +8,7 @@
 
 -------
 
-**whoami** \| **[Bio](#bio)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
+**WhoAmI** \| **[Bio](#bio)** \| **[Contact](#contact)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
 
