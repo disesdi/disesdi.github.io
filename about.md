@@ -12,7 +12,14 @@
 
 -------
 
-AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange Core Author Team. Former: Mathematician *→* Red Team Lead *→* AI Security Researcher *→* Data Scientist *→* AI Architect *→* CDO. Native. ᏥᏣᎳᎩ.
+Current: AI Security Intelligence. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange Core Author Team. 
+
+Former: Mathematician *→* Red Team Lead *→* AI Security Researcher *→* Data Scientist *→* AI Architect *→* CDO.
+
+Curating AI security intel at [anglesofattack.io](https://anglesofattack.io/) and <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
+
+
+Native. ᏥᏣᎳᎩ.
 
 -------
 
