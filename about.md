@@ -45,11 +45,11 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-**→ AI security training** *for Data teams, Security teams, C-Suite and Investors*
+> **→ AI security training** *for Data teams, Security teams, C-Suite and Investors*
 
-**→ Strategic AI security consulting** *on Threat Modeling, Risk Assessment, Attack Surface & Defensive Capabilities (including R&D), and Policy Advocacy*
+> **→ Strategic AI security consulting** *on Threat Modeling, Risk Assessment, Attack Surface & Defensive Capabilities (including R&D), and Policy Advocacy*
 
-**→ R&D Support** *for design & implementation*
+> **→ R&D Support** *for design & implementation*
 
 -------
 
