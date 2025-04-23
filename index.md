@@ -8,7 +8,7 @@
 
 -------
 
-**Mission** \| **[Latest](#latest)** \| **[Principles](#principles--applications)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Newsletter</a>**
+**Mission** \| **[Latest](#latest)** \| **[Principles](#principles--applications)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Coming soon: Newsletter</a>**
 
 -------
 
