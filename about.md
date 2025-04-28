@@ -14,7 +14,7 @@
 
 Consulting AI Security Researcher. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange. Ex: Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO.
 
-Coming soon \| AI Security Intel Brief: <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>.
+AI Security Intel Brief: <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>. \| Coming soon 
 
 -------
 
@@ -42,9 +42,9 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-> **→ AI security training** *for Data teams, Security teams, C-Suite and Investors*
->
 > **→ Strategic AI security consulting** *including AI Security Risk Assessment, Strategy, and Policy Advocacy*
+> 
+> **→ AI security training** *for Data teams, Security teams, C-Suite and Investors*
 >
 > **→ R&D Support** *for design & implementation*
 
