@@ -14,7 +14,7 @@
 
 Consulting AI Security Researcher. Patent Holder. Policy & Standards Contributor. OWASP AI Exchange. Ex: Mathematician → Red Team Lead → AI Security Researcher → Data Scientist → AI Architect → CDO.
 
-AI Security Intel Brief: <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a>. \| Coming soon 
+AI Security Intel Brief: <a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">disesdi.substack.com</a> \| Coming soon 
 
 -------
 
