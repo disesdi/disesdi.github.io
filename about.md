@@ -42,11 +42,11 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 -------
 
-> **→ Strategic AI security consulting** *including AI Security Risk Assessment, Strategy, and Policy Advocacy*
-> 
-> **→ AI security training** *for Data teams, Security teams, C-Suite and Investors*
+> **→ Executive AI Security Strategy Coaching \|** *$1,125 / hr one-on-one, in person or virtually, inquire for groups*
 >
-> **→ R&D Support** *for design & implementation*
+> **→ Strategic AI security consulting** *including AI Security Risk Assessment, Strategy, R&D support, and Policy Advocacy*
+> 
+> **→ AI security training** *for Data teams, Security teams, business professionals, C-suite, and investors*
 
 -------
 
