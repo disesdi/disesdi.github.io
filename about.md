@@ -44,9 +44,9 @@ Susanna curates AI security news, intel & insights at [anglesofattack.io](https:
 
 > **→ Executive AI Security Strategy Coaching \|** *$1,125 per hour, one-on-one, in person or virtually. Inquire for group rates.*
 >
-> **→ Strategic AI security consulting** *including AI Security Risk Assessment, Strategy, R&D support, and Policy Advocacy*
+> **→ Strategic AI security consulting** *including AI Security Risk Assessment, Strategy, R&D support, and Policy Advocacy.*
 > 
-> **→ AI security training** *for Data teams, Security teams, business professionals, C-suite, and investors*
+> **→ AI security training** *for Data teams, Security teams, business professionals, C-suite, and investors.*
 
 -------
 
