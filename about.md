@@ -1,10 +1,6 @@
--------
-
 **[Home](https://anglesofattack.io/) \| [Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Media](https://anglesofattack.io/media.html) \| About**
 
--------
-
-# *Angles of Attack: About*
+# About
 
 -------
 
