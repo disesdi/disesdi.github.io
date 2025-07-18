@@ -1,10 +1,6 @@
--------
-
 **[Home](https://anglesofattack.io/) \| [Posts](https://anglesofattack.io/posts.html) \| Papers \| [Media](https://anglesofattack.io/media.html) \| [About](https://anglesofattack.io/about.html)**
 
--------
-
-# *Angles of Attack: AI Security Intelligence*
+# Angles of Attack: AI Security Intelligence
 
 -------
 
