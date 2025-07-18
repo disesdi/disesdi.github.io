@@ -1,7 +1,5 @@
 **[Home](https://anglesofattack.io/) \| [Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Media](https://anglesofattack.io/media.html) \| [About](https://anglesofattack.io/about.html)**
 
--------
-
 # Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting
 
 -------
