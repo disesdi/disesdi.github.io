@@ -2,6 +2,8 @@
 
 # Angles of Attack: AI Security Intelligence
 
+-------
+
 **Mission** \| **[Latest](#latest)** \| **[Principles](#principles--applications)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
 -------
