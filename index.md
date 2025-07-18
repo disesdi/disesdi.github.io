@@ -1,10 +1,6 @@
 **Home \| [Posts](https://anglesofattack.io/posts.html) \| [Papers](https://anglesofattack.io/papers.html) \| [Media](https://anglesofattack.io/media.html) \| [About](https://anglesofattack.io/about.html)**
 
--------
-
 # Angles of Attack: AI Security Intelligence
-
--------
 
 **Mission** \| **[Latest](#latest)** \| **[Principles](#principles--applications)** \| **<a href="https://disesdi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe</a>**
 
